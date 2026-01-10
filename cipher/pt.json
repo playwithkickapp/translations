@@ -1,0 +1,479 @@
+{
+  "lang": "pt",
+  "letters": [
+    {
+      "letter": "A",
+      "order": 1,
+      "questions": [
+        { "question": "Sentimento positivo de satisfação pessoal", "answers": ["alegria","agrado","alento"], "difficulty": "easy" },
+        { "question": "Objeto usado no dia a dia", "answers": ["anel","agenda","almofada"], "difficulty": "easy" },
+        { "question": "Elemento natural presente no ambiente", "answers": ["água","areia","ar"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["andar","ajudar","aprender"], "difficulty": "easy" },
+        { "question": "Parte do corpo humano", "answers": ["abdômen","axila","antebraço"], "difficulty": "easy" },
+        { "question": "Qualidade ou traço de personalidade", "answers": ["atenção","amizade","audácia"], "difficulty": "easy" },
+        { "question": "Lugar usado para atividades humanas", "answers": ["auditório","arquivo","atelier"], "difficulty": "easy" },
+        { "question": "Estado emocional negativo", "answers": ["angústia","apatia","aflição"], "difficulty": "easy" },
+        { "question": "Alimento ou ingrediente comum", "answers": ["arroz","açúcar","azeite"], "difficulty": "easy" },
+        { "question": "Evento ou acontecimento", "answers": ["acidente","aniversário","assembleia"], "difficulty": "easy" },
+
+        { "question": "Processo de obter conhecimento", "answers": ["aprendizagem","assimilação","análise"], "difficulty": "medium" },
+        { "question": "Forma de organização ou método", "answers": ["arranjo","arquitetura","articulação"], "difficulty": "medium" },
+        { "question": "Interação entre pessoas ou grupos", "answers": ["aliança","aproximação","associação"], "difficulty": "medium" },
+        { "question": "Mudança gradual ao longo do tempo", "answers": ["adaptação","ajuste","alteração"], "difficulty": "medium" },
+        { "question": "Ação ligada à tomada de decisão", "answers": ["avaliação","apreciação","arbitragem"], "difficulty": "medium" },
+        { "question": "Gestão ou condução de atividades", "answers": ["administração","aplicação","alocação"], "difficulty": "medium" },
+        { "question": "Forma de comunicação estruturada", "answers": ["argumentação","apresentação","articulação"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação intencional", "answers": ["alcance","atingimento","aquisição"], "difficulty": "medium" },
+        { "question": "Estado ligado à motivação pessoal", "answers": ["ambição","aspiração","anseio"], "difficulty": "medium" },
+        { "question": "Relação entre causa e efeito", "answers": ["associação","atribuição","articulação"], "difficulty": "medium" },
+
+        { "question": "Estrutura abstrata usada para interpretar a realidade", "answers": ["abstração","arcabouço","axioma"], "difficulty": "hard" },
+        { "question": "Capacidade interna que orienta escolhas", "answers": ["autonomia","autocontrole","autodeterminação"], "difficulty": "hard" },
+        { "question": "Condição que sustenta a continuidade de algo", "answers": ["amparo","ancoragem","autossuficiência"], "difficulty": "hard" },
+        { "question": "Critério usado para julgar coerência ou valor", "answers": ["adequação","autenticidade","aceitabilidade"], "difficulty": "hard" },
+        { "question": "Força abstrata que impulsiona transformações", "answers": ["agência","ativação","alavancagem"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "B",
+      "order": 2,
+      "questions": [
+        { "question": "Sentimento positivo relacionado ao bem-estar", "answers": ["bemestar","brandura","bonança"], "difficulty": "easy" },
+        { "question": "Objeto comum no cotidiano", "answers": ["bola","balde","botão"], "difficulty": "easy" },
+        { "question": "Elemento natural ou ambiental", "answers": ["brisa","barro","bosque"], "difficulty": "easy" },
+        { "question": "Ação física realizada por pessoas", "answers": ["brincar","buscar","bater"], "difficulty": "easy" },
+        { "question": "Característica de comportamento humano", "answers": ["bondade","bravura","benevolência"], "difficulty": "easy" },
+        { "question": "Forma de comunicação verbal ou escrita", "answers": ["batepapo","boato","bilhete"], "difficulty": "medium" },
+        { "question": "Processo de melhoria ou avanço", "answers": ["benefício","boost","balanço"], "difficulty": "medium" },
+        { "question": "Estado mental ou psicológico", "answers": ["bloqueio","bemquerença","brio"], "difficulty": "medium" },
+        { "question": "Organização ou estrutura social", "answers": ["burocracia","base","bloco"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação planejada", "answers": ["benefício","bonificação","balanço"], "difficulty": "medium" },
+        { "question": "Estrutura conceitual de sustentação", "answers": ["baseamento","baliza","baluarte"], "difficulty": "hard" },
+        { "question": "Força abstrata que orienta decisões", "answers": ["bias","bússola","balizamento"], "difficulty": "hard" },
+        { "question": "Estado de estabilidade duradoura", "answers": ["balanço","blindagem","blindagem"], "difficulty": "hard" },
+        { "question": "Critério usado para julgar condutas", "answers": ["bomuso","boa-fé","benevolência"], "difficulty": "hard" },
+        { "question": "Elemento que impulsiona transformações", "answers": ["baseline","bifurcação","boosting"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "C",
+      "order": 3,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["calma","confiança","contentamento"], "difficulty": "easy" },
+        { "question": "Objeto usado no dia a dia", "answers": ["cadeira","caderno","copo"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["chuva","campo","caverna"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["caminhar","cozinhar","cuidar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade humana", "answers": ["coragem","cautela","cordialidade"], "difficulty": "easy" },
+        { "question": "Forma de interação social", "answers": ["conversa","contato","cooperação"], "difficulty": "medium" },
+        { "question": "Processo de organização ou ordenação", "answers": ["classificação","catalogação","configuração"], "difficulty": "medium" },
+        { "question": "Estado ligado à compreensão mental", "answers": ["clareza","consciência","convicção"], "difficulty": "medium" },
+        { "question": "Ação ligada à tomada de decisões", "answers": ["cálculo","consideração","conclusão"], "difficulty": "medium" },
+        { "question": "Relação entre elementos distintos", "answers": ["conexão","correlação","convergência"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["conceito","construto","categoria"], "difficulty": "hard" },
+        { "question": "Capacidade interna de direcionamento", "answers": ["critério","consistência","convicção"], "difficulty": "hard" },
+        { "question": "Condição necessária para permanência", "answers": ["continuidade","coesão","coerência"], "difficulty": "hard" },
+        { "question": "Base para avaliação racional", "answers": ["coerência","congruência","conformidade"], "difficulty": "hard" },
+        { "question": "Força que impulsiona mudanças sistêmicas", "answers": ["catalisador","causalidade","combinação"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "D",
+      "order": 4,
+      "questions": [
+        { "question": "Estado emocional negativo", "answers": ["desânimo","desgosto","desconforto"], "difficulty": "easy" },
+        { "question": "Objeto ou item de uso cotidiano", "answers": ["dado","desk","detergente"], "difficulty": "easy" },
+        { "question": "Elemento natural observável", "answers": ["deserto","delta","duna"], "difficulty": "easy" },
+        { "question": "Ação realizada por pessoas", "answers": ["decidir","desenhar","dirigir"], "difficulty": "easy" },
+        { "question": "Traço de caráter ou atitude", "answers": ["disciplina","dedicação","docilidade"], "difficulty": "easy" },
+        { "question": "Processo de análise ou reflexão", "answers": ["deliberação","diagnóstico","dedução"], "difficulty": "medium" },
+        { "question": "Estado ligado ao funcionamento mental", "answers": ["discernimento","dúvida","determinação"], "difficulty": "medium" },
+        { "question": "Organização ou distribuição de recursos", "answers": ["divisão","destinação","dosagem"], "difficulty": "medium" },
+        { "question": "Resultado de uma escolha ou ação", "answers": ["desfecho","decorrência","derivação"], "difficulty": "medium" },
+        { "question": "Interação entre partes distintas", "answers": ["dependência","dinâmica","deslocamento"], "difficulty": "medium" },
+        { "question": "Estrutura conceitual abstrata", "answers": ["domínio","dimensão","dialética"], "difficulty": "hard" },
+        { "question": "Força interna que orienta condutas", "answers": ["diretriz","determinação","disposição"], "difficulty": "hard" },
+        { "question": "Condição para estabilidade prolongada", "answers": ["durabilidade","densidade","desempenho"], "difficulty": "hard" },
+        { "question": "Critério usado para avaliar validade", "answers": ["distinção","delimitação","discernimento"], "difficulty": "hard" },
+        { "question": "Fator abstrato de transformação", "answers": ["disrupção","desencadeamento","direcionamento"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "E",
+      "order": 5,
+      "questions": [
+        { "question": "Sentimento positivo relacionado à satisfação", "answers": ["entusiasmo","esperança","empolgação"], "difficulty": "easy" },
+        { "question": "Objeto comum do cotidiano", "answers": ["escada","estojo","espelho"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["energia","erva","estrela"], "difficulty": "easy" },
+        { "question": "Ação realizada com frequência", "answers": ["estudar","escrever","escutar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade", "answers": ["empatia","equilíbrio","ética"], "difficulty": "easy" },
+        { "question": "Forma de comunicação ou expressão", "answers": ["explicação","exposição","elogio"], "difficulty": "medium" },
+        { "question": "Processo de mudança ou ajuste", "answers": ["evolução","expansão","estabilização"], "difficulty": "medium" },
+        { "question": "Estado mental ou cognitivo", "answers": ["entendimento","expectativa","esclarecimento"], "difficulty": "medium" },
+        { "question": "Organização de elementos distintos", "answers": ["estrutura","esquema","encadeamento"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação planejada", "answers": ["efeito","execução","entrega"], "difficulty": "medium" },
+        { "question": "Base abstrata para interpretação", "answers": ["epistemologia","essência","entidade"], "difficulty": "hard" },
+        { "question": "Capacidade interna de orientação", "answers": ["equidade","equanimidade","excelência"], "difficulty": "hard" },
+        { "question": "Condição que sustenta continuidade", "answers": ["estabilidade","eficiência","equilíbrio"], "difficulty": "hard" },
+        { "question": "Critério para avaliação racional", "answers": ["evidência","exatidão","equivalência"], "difficulty": "hard" },
+        { "question": "Força abstrata de transformação", "answers": ["emergência","externalidade","engajamento"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "F",
+      "order": 6,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["felicidade","firmeza","frustração"], "difficulty": "easy" },
+        { "question": "Objeto usado no dia a dia", "answers": ["faca","fone","frasco"], "difficulty": "easy" },
+        { "question": "Elemento natural observável", "answers": ["fogo","folha","floresta"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["falar","focar","finalizar"], "difficulty": "easy" },
+        { "question": "Traço de caráter humano", "answers": ["franqueza","flexibilidade","fidelidade"], "difficulty": "easy" },
+        { "question": "Forma de interação social", "answers": ["feedback","favorecimento","facilitação"], "difficulty": "medium" },
+        { "question": "Processo de organização funcional", "answers": ["formatação","filtragem","focalização"], "difficulty": "medium" },
+        { "question": "Estado ligado ao desempenho", "answers": ["fluidez","foco","funcionalidade"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação ou esforço", "answers": ["fruto","finalidade","feito"], "difficulty": "medium" },
+        { "question": "Relação entre partes de um sistema", "answers": ["fluxo","feedbackloop","funcionamento"], "difficulty": "medium" },
+        { "question": "Estrutura conceitual abstrata", "answers": ["fundamento","framework","formalismo"], "difficulty": "hard" },
+        { "question": "Força interna orientadora", "answers": ["fator","firmeza","finalismo"], "difficulty": "hard" },
+        { "question": "Condição de sustentação contínua", "answers": ["fortalecimento","fixação","funcionalidade"], "difficulty": "hard" },
+        { "question": "Critério de avaliação estrutural", "answers": ["fidelidade","factualidade","formalidade"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de mudança", "answers": ["fricção","força","flexão"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "G",
+      "order": 7,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["gratidão","gosto","gana"], "difficulty": "easy" },
+        { "question": "Objeto de uso cotidiano", "answers": ["garrafa","gaveta","guarda"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["grama","geleira","golfo"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["ganhar","guardar","guiar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade", "answers": ["gentileza","garra","generosidade"], "difficulty": "easy" },
+        { "question": "Forma de organização ou controle", "answers": ["gestão","governança","gerenciamento"], "difficulty": "medium" },
+        { "question": "Processo de crescimento ou avanço", "answers": ["ganho","graduação","germinação"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à compreensão", "answers": ["generalização","grasp","guia"], "difficulty": "medium" },
+        { "question": "Interação entre partes ou agentes", "answers": ["grupo","governo","governabilidade"], "difficulty": "medium" },
+        { "question": "Resultado coletivo de ações", "answers": ["ganho","glória","gratificação"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de organização", "answers": ["governança","gramática","geometria"], "difficulty": "hard" },
+        { "question": "Força orientadora de decisões", "answers": ["guia","garantia","gravidade"], "difficulty": "hard" },
+        { "question": "Condição de estabilidade sistêmica", "answers": ["governabilidade","garantia","gradiente"], "difficulty": "hard" },
+        { "question": "Critério para julgamento conceitual", "answers": ["generalidade","genuinidade","graduação"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["gatilho","gênese","globalização"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "H",
+      "order": 8,
+      "questions": [
+        { "question": "Sentimento positivo relacionado à satisfação pessoal", "answers": ["harmonia","honra","humanidade"], "difficulty": "easy" },
+        { "question": "Objeto ou item de uso cotidiano", "answers": ["hotel","hidrante","halter"], "difficulty": "easy" },
+        { "question": "Elemento ligado ao corpo humano", "answers": ["hálito","humor","hidratação"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["habitar","higienizar","honrar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade ou valor humano", "answers": ["humildade","honestidade","heroísmo"], "difficulty": "easy" },
+        { "question": "Processo de melhoria ou auxílio", "answers": ["habilitação","harmonização","humanização"], "difficulty": "medium" },
+        { "question": "Estado mental ou psicológico", "answers": ["hesitação","hiperfoco","homeostase"], "difficulty": "medium" },
+        { "question": "Forma de organização ou estrutura", "answers": ["hierarquia","holarquia","hibridismo"], "difficulty": "medium" },
+        { "question": "Interação social ou coletiva", "answers": ["hospitalidade","harmonização","heterogeneidade"], "difficulty": "medium" },
+        { "question": "Resultado de um processo contínuo", "answers": ["habituação","historicidade","homogeneização"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de compreensão", "answers": ["holismo","heurística","hipótese"], "difficulty": "hard" },
+        { "question": "Força interna que orienta decisões", "answers": ["honradez","humanismo","honradez"], "difficulty": "hard" },
+        { "question": "Condição necessária para equilíbrio duradouro", "answers": ["homeostase","harmonicidade","habitabilidade"], "difficulty": "hard" },
+        { "question": "Critério para avaliação conceitual", "answers": ["historicidade","homologia","heteronomia"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação social", "answers": ["humanização","historicização","hibridação"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "I",
+      "order": 9,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["inspiração","interesse","irritação"], "difficulty": "easy" },
+        { "question": "Objeto comum no cotidiano", "answers": ["imã","interruptor","impressora"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["ilha","inseto","icebergue"], "difficulty": "easy" },
+        { "question": "Ação realizada por pessoas", "answers": ["imaginar","investigar","iniciar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade", "answers": ["integridade","iniciativa","intuição"], "difficulty": "easy" },
+        { "question": "Processo de compreensão ou análise", "answers": ["interpretação","inferência","investigação"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à cognição", "answers": ["insight","intencionalidade","imaginação"], "difficulty": "medium" },
+        { "question": "Forma de organização ou método", "answers": ["integração","interligação","iteração"], "difficulty": "medium" },
+        { "question": "Interação entre partes distintas", "answers": ["interdependência","interação","interface"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação planejada", "answers": ["impacto","implementação","incorporação"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["ideologia","intelecto","imagética"], "difficulty": "hard" },
+        { "question": "Força interna orientadora de escolhas", "answers": ["impulso","intencionalidade","inspiração"], "difficulty": "hard" },
+        { "question": "Condição para continuidade sistêmica", "answers": ["interoperabilidade","inteireza","integridade"], "difficulty": "hard" },
+        { "question": "Critério usado para avaliação racional", "answers": ["isenção","imparcialidade","inteligibilidade"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["inovação","incidência","inflexão"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "J",
+      "order": 10,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["júbilo","justiça","jovialidade"], "difficulty": "easy" },
+        { "question": "Objeto ou item do cotidiano", "answers": ["janela","joia","jarra"], "difficulty": "easy" },
+        { "question": "Elemento relacionado ao corpo humano", "answers": ["joelho","jugular","junta"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["jogar","julgar","justificar"], "difficulty": "easy" },
+        { "question": "Traço de caráter ou valor humano", "answers": ["justeza","justiça","jovialidade"], "difficulty": "easy" },
+        { "question": "Processo de avaliação ou decisão", "answers": ["julgamento","justificação","jurisdição"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à avaliação", "answers": ["juízo","julgabilidade","justificação"], "difficulty": "medium" },
+        { "question": "Forma de organização normativa", "answers": ["jurisprudência","jurisdição","justaposição"], "difficulty": "medium" },
+        { "question": "Interação social regulada por regras", "answers": ["justiça","juramento","jurisdição"], "difficulty": "medium" },
+        { "question": "Resultado de um processo avaliativo", "answers": ["julgado","justificativa","juízo"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata normativa", "answers": ["justiça","jurisprudência","juridicidade"], "difficulty": "hard" },
+        { "question": "Força interna que orienta escolhas éticas", "answers": ["justeza","justiça","juízo"], "difficulty": "hard" },
+        { "question": "Condição para legitimidade de decisões", "answers": ["justificabilidade","juridicidade","justeza"], "difficulty": "hard" },
+        { "question": "Critério para avaliação moral", "answers": ["justiça","justeza","justificabilidade"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de ordenação social", "answers": ["jurisdição","justaposição","justificação"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "K",
+      "order": 11,
+      "questions": [
+        { "question": "Molho de tomate usado como condimento", "answers": ["ketchup","ketsup","catsup"], "difficulty": "easy" },
+        { "question": "Esporte de combate de origem oriental", "answers": ["karatê","kungfu","kendo"], "difficulty": "easy" },
+        { "question": "Unidade usada em artes marciais", "answers": ["kata","kihon","kumite"], "difficulty": "easy" },
+        { "question": "Peça de roupa tradicional japonesa", "answers": ["kimono","kosode","yukata"], "difficulty": "easy" },
+        { "question": "Objeto usado em esportes", "answers": ["kayak","kart","kettlebell"], "difficulty": "easy" },
+        { "question": "Conceito ligado a artes marciais", "answers": ["kiai","keiko","kuzushi"], "difficulty": "medium" },
+        { "question": "Elemento cultural de origem japonesa", "answers": ["kanji","katakana","hiragana"], "difficulty": "medium" },
+        { "question": "Modalidade esportiva motorizada", "answers": ["kartismo","karting","kartódromo"], "difficulty": "medium" },
+        { "question": "Processo técnico ligado a treinamento físico", "answers": ["kinesiologia","kinestesia","kinesioterapia"], "difficulty": "medium" },
+        { "question": "Sistema de classificação ou graduação", "answers": ["kyu","kibbutz","knowhow"], "difficulty": "medium" },
+        { "question": "Estrutura conceitual de movimento corporal", "answers": ["kinesiologia","kinemática","kinética"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de domínio técnico", "answers": ["knowhow","keynote","framework"], "difficulty": "hard" },
+        { "question": "Base teórica ligada ao movimento", "answers": ["kinética","kinemática","kinesiologia"], "difficulty": "hard" },
+        { "question": "Princípio abstrato de treinamento", "answers": ["kuzushi","kihon","keiko"], "difficulty": "hard" },
+        { "question": "Estrutura simbólica de linguagem oriental", "answers": ["kanji","katakana","hiragana"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "L",
+      "order": 12,
+      "questions": [
+        { "question": "Sentimento positivo ou estado emocional", "answers": ["leveza","lucidez","liberdade"], "difficulty": "easy" },
+        { "question": "Objeto comum no cotidiano", "answers": ["lápis","lâmpada","livro"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["lago","lua","litoral"], "difficulty": "easy" },
+        { "question": "Ação realizada por pessoas", "answers": ["ler","limpar","levar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade", "answers": ["lealdade","liderança","lucidez"], "difficulty": "easy" },
+        { "question": "Forma de comunicação ou expressão", "answers": ["linguagem","locução","leitura"], "difficulty": "medium" },
+        { "question": "Processo de organização ou ordem", "answers": ["listagem","linearização","logística"], "difficulty": "medium" },
+        { "question": "Estado ligado ao raciocínio", "answers": ["lógica","lucidez","linearidade"], "difficulty": "medium" },
+        { "question": "Interação entre pessoas ou grupos", "answers": ["ligação","laço","liderança"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação planejada", "answers": ["lucro","legado","liquidação"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["lógica","linguagem","leis"], "difficulty": "hard" },
+        { "question": "Força orientadora de decisões", "answers": ["liderança","legitimidade","lastro"], "difficulty": "hard" },
+        { "question": "Condição para estabilidade contínua", "answers": ["lastro","longevidade","linearidade"], "difficulty": "hard" },
+        { "question": "Critério usado para avaliação racional", "answers": ["legitimidade","lógica","lisura"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["limiar","alavancagem","liberação"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "M",
+      "order": 13,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["motivação","medo","melancolia"], "difficulty": "easy" },
+        { "question": "Objeto usado no dia a dia", "answers": ["mesa","mochila","monitor"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["montanha","mar","mata"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["mover","medir","montar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade humana", "answers": ["modéstia","maturidade","motivação"], "difficulty": "easy" },
+        { "question": "Processo de organização ou método", "answers": ["modelagem","mapeamento","mediação"], "difficulty": "medium" },
+        { "question": "Estado ligado à cognição", "answers": ["memória","mentalidade","motivação"], "difficulty": "medium" },
+        { "question": "Interação social estruturada", "answers": ["mediação","mobilização","manutenção"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação intencional", "answers": ["melhoria","mudança","materialização"], "difficulty": "medium" },
+        { "question": "Relação entre partes de um sistema", "answers": ["mecanismo","mediação","movimento"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["modelo","matriz","metodologia"], "difficulty": "hard" },
+        { "question": "Força interna que orienta escolhas", "answers": ["motivação","missão","mentalidade"], "difficulty": "hard" },
+        { "question": "Condição necessária para continuidade", "answers": ["manutenção","maturidade","mutabilidade"], "difficulty": "hard" },
+        { "question": "Critério para avaliação conceitual", "answers": ["mérito","medida","moderação"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["mudança","mobilização","metamorfose"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "N",
+      "order": 14,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["nostalgia","nervosismo","neutralidade"], "difficulty": "easy" },
+        { "question": "Objeto ou item de uso cotidiano", "answers": ["navalha","notebook","necessaire"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["neblina","nuvem","neve"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["nadar","navegar","negociar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade ou atitude", "answers": ["nobreza","neutralidade","novidade"], "difficulty": "easy" },
+        { "question": "Processo de análise ou avaliação", "answers": ["notação","normalização","negociação"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à cognição", "answers": ["noção","nitidez","neutralidade"], "difficulty": "medium" },
+        { "question": "Forma de organização ou estrutura", "answers": ["nível","nó","network"], "difficulty": "medium" },
+        { "question": "Interação entre partes ou agentes", "answers": ["negociação","networking","nexo"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação planejada", "answers": ["novidade","normalidade","notoriedade"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["narrativa","norma","noção"], "difficulty": "hard" },
+        { "question": "Força interna que orienta decisões", "answers": ["necessidade","norte","negatividade"], "difficulty": "hard" },
+        { "question": "Condição para estabilidade contínua", "answers": ["normalidade","neutralidade","nivelamento"], "difficulty": "hard" },
+        { "question": "Critério usado para avaliação racional", "answers": ["normatividade","neutralidade","necessidade"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["novação","nucleação","negociação"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "O",
+      "order": 15,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["otimismo","orgulho","opressão"], "difficulty": "easy" },
+        { "question": "Objeto comum no cotidiano", "answers": ["óculos","organizador","ombrelone"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["oceano","outono","orvalho"], "difficulty": "easy" },
+        { "question": "Ação realizada por pessoas", "answers": ["observar","organizar","operar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade ou atitude", "answers": ["ousadia","objetividade","ordem"], "difficulty": "easy" },
+        { "question": "Processo de escolha ou decisão", "answers": ["opção","ordenamento","orçamentação"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à percepção", "answers": ["opinião","objetividade","observação"], "difficulty": "medium" },
+        { "question": "Forma de organização estrutural", "answers": ["ordem","organograma","orquestração"], "difficulty": "medium" },
+        { "question": "Interação entre elementos distintos", "answers": ["oposição","organização","orquestração"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação intencional", "answers": ["otimização","obtenção","outorga"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de compreensão", "answers": ["ontologia","objetividade","ordenação"], "difficulty": "hard" },
+        { "question": "Força interna orientadora de escolhas", "answers": ["objetivo","obsessão","orientação"], "difficulty": "hard" },
+        { "question": "Condição necessária para continuidade", "answers": ["ordem","organização","operacionalidade"], "difficulty": "hard" },
+        { "question": "Critério para avaliação conceitual", "answers": ["objetividade","originalidade","observância"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["oscilação","otimização","orquestração"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "P",
+      "order": 16,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["prazer","paz","pânico"], "difficulty": "easy" },
+        { "question": "Objeto usado no dia a dia", "answers": ["papel","panela","pulseira"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["pedra","planície","pântano"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["pensar","planejar","produzir"], "difficulty": "easy" },
+        { "question": "Traço de personalidade humana", "answers": ["prudência","persistência","proatividade"], "difficulty": "easy" },
+        { "question": "Processo de organização ou método", "answers": ["planejamento","priorização","padronização"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à cognição", "answers": ["percepção","perspectiva","ponderação"], "difficulty": "medium" },
+        { "question": "Interação social estruturada", "answers": ["parceria","participação","persuasão"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação planejada", "answers": ["progresso","produto","projeção"], "difficulty": "medium" },
+        { "question": "Relação entre partes de um sistema", "answers": ["processo","proporção","padrão"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["paradigma","princípio","premissa"], "difficulty": "hard" },
+        { "question": "Força interna que orienta escolhas", "answers": ["propósito","prioridade","pressuposto"], "difficulty": "hard" },
+        { "question": "Condição necessária para continuidade", "answers": ["permanência","persistência","previsibilidade"], "difficulty": "hard" },
+        { "question": "Critério usado para avaliação racional", "answers": ["proporcionalidade","precisão","pertinência"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["progresso","propagação","polarização"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Q",
+      "order": 17,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["quietude","querência","quimera"], "difficulty": "easy" },
+        { "question": "Objeto ou item de uso cotidiano", "answers": ["quadro","queijeira","quinquilharia"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["quartzo","quintal","quasar"], "difficulty": "easy" },
+        { "question": "Ação realizada por pessoas", "answers": ["questionar","quebrar","quitar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade ou atitude", "answers": ["quietismo","qualidade","quixotismo"], "difficulty": "easy" },
+        { "question": "Processo de avaliação ou análise", "answers": ["qualificação","quantificação","questionamento"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à percepção", "answers": ["clareza","quietude","quiescência"], "difficulty": "medium" },
+        { "question": "Forma de organização ou estrutura", "answers": ["quadro","quadrante","quórum"], "difficulty": "medium" },
+        { "question": "Interação entre partes ou agentes", "answers": ["convergência","coordenação","química"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação planejada", "answers": ["quitação","qualidade","quantidade"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["qualidade","quantum","quadroconceitual"], "difficulty": "hard" },
+        { "question": "Força interna que orienta escolhas", "answers": ["querer","querência","questionamento"], "difficulty": "hard" },
+        { "question": "Condição necessária para continuidade", "answers": ["quiescência","qualidade","quietude"], "difficulty": "hard" },
+        { "question": "Critério usado para avaliação racional", "answers": ["qualificação","quantificação","qualidade"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["ruptura","questionamento","quebra"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "R",
+      "order": 18,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["resiliência","raiva","relevo"], "difficulty": "easy" },
+        { "question": "Objeto comum no cotidiano", "answers": ["relógio","rede","registro"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["rio","rocha","relâmpago"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["refletir","resolver","reagir"], "difficulty": "easy" },
+        { "question": "Traço de personalidade humana", "answers": ["responsabilidade","retidão","reserva"], "difficulty": "easy" },
+        { "question": "Processo de organização ou método", "answers": ["revisão","reordenação","reconfiguração"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à cognição", "answers": ["racionalidade","reflexão","retenção"], "difficulty": "medium" },
+        { "question": "Interação social estruturada", "answers": ["relação","reciprocidade","resposta"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação intencional", "answers": ["resultado","retorno","realização"], "difficulty": "medium" },
+        { "question": "Relação entre partes de um sistema", "answers": ["regulação","retroalimentação","resiliência"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["referencial","racionalismo","representação"], "difficulty": "hard" },
+        { "question": "Força interna que orienta escolhas", "answers": ["razão","responsabilidade","resolução"], "difficulty": "hard" },
+        { "question": "Condição necessária para continuidade", "answers": ["robustez","regularidade","resistência"], "difficulty": "hard" },
+        { "question": "Critério usado para avaliação racional", "answers": ["relevância","rigor","racionalidade"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["ruptura","reorganização","reforma"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "S",
+      "order": 19,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["satisfação","serenidade","saudade"], "difficulty": "easy" },
+        { "question": "Objeto usado no dia a dia", "answers": ["sapato","sofá","sacola"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["sol","savana","semente"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["sentir","saber","superar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade ou atitude", "answers": ["sinceridade","sobriedade","sensatez"], "difficulty": "easy" },
+        { "question": "Processo de organização ou método", "answers": ["sistematização","segmentação","simplificação"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à cognição", "answers": ["sabedoria","sensibilidade","segurança"], "difficulty": "medium" },
+        { "question": "Interação social estruturada", "answers": ["socialização","solidariedade","sinergia"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação planejada", "answers": ["sucesso","síntese","solução"], "difficulty": "medium" },
+        { "question": "Relação entre partes de um sistema", "answers": ["sintonia","sincronização","subsistema"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["sistema","síntese","significado"], "difficulty": "hard" },
+        { "question": "Força interna que orienta escolhas", "answers": ["sentido","senso","significado"], "difficulty": "hard" },
+        { "question": "Condição necessária para continuidade", "answers": ["sustentabilidade","solidez","estabilidade"], "difficulty": "hard" },
+        { "question": "Critério usado para avaliação racional", "answers": ["solidez","sensatez","suficiência"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["superação","subversão","síntese"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "T",
+      "order": 20,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["tranquilidade","ternura","tensão"], "difficulty": "easy" },
+        { "question": "Objeto de uso cotidiano", "answers": ["telefone","toalha","tesoura"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["terra","tempestade","tundra"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["trabalhar","tentar","transformar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade ou atitude", "answers": ["tolerância","tenacidade","transparência"], "difficulty": "easy" },
+        { "question": "Processo de organização ou método", "answers": ["triagem","tabulação","teorização"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à cognição", "answers": ["tomada","tendência","transição"], "difficulty": "medium" },
+        { "question": "Interação social estruturada", "answers": ["troca","tratativa","trégua"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação planejada", "answers": ["transferência","tradução","traçado"], "difficulty": "medium" },
+        { "question": "Relação entre partes de um sistema", "answers": ["teia","trânsito","trajetória"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["teoria","tese","tipologia"], "difficulty": "hard" },
+        { "question": "Força interna que orienta escolhas", "answers": ["tendência","teleologia","tesão"], "difficulty": "hard" },
+        { "question": "Condição necessária para continuidade", "answers": ["tenacidade","tradição","transmissão"], "difficulty": "hard" },
+        { "question": "Critério usado para avaliação racional", "answers": ["transparência","testabilidade","temporalidade"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["transição","transcendência","turbulência"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "U",
+      "order": 21,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["união","urgência","ufania"], "difficulty": "easy" },
+        { "question": "Objeto ou item do cotidiano", "answers": ["uniforme","utensílio","urna"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["umidade","urze","urânio"], "difficulty": "easy" },
+        { "question": "Ação realizada por pessoas", "answers": ["usar","unir","utilizar"], "difficulty": "easy" },
+        { "question": "Traço de personalidade ou atitude", "answers": ["urbanidade","unicidade","utilidade"], "difficulty": "easy" },
+        { "question": "Processo de organização ou método", "answers": ["uniformização","unificação","utilização"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à cognição", "answers": ["uso","urgência","unidade"], "difficulty": "medium" },
+        { "question": "Interação entre partes ou agentes", "answers": ["união","uso","uníssono"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação planejada", "answers": ["utilidade","usufruto","unificação"], "difficulty": "medium" },
+        { "question": "Relação entre partes de um sistema", "answers": ["unidade","uniformidade","utilização"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["universalidade","unidade","utopia"], "difficulty": "hard" },
+        { "question": "Força interna que orienta escolhas", "answers": ["urgência","utilidade","utopia"], "difficulty": "hard" },
+        { "question": "Condição necessária para continuidade", "answers": ["uniformidade","unidade","uso"], "difficulty": "hard" },
+        { "question": "Critério usado para avaliação racional", "answers": ["utilidade","universalidade","unicidade"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["unificação","ruptura","ultrapassagem"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "V",
+      "order": 22,
+      "questions": [
+        { "question": "Sentimento ou estado emocional", "answers": ["vontade","vigor","vaidade"], "difficulty": "easy" },
+        { "question": "Objeto usado no dia a dia", "answers": ["vaso","vassoura","vestido"], "difficulty": "easy" },
+        { "question": "Elemento presente na natureza", "answers": ["vento","vale","vulcão"], "difficulty": "easy" },
+        { "question": "Ação comum realizada por pessoas", "answers": ["ver","viajar","vencer"], "difficulty": "easy" },
+        { "question": "Traço de personalidade humana", "answers": ["virtude","valentia","veracidade"], "difficulty": "easy" },
+        { "question": "Processo de organização ou método", "answers": ["validação","verificação","vinculação"], "difficulty": "medium" },
+        { "question": "Estado mental ligado à cognição", "answers": ["visão","valoração","vigilância"], "difficulty": "medium" },
+        { "question": "Interação social estruturada", "answers": ["vínculo","votação","visita"], "difficulty": "medium" },
+        { "question": "Resultado de uma ação planejada", "answers": ["vitória","vantagem","valorização"], "difficulty": "medium" },
+        { "question": "Relação entre partes de um sistema", "answers": ["vínculo","variável","vetor"], "difficulty": "medium" },
+        { "question": "Estrutura abstrata de pensamento", "answers": ["valor","visão","verdade"], "difficulty": "hard" },
+        { "question": "Força interna que orienta escolhas", "answers": ["vontade","vocação","valoração"], "difficulty": "hard" },
+        { "question": "Condição necessária para continuidade", "answers": ["viabilidade","vitalidade","vigência"], "difficulty": "hard" },
+        { "question": "Critério usado para avaliação racional", "answers": ["validade","veracidade","verificabilidade"], "difficulty": "hard" },
+        { "question": "Elemento abstrato de transformação", "answers": ["virada","variação","volatilidade"], "difficulty": "hard" }
+      ]
+    }
+  ]
+}

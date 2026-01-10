@@ -1,0 +1,643 @@
+{
+  "lang": "de",
+  "letters": [
+    {
+      "letter": "A",
+      "order": 1,
+      "questions": [
+        { "question": "Die Fähigkeit, etwas zu leisten oder zu bewirken", "answers": ["ability","agency","aptitude"], "difficulty": "easy" },
+        { "question": "Der Beginn eines Vorgangs", "answers": ["anfang","auftakt","ausgang"], "difficulty": "easy" },
+        { "question": "Ein Ziel oder Zweck einer Handlung", "answers": ["absicht","anliegen","ambition"], "difficulty": "easy" },
+        { "question": "Der Zustand des Wachseins und Verstehens", "answers": ["aufmerksamkeit","achtsamkeit","alertheit"], "difficulty": "easy" },
+        { "question": "Eine positive Eigenschaft oder Vorteil", "answers": ["attraktivität","ansehen","anerkennung"], "difficulty": "easy" },
+
+        { "question": "Die strukturierte Vorgehensweise zur Zielerreichung", "answers": ["ansatz","algorithmus","ablauf"], "difficulty": "medium" },
+        { "question": "Das bewusste Wahrnehmen innerer Zustände", "answers": ["achtsamkeit","aufmerksamkeit","ahnung"], "difficulty": "medium" },
+        { "question": "Die Fähigkeit zur Anpassung an Veränderungen", "answers": ["anpassung","adaptivität","angleichung"], "difficulty": "medium" },
+        { "question": "Der Wunsch nach Fortschritt oder Erfolg", "answers": ["ambition","anspruch","antrieb"], "difficulty": "medium" },
+        { "question": "Die bewusste Entscheidung für ein Ziel", "answers": ["absicht","ausrichtung","anliegen"], "difficulty": "medium" },
+
+        { "question": "Die systematische Grundlage eines Vorgehens", "answers": ["algorithmus","architektur","aufbau"], "difficulty": "hard" },
+        { "question": "Die bewusste innere Steuerung des Handelns", "answers": ["autonomie","agency","ausrichtung"], "difficulty": "hard" },
+        { "question": "Die langfristige Zielorientierung eines Handelns", "answers": ["ambition","ausrichtung","anspruch"], "difficulty": "hard" },
+        { "question": "Die kognitive Fähigkeit zur bewussten Wahrnehmung", "answers": ["aufmerksamkeit","achtsamkeit","alertheit"], "difficulty": "hard" },
+        { "question": "Die strukturelle Basis eines komplexen Systems", "answers": ["architektur","aufbau","anordnung"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "B",
+      "order": 2,
+      "questions": [
+        { "question": "Die Fähigkeit, etwas zu verstehen", "answers": ["begreifen","bewusstsein","blick"], "difficulty": "easy" },
+        { "question": "Der Anfang von etwas Neuem", "answers": ["beginn","basis","beginnphase"], "difficulty": "easy" },
+        { "question": "Eine stabile Grundlage", "answers": ["basis","boden","bestand"], "difficulty": "easy" },
+        { "question": "Ein positiver Nutzen oder Vorteil", "answers": ["bonus","benefit","beitrag"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, etwas zu behalten", "answers": ["behalten","bewahren","besitz"], "difficulty": "easy" },
+
+        { "question": "Die gedankliche Verarbeitung von Informationen", "answers": ["bewusstsein","beurteilung","betrachtung"], "difficulty": "medium" },
+        { "question": "Die strukturierte Grundlage eines Systems", "answers": ["basis","bau","bestandteil"], "difficulty": "medium" },
+        { "question": "Der gezielte Beitrag zu einem Ergebnis", "answers": ["beitrag","beteiligung","bemühung"], "difficulty": "medium" },
+        { "question": "Die Fähigkeit, Stabilität zu bewahren", "answers": ["beständigkeit","balance","beharrlichkeit"], "difficulty": "medium" },
+        { "question": "Die aktive Teilnahme an einem Prozess", "answers": ["beteiligung","beitrag","bindung"], "difficulty": "medium" },
+
+        { "question": "Die dauerhafte Stabilität eines Systems", "answers": ["beständigkeit","balance","belastbarkeit"], "difficulty": "hard" },
+        { "question": "Die reflektierte Bewertung komplexer Sachverhalte", "answers": ["beurteilung","bewertung","betrachtung"], "difficulty": "hard" },
+        { "question": "Die tragende Grundlage für Entwicklung", "answers": ["basis","bestand","bau"], "difficulty": "hard" },
+        { "question": "Die bewusste innere Verankerung von Überzeugungen", "answers": ["bindung","bewusstsein","beharrlichkeit"], "difficulty": "hard" },
+        { "question": "Die gezielte Steuerung von Beiträgen", "answers": ["beteiligung","beitrag","beeinflussung"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "C",
+      "order": 3,
+      "questions": [
+        { "question": "Die Fähigkeit, etwas zu kontrollieren", "answers": ["control","check","command"], "difficulty": "easy" },
+        { "question": "Die bewusste Entscheidung zwischen Optionen", "answers": ["choice","chance","course"], "difficulty": "easy" },
+        { "question": "Ein klarer Zustand ohne Zweifel", "answers": ["clarity","confidence","certainty"], "difficulty": "easy" },
+        { "question": "Die Zusammenarbeit mehrerer Elemente", "answers": ["cooperation","coordination","connection"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, ruhig zu bleiben", "answers": ["calmness","composure","control"], "difficulty": "easy" },
+
+        { "question": "Die strukturierte Abstimmung von Abläufen", "answers": ["coordination","cooperation","control"], "difficulty": "medium" },
+        { "question": "Der klare geistige Zustand", "answers": ["clarity","consciousness","comprehension"], "difficulty": "medium" },
+        { "question": "Die gezielte Lenkung eines Prozesses", "answers": ["control","command","course"], "difficulty": "medium" },
+        { "question": "Die bewusste Verbindung von Elementen", "answers": ["connection","combination","coordination"], "difficulty": "medium" },
+        { "question": "Das sichere Vertrauen in ein Ergebnis", "answers": ["confidence","certainty","conviction"], "difficulty": "medium" },
+
+        { "question": "Die systematische Steuerung komplexer Prozesse", "answers": ["control","coordination","command"], "difficulty": "hard" },
+        { "question": "Der Zustand vollständiger geistiger Klarheit", "answers": ["clarity","consciousness","comprehension"], "difficulty": "hard" },
+        { "question": "Die belastbare Überzeugung ohne Zweifel", "answers": ["conviction","certainty","confidence"], "difficulty": "hard" },
+        { "question": "Die nachhaltige Zusammenarbeit innerhalb eines Systems", "answers": ["cooperation","coordination","connection"], "difficulty": "hard" },
+        { "question": "Die bewusste Kontrolle innerer Zustände", "answers": ["composure","calmness","control"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "D",
+      "order": 4,
+      "questions": [
+        { "question": "Die Fähigkeit, schwierige Situationen auszuhalten", "answers": ["durchhaltevermögen","dauerhaftigkeit","disziplin"], "difficulty": "easy" },
+        { "question": "Ein klares Ziel oder Vorhaben", "answers": ["direktion","definition","drang"], "difficulty": "easy" },
+        { "question": "Eine bewusste Entscheidung nach Abwägung", "answers": ["entscheidung","disposition","deutung"], "difficulty": "easy" },
+        { "question": "Ein Zustand innerer Ordnung", "answers": ["disziplin","disposition","dauer"], "difficulty": "easy" },
+        { "question": "Der zeitliche Fortbestand eines Zustands", "answers": ["dauer","dauerhaftigkeit","durchlauf"], "difficulty": "easy" },
+
+        { "question": "Die strukturierte Ausrichtung eines Handelns", "answers": ["direktion","disposition","definition"], "difficulty": "medium" },
+        { "question": "Die bewusste Deutung von Sachverhalten", "answers": ["deutung","definition","darstellung"], "difficulty": "medium" },
+        { "question": "Die Fähigkeit zur langfristigen Selbstkontrolle", "answers": ["disziplin","durchhaltevermögen","dauerhaftigkeit"], "difficulty": "medium" },
+        { "question": "Die zeitliche Stabilität eines Systems", "answers": ["dauerhaftigkeit","dauer","durchlauf"], "difficulty": "medium" },
+        { "question": "Die innere Bereitschaft zu handeln", "answers": ["drang","disposition","direktion"], "difficulty": "medium" },
+
+        { "question": "Die konzeptuelle Festlegung eines Begriffs", "answers": ["definition","deutung","darstellung"], "difficulty": "hard" },
+        { "question": "Die nachhaltige Stabilität über lange Zeit", "answers": ["dauerhaftigkeit","durchhaltevermögen","disziplin"], "difficulty": "hard" },
+        { "question": "Die strategische Ausrichtung komplexer Prozesse", "answers": ["direktion","disposition","definition"], "difficulty": "hard" },
+        { "question": "Die reflektierte Interpretation von Bedeutung", "answers": ["deutung","darstellung","definition"], "difficulty": "hard" },
+        { "question": "Die systematische innere Ordnung des Handelns", "answers": ["disziplin","disposition","dauer"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "E",
+      "order": 5,
+      "questions": [
+        { "question": "Die Fähigkeit, etwas zu bewirken", "answers": ["einfluss","energie","effektivität"], "difficulty": "easy" },
+        { "question": "Ein klar erkennbares Ergebnis", "answers": ["ergebnis","effekt","ertrag"], "difficulty": "easy" },
+        { "question": "Der innere Antrieb zum Handeln", "answers": ["energie","eifer","elan"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, Zusammenhänge zu verstehen", "answers": ["einsicht","erkenntnis","erfassung"], "difficulty": "easy" },
+        { "question": "Ein messbarer Nutzen aus einem Vorgang", "answers": ["ertrag","ergebnis","effekt"], "difficulty": "easy" },
+
+        { "question": "Die gezielte Wirkung einer Maßnahme", "answers": ["effektivität","einfluss","effizienz"], "difficulty": "medium" },
+        { "question": "Das bewusste Erfassen von Zusammenhängen", "answers": ["einsicht","erkenntnis","erfassung"], "difficulty": "medium" },
+        { "question": "Der dauerhafte innere Antrieb", "answers": ["energie","elan","eifer"], "difficulty": "medium" },
+        { "question": "Die Auswirkung eines Handelns auf andere", "answers": ["einfluss","effekt","ergebnis"], "difficulty": "medium" },
+        { "question": "Der praktische Nutzen eines Systems", "answers": ["effizienz","effektivität","ertrag"], "difficulty": "medium" },
+
+        { "question": "Die nachhaltige Wirksamkeit komplexer Systeme", "answers": ["effektivität","effizienz","einfluss"], "difficulty": "hard" },
+        { "question": "Der kognitive Prozess des Verstehens", "answers": ["erkenntnis","einsicht","erfassung"], "difficulty": "hard" },
+        { "question": "Die gezielte Steuerung von Wirkung", "answers": ["einfluss","effektivität","effizienz"], "difficulty": "hard" },
+        { "question": "Die langfristige Nutzbarkeit von Ressourcen", "answers": ["effizienz","ertrag","effektivität"], "difficulty": "hard" },
+        { "question": "Die bewusste Aktivierung innerer Kräfte", "answers": ["energie","elan","eifer"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "F",
+      "order": 6,
+      "questions": [
+        { "question": "Die Fähigkeit, etwas zu verstehen", "answers": ["verständnis","fähigkeit","feinsinn"], "difficulty": "easy" },
+        { "question": "Ein klarer gedanklicher Ablauf", "answers": ["folge","fluss","form"], "difficulty": "easy" },
+        { "question": "Die praktische Fähigkeit zur Ausführung", "answers": ["fähigkeit","fertigkeit","funktion"], "difficulty": "easy" },
+        { "question": "Ein spürbarer Nutzen aus einem Vorgang", "answers": ["fortschritt","förderung","frucht"], "difficulty": "easy" },
+        { "question": "Die innere Klarheit eines Gedankens", "answers": ["fokus","form","fluss"], "difficulty": "easy" },
+
+        { "question": "Die gezielte Entwicklung von Potenzial", "answers": ["förderung","fortschritt","funktion"], "difficulty": "medium" },
+        { "question": "Die strukturierte Abfolge von Prozessen", "answers": ["folge","fluss","funktion"], "difficulty": "medium" },
+        { "question": "Die Fähigkeit zur differenzierten Wahrnehmung", "answers": ["feinsinn","verständnis","fokus"], "difficulty": "medium" },
+        { "question": "Die praktische Umsetzbarkeit eines Konzepts", "answers": ["funktion","fähigkeit","fertigkeit"], "difficulty": "medium" },
+        { "question": "Die zielgerichtete Bündelung von Aufmerksamkeit", "answers": ["fokus","fluss","form"], "difficulty": "medium" },
+
+        { "question": "Die nachhaltige Entwicklung von Fähigkeiten", "answers": ["förderung","fähigkeit","fortschritt"], "difficulty": "hard" },
+        { "question": "Die konzeptuelle Klarheit eines Systems", "answers": ["form","struktur","funktion"], "difficulty": "hard" },
+        { "question": "Der kohärente Ablauf komplexer Prozesse", "answers": ["fluss","folge","funktion"], "difficulty": "hard" },
+        { "question": "Die präzise Ausrichtung geistiger Aufmerksamkeit", "answers": ["fokus","feinsinn","verständnis"], "difficulty": "hard" },
+        { "question": "Die wirksame Anwendung von Können", "answers": ["fertigkeit","fähigkeit","funktion"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "G",
+      "order": 7,
+      "questions": [
+        { "question": "Die Fähigkeit, etwas tiefgehend zu erfassen", "answers": ["gedanken","gespür","geist"], "difficulty": "easy" },
+        { "question": "Ein klar umrissenes Ziel", "answers": ["ziel","gedanke","grund"], "difficulty": "easy" },
+        { "question": "Der innere Antrieb zum Handeln", "answers": ["geist","glut","gelüste"], "difficulty": "easy" },
+        { "question": "Die grundlegende Ursache eines Sachverhalts", "answers": ["grund","grundlage","genese"], "difficulty": "easy" },
+        { "question": "Ein positiver Fortschritt", "answers": ["gewinn","gewachs","glück"], "difficulty": "easy" },
+
+        { "question": "Das bewusste Erfassen komplexer Zusammenhänge", "answers": ["geist","gedanken","gespür"], "difficulty": "medium" },
+        { "question": "Die strukturelle Basis eines Systems", "answers": ["grundlage","grund","gerüst"], "difficulty": "medium" },
+        { "question": "Die zielgerichtete innere Motivation", "answers": ["glut","geist","gelüste"], "difficulty": "medium" },
+        { "question": "Der nachvollziehbare Ursprung eines Prozesses", "answers": ["genese","grund","entwicklung"], "difficulty": "medium" },
+        { "question": "Ein nachhaltiger positiver Effekt", "answers": ["gewinn","glück","gewachs"], "difficulty": "medium" },
+
+        { "question": "Die geistige Durchdringung abstrakter Inhalte", "answers": ["geist","gedanken","gespür"], "difficulty": "hard" },
+        { "question": "Die fundamentale Basis komplexer Ordnungen", "answers": ["grundlage","gerüst","grund"], "difficulty": "hard" },
+        { "question": "Der innere Brennpunkt langfristiger Motivation", "answers": ["glut","geist","gelüste"], "difficulty": "hard" },
+        { "question": "Die systemische Entstehung eines Phänomens", "answers": ["genese","entwicklung","grund"], "difficulty": "hard" },
+        { "question": "Der dauerhafte Nutzen aus einem Prozess", "answers": ["gewinn","gewachs","glück"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "H",
+      "order": 8,
+      "questions": [
+        { "question": "Die Fähigkeit, ruhig und überlegt zu handeln", "answers": ["haltung","heiterkeit","harmonie"], "difficulty": "easy" },
+        { "question": "Ein Zustand innerer Ausgeglichenheit", "answers": ["harmonie","ruhe","heiterkeit"], "difficulty": "easy" },
+        { "question": "Die bewusste Einstellung zu etwas", "answers": ["haltung","haltungnahme","haltungskraft"], "difficulty": "easy" },
+        { "question": "Das Gefühl von Sicherheit und Geborgenheit", "answers": ["halt","heimat","hoffnung"], "difficulty": "easy" },
+        { "question": "Eine positive Erwartung an die Zukunft", "answers": ["hoffnung","heiterkeit","haltung"], "difficulty": "easy" },
+
+        { "question": "Die stabile innere Ausrichtung des Handelns", "answers": ["haltung","halt","harmonie"], "difficulty": "medium" },
+        { "question": "Das ausgewogene Zusammenspiel von Elementen", "answers": ["harmonie","gleichklang","ruhe"], "difficulty": "medium" },
+        { "question": "Die emotionale Stabilität in schwierigen Situationen", "answers": ["halt","haltung","hoffnung"], "difficulty": "medium" },
+        { "question": "Die gelassene Grundstimmung des Geistes", "answers": ["heiterkeit","ruhe","harmonie"], "difficulty": "medium" },
+        { "question": "Die positive Erwartung trotz Unsicherheit", "answers": ["hoffnung","zuversicht","haltung"], "difficulty": "medium" },
+
+        { "question": "Die dauerhafte innere Stabilität des Charakters", "answers": ["haltung","halt","harmonie"], "difficulty": "hard" },
+        { "question": "Der ausgleichende Zustand komplexer Systeme", "answers": ["harmonie","gleichgewicht","gleichklang"], "difficulty": "hard" },
+        { "question": "Die reflektierte Gelassenheit des Bewusstseins", "answers": ["heiterkeit","ruhe","haltung"], "difficulty": "hard" },
+        { "question": "Die tragende emotionale Grundlage in Krisen", "answers": ["halt","hoffnung","zuversicht"], "difficulty": "hard" },
+        { "question": "Die langfristige positive Ausrichtung auf Möglichkeiten", "answers": ["hoffnung","zuversicht","haltung"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "I",
+      "order": 9,
+      "questions": [
+        { "question": "Die bewusste Wahrnehmung der eigenen Person", "answers": ["identität","ichbewusstsein","individualität"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, etwas klar zu erkennen", "answers": ["insicht","intuition","idee"], "difficulty": "easy" },
+        { "question": "Ein inneres Bild oder Konzept", "answers": ["idee","impuls","inhalt"], "difficulty": "easy" },
+        { "question": "Der innere Anstoß zum Handeln", "answers": ["impuls","initiative","intention"], "difficulty": "easy" },
+        { "question": "Die Eigenständigkeit einer Person", "answers": ["individualität","identität","ichbewusstsein"], "difficulty": "easy" },
+
+        { "question": "Das bewusste Erkennen von Zusammenhängen", "answers": ["insicht","intuition","verstehen"], "difficulty": "medium" },
+        { "question": "Der gezielte Beginn einer Handlung", "answers": ["initiative","impuls","intention"], "difficulty": "medium" },
+        { "question": "Das innere Selbstbild eines Menschen", "answers": ["identität","ichbewusstsein","individualität"], "difficulty": "medium" },
+        { "question": "Die spontane geistige Erfassung", "answers": ["intuition","insicht","idee"], "difficulty": "medium" },
+        { "question": "Die gedankliche Grundlage eines Vorhabens", "answers": ["idee","intention","inhalt"], "difficulty": "medium" },
+
+        { "question": "Die stabile Selbstdefinition über Zeit hinweg", "answers": ["identität","individualität","ichbewusstsein"], "difficulty": "hard" },
+        { "question": "Die unmittelbare geistige Erkenntnis ohne Analyse", "answers": ["intuition","insicht","idee"], "difficulty": "hard" },
+        { "question": "Der bewusste Wille zur Handlungseinleitung", "answers": ["intention","initiative","impuls"], "difficulty": "hard" },
+        { "question": "Die innere Struktur persönlicher Einzigartigkeit", "answers": ["individualität","identität","ichbewusstsein"], "difficulty": "hard" },
+        { "question": "Die kognitive Durchdringung von Bedeutung", "answers": ["insicht","verstehen","intuition"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "J",
+      "order": 10,
+      "questions": [
+        { "question": "Die moralische Richtigkeit einer Handlung", "answers": ["gerechtigkeit","justiz","juristik"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, fair zu urteilen", "answers": ["justiz","jurisdiktion","jurisprudenz"], "difficulty": "easy" },
+        { "question": "Ein Gefühl großer Freude", "answers": ["jubel","jauchzen","jubiläum"], "difficulty": "easy" },
+        { "question": "Ein feierlicher Anlass", "answers": ["jubiläum","jubel","jauchzen"], "difficulty": "easy" },
+        { "question": "Ein bewusstes Abwägen vor einer Entscheidung", "answers": ["judiz","justierung","justiz"], "difficulty": "easy" },
+
+        { "question": "Das Prinzip der Fairness im Zusammenleben", "answers": ["gerechtigkeit","jurisprudenz","justiz"], "difficulty": "medium" },
+        { "question": "Die rechtliche Zuständigkeit eines Bereichs", "answers": ["jurisdiktion","justiz","jurisprudenz"], "difficulty": "medium" },
+        { "question": "Die systematische Lehre vom Recht", "answers": ["jurisprudenz","jurisdiktion","justiz"], "difficulty": "medium" },
+        { "question": "Die bewusste Bewertung von Handlungen", "answers": ["judiz","justierung","gerechtigkeit"], "difficulty": "medium" },
+        { "question": "Die institutionelle Ausübung von Recht", "answers": ["justiz","jurisdiktion","jurisprudenz"], "difficulty": "medium" },
+
+        { "question": "Die philosophische Theorie des Rechts", "answers": ["jurisprudenz","jurisdiktion","gerechtigkeit"], "difficulty": "hard" },
+        { "question": "Die formale Autorität zur Rechtsprechung", "answers": ["jurisdiktion","justiz","jurisprudenz"], "difficulty": "hard" },
+        { "question": "Die ethische Beurteilung von Handlungen", "answers": ["gerechtigkeit","judiz","justierung"], "difficulty": "hard" },
+        { "question": "Die rationale Begründung rechtlicher Normen", "answers": ["jurisprudenz","gerechtigkeit","jurisdiktion"], "difficulty": "hard" },
+        { "question": "Die organisierte Struktur der Rechtspflege", "answers": ["justiz","jurisdiktion","jurisprudenz"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "K",
+      "order": 11,
+      "questions": [
+        { "question": "Das bewusste Erfassen von Zusammenhängen", "answers": ["kenntnis","kognition","klarheit"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, etwas praktisch umzusetzen", "answers": ["können","kompetenz","kenntnis"], "difficulty": "easy" },
+        { "question": "Ein inneres Verstehen einer Sache", "answers": ["klarheit","kenntnis","kognition"], "difficulty": "easy" },
+        { "question": "Die natürliche Begabung für etwas", "answers": ["können","kapazität","kompetenz"], "difficulty": "easy" },
+        { "question": "Das Vertrauen in die eigene Fähigkeit", "answers": ["kraft","kompetenz","klarheit"], "difficulty": "easy" },
+
+        { "question": "Die geistige Verarbeitung von Informationen", "answers": ["kognition","kenntnis","klarheit"], "difficulty": "medium" },
+        { "question": "Die strukturierte Fähigkeit zur Problemlösung", "answers": ["kompetenz","können","kapazität"], "difficulty": "medium" },
+        { "question": "Die bewusste Ordnung von Gedanken", "answers": ["klarheit","kognition","kenntnis"], "difficulty": "medium" },
+        { "question": "Das Potenzial zur Leistungsentfaltung", "answers": ["kapazität","kompetenz","kraft"], "difficulty": "medium" },
+        { "question": "Die zielgerichtete Anwendung von Wissen", "answers": ["kompetenz","können","kenntnis"], "difficulty": "medium" },
+
+        { "question": "Die kognitive Grundlage bewussten Denkens", "answers": ["kognition","kenntnis","klarheit"], "difficulty": "hard" },
+        { "question": "Die nachhaltige Fähigkeit zur Leistung", "answers": ["kompetenz","kapazität","kraft"], "difficulty": "hard" },
+        { "question": "Die systematische Organisation von Wissen", "answers": ["kenntnis","kognition","klarheit"], "difficulty": "hard" },
+        { "question": "Das stabile Vermögen zur Umsetzung", "answers": ["können","kompetenz","kapazität"], "difficulty": "hard" },
+        { "question": "Die bewusste Durchdringung komplexer Inhalte", "answers": ["klarheit","kognition","kenntnis"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "L",
+      "order": 12,
+      "questions": [
+        { "question": "Die Fähigkeit, andere zu führen", "answers": ["leitung","leadership","lenkung"], "difficulty": "easy" },
+        { "question": "Der geregelte Ablauf eines Systems", "answers": ["logik","linie","lauf"], "difficulty": "easy" },
+        { "question": "Die Freiheit innerhalb eines Rahmens", "answers": ["leeway","liberalität","leichtigkeit"], "difficulty": "easy" },
+        { "question": "Der Prozess des Wissenserwerbs", "answers": ["lernen","lektüre","lehre"], "difficulty": "easy" },
+        { "question": "Eine verbindende Beziehung", "answers": ["link","linie","leitung"], "difficulty": "easy" },
+
+        { "question": "Die strukturierte Führung von Prozessen", "answers": ["lenkung","leitung","leadership"], "difficulty": "medium" },
+        { "question": "Die rationale Ordnung von Argumenten", "answers": ["logik","linie","lehre"], "difficulty": "medium" },
+        { "question": "Der kontinuierliche Erwerb von Fähigkeiten", "answers": ["lernen","lehre","lektüre"], "difficulty": "medium" },
+        { "question": "Der Spielraum für Entscheidungen", "answers": ["liberalität","leeway","leichtigkeit"], "difficulty": "medium" },
+        { "question": "Die Verbindung einzelner Elemente", "answers": ["link","leitung","linie"], "difficulty": "medium" },
+
+        { "question": "Die theoretische Grundlage rationalen Denkens", "answers": ["logik","lehre","linie"], "difficulty": "hard" },
+        { "question": "Die institutionelle Ausübung von Führung", "answers": ["leitung","leadership","lenkung"], "difficulty": "hard" },
+        { "question": "Der systematische Prozess des Kompetenzerwerbs", "answers": ["lernen","lehre","lektüre"], "difficulty": "hard" },
+        { "question": "Die kontrollierte Freiheit innerhalb von Strukturen", "answers": ["liberalität","leeway","leichtigkeit"], "difficulty": "hard" },
+        { "question": "Die funktionale Verknüpfung von Systemteilen", "answers": ["link","leitung","lenkung"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "M",
+      "order": 13,
+      "questions": [
+        { "question": "Die innere Antriebskraft zum Handeln", "answers": ["motivation","mut","mobilisierung"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, etwas praktisch auszuführen", "answers": ["möglichkeit","methodik","mechanik"], "difficulty": "easy" },
+        { "question": "Der gedankliche Inhalt einer Aussage", "answers": ["meinung","meaning","mitteilung"], "difficulty": "easy" },
+        { "question": "Ein planvolles Vorgehen", "answers": ["methode","modell","muster"], "difficulty": "easy" },
+        { "question": "Die innere Einstellung zu etwas", "answers": ["mentalität","meinung","motivation"], "difficulty": "easy" },
+
+        { "question": "Die strukturierte Art des Vorgehens", "answers": ["methode","methodik","modell"], "difficulty": "medium" },
+        { "question": "Die geistige Haltung einer Person", "answers": ["mentalität","mindset","meinung"], "difficulty": "medium" },
+        { "question": "Die zielgerichtete innere Bewegung", "answers": ["motivation","mobilisierung","mut"], "difficulty": "medium" },
+        { "question": "Die abstrahierte Darstellung eines Systems", "answers": ["modell","muster","matrix"], "difficulty": "medium" },
+        { "question": "Die Fähigkeit, Möglichkeiten zu erkennen", "answers": ["möglichkeit","mut","mobilität"], "difficulty": "medium" },
+
+        { "question": "Die methodische Grundlage komplexer Prozesse", "answers": ["methodik","methode","modell"], "difficulty": "hard" },
+        { "question": "Die stabile geistige Grundhaltung", "answers": ["mentalität","mindset","haltung"], "difficulty": "hard" },
+        { "question": "Die nachhaltige Aktivierung innerer Kräfte", "answers": ["motivation","mobilisierung","antrieb"], "difficulty": "hard" },
+        { "question": "Die systematische Vereinfachung der Realität", "answers": ["modell","matrix","muster"], "difficulty": "hard" },
+        { "question": "Die bewusste Entscheidung für Handlungsspielräume", "answers": ["möglichkeit","freiheit","option"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "N",
+      "order": 14,
+      "questions": [
+        { "question": "Eine festgelegte Regel oder Vorgabe", "answers": ["norm","notwendigkeit","niveau"], "difficulty": "easy" },
+        { "question": "Der erreichte Stand einer Entwicklung", "answers": ["niveau","nutzung","nähe"], "difficulty": "easy" },
+        { "question": "Das zwingende Erfordernis", "answers": ["notwendigkeit","not","nutzen"], "difficulty": "easy" },
+        { "question": "Der praktische Vorteil einer Handlung", "answers": ["nutzen","nützlichkeit","notwendigkeit"], "difficulty": "easy" },
+        { "question": "Die gedankliche Ordnung", "answers": ["nachdenken","notion","netz"], "difficulty": "easy" },
+
+        { "question": "Die allgemein anerkannte Richtlinie", "answers": ["norm","regel","maßstab"], "difficulty": "medium" },
+        { "question": "Der funktionale Mehrwert eines Systems", "answers": ["nutzen","nützlichkeit","mehrwert"], "difficulty": "medium" },
+        { "question": "Das erreichte qualitative Stadium", "answers": ["niveau","standard","stufe"], "difficulty": "medium" },
+        { "question": "Das zwingende Erfordernis im Handeln", "answers": ["notwendigkeit","zwang","bedarf"], "difficulty": "medium" },
+        { "question": "Die vernetzte Verbindung von Elementen", "answers": ["netz","netzwerk","verbindung"], "difficulty": "medium" },
+
+        { "question": "Die normative Grundlage sozialen Handelns", "answers": ["norm","maßstab","regel"], "difficulty": "hard" },
+        { "question": "Der systemische Nutzen langfristiger Maßnahmen", "answers": ["nutzen","mehrwert","wirkung"], "difficulty": "hard" },
+        { "question": "Das qualitative Entwicklungsniveau eines Systems", "answers": ["niveau","standard","reife"], "difficulty": "hard" },
+        { "question": "Die zwingende Bedingung für Funktionalität", "answers": ["notwendigkeit","voraussetzung","bedarf"], "difficulty": "hard" },
+        { "question": "Die strukturelle Vernetzung komplexer Systeme", "answers": ["netzwerk","netz","struktur"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "O",
+      "order": 15,
+      "questions": [
+        { "question": "Die persönliche Einschätzung einer Sache", "answers": ["opinion","ordnung","option"], "difficulty": "easy" },
+        { "question": "Eine mögliche Wahlmöglichkeit", "answers": ["option","opportunität","optionierung"], "difficulty": "easy" },
+        { "question": "Der geregelte Zustand von Abläufen", "answers": ["ordnung","organisation","orientierung"], "difficulty": "easy" },
+        { "question": "Die zielgerichtete Ausrichtung", "answers": ["orientierung","ordnung","option"], "difficulty": "easy" },
+        { "question": "Eine günstige Gelegenheit", "answers": ["opportunität","option","öffnung"], "difficulty": "easy" },
+
+        { "question": "Die strukturierte Regelung von Systemen", "answers": ["ordnung","organisation","struktur"], "difficulty": "medium" },
+        { "question": "Die bewusste Wahl zwischen Möglichkeiten", "answers": ["option","entscheidung","auswahl"], "difficulty": "medium" },
+        { "question": "Die zielbezogene Ausrichtung des Handelns", "answers": ["orientierung","fokus","ausrichtung"], "difficulty": "medium" },
+        { "question": "Die vorteilhafte Gelegenheit im richtigen Moment", "answers": ["opportunität","chance","gelegenheit"], "difficulty": "medium" },
+        { "question": "Die koordinierte Gesamtheit von Abläufen", "answers": ["organisation","ordnung","struktur"], "difficulty": "medium" },
+
+        { "question": "Die ordnende Grundstruktur komplexer Systeme", "answers": ["ordnung","organisation","struktur"], "difficulty": "hard" },
+        { "question": "Die strategische Auswahl von Handlungswegen", "answers": ["option","entscheidung","auswahl"], "difficulty": "hard" },
+        { "question": "Die langfristige Zielausrichtung eines Prozesses", "answers": ["orientierung","ausrichtung","strategie"], "difficulty": "hard" },
+        { "question": "Die günstige Konstellation von Umständen", "answers": ["opportunität","chance","situation"], "difficulty": "hard" },
+        { "question": "Die systematische Organisation von Ressourcen", "answers": ["organisation","ordnung","struktur"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "P",
+      "order": 16,
+      "questions": [
+        { "question": "Die Fähigkeit, etwas wirksam umzusetzen", "answers": ["potenzial","praxis","performanz"], "difficulty": "easy" },
+        { "question": "Ein klarer Handlungsplan", "answers": ["plan","programm","prozess"], "difficulty": "easy" },
+        { "question": "Die innere Antriebskraft", "answers": ["power","positivität","persistenz"], "difficulty": "easy" },
+        { "question": "Das praktische Vorgehen", "answers": ["praxis","prozedur","prozess"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, durchzuhalten", "answers": ["persistenz","patienz","puffer"], "difficulty": "easy" },
+        { "question": "Die zielgerichtete Leistungsfähigkeit", "answers": ["performanz","potenzial","produktivität"], "difficulty": "easy" },
+        { "question": "Die vorbereitende Organisation", "answers": ["planung","programm","priorisierung"], "difficulty": "easy" },
+        { "question": "Der geregelte Ablauf", "answers": ["prozess","prozedur","pfad"], "difficulty": "easy" },
+        { "question": "Die bewusste Zielsetzung", "answers": ["priorität","plan","perspektive"], "difficulty": "easy" },
+        { "question": "Die Ausdauer im Handeln", "answers": ["persistenz","patienz","perseveranz"], "difficulty": "easy" },
+
+        { "question": "Die strukturierte Vorbereitung komplexer Aufgaben", "answers": ["planung","priorisierung","programm"], "difficulty": "medium" },
+        { "question": "Die Leistungsfähigkeit in der Umsetzung", "answers": ["performanz","produktivität","potenzial"], "difficulty": "medium" },
+        { "question": "Der methodische Ablauf von Tätigkeiten", "answers": ["prozess","prozedur","pfad"], "difficulty": "medium" },
+        { "question": "Die langfristige Zielausrichtung", "answers": ["perspektive","priorität","planung"], "difficulty": "medium" },
+        { "question": "Die nachhaltige Ausdauer im System", "answers": ["persistenz","perseveranz","patienz"], "difficulty": "medium" },
+
+        { "question": "Die strategische Entfaltung von Fähigkeiten", "answers": ["potenzial","performanz","produktivität"], "difficulty": "hard" },
+        { "question": "Die priorisierte Steuerung von Ressourcen", "answers": ["priorisierung","planung","programm"], "difficulty": "hard" },
+        { "question": "Die systemische Abfolge funktionaler Schritte", "answers": ["prozess","prozedur","pfad"], "difficulty": "hard" },
+        { "question": "Die belastbare Ausdauer über lange Zeit", "answers": ["persistenz","perseveranz","patienz"], "difficulty": "hard" },
+        { "question": "Die operative Umsetzung strategischer Ziele", "answers": ["praxis","performanz","produktivität"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Q",
+      "order": 17,
+      "questions": [
+        { "question": "Der Grad der Güte eines Ergebnisses", "answers": ["qualität","quantität","querschnitt"], "difficulty": "easy" },
+        { "question": "Die Menge oder Anzahl", "answers": ["quantität","quote","quantum"], "difficulty": "easy" },
+        { "question": "Ein vergleichender Maßstab", "answers": ["quote","quorum","quantität"], "difficulty": "easy" },
+        { "question": "Der erforderliche Mindestanteil", "answers": ["quorum","quote","quantum"], "difficulty": "easy" },
+        { "question": "Ein abgegrenzter Umfang", "answers": ["quantum","querschnitt","quote"], "difficulty": "easy" },
+        { "question": "Die Beschaffenheit eines Produkts", "answers": ["qualität","qualifikation","qualitätsmaß"], "difficulty": "easy" },
+        { "question": "Die messbare Größe einer Sache", "answers": ["quantität","quantum","quote"], "difficulty": "easy" },
+        { "question": "Ein festgelegter Anteil", "answers": ["quote","quorum","quantität"], "difficulty": "easy" },
+        { "question": "Die erforderliche Mindestzahl zur Entscheidung", "answers": ["quorum","quote","quantum"], "difficulty": "easy" },
+        { "question": "Die Eigenschaft der Güte", "answers": ["qualität","qualifikation","qualitätsmaß"], "difficulty": "easy" },
+
+        { "question": "Die systematische Bewertung von Güte", "answers": ["qualität","qualitätsmaß","qualifikation"], "difficulty": "medium" },
+        { "question": "Die mengenmäßige Erfassung von Daten", "answers": ["quantität","quantum","quote"], "difficulty": "medium" },
+        { "question": "Der verbindliche Mindestanteil im Verfahren", "answers": ["quorum","quote","quantum"], "difficulty": "medium" },
+        { "question": "Der repräsentative Schnitt durch eine Gesamtheit", "answers": ["querschnitt","quantum","quote"], "difficulty": "medium" },
+        { "question": "Die formale Befähigung zur Ausübung", "answers": ["qualifikation","qualität","qualitätsmaß"], "difficulty": "medium" },
+
+        { "question": "Die normierte Bewertung komplexer Leistungen", "answers": ["qualität","qualitätsmaß","qualifikation"], "difficulty": "hard" },
+        { "question": "Die präzise Erfassung quantitativer Größen", "answers": ["quantität","quantum","quote"], "difficulty": "hard" },
+        { "question": "Der rechtswirksame Mindestanteil zur Beschlussfassung", "answers": ["quorum","quote","quantum"], "difficulty": "hard" },
+        { "question": "Der analytische Schnitt durch ein Gesamtsystem", "answers": ["querschnitt","quantum","quote"], "difficulty": "hard" },
+        { "question": "Die qualifikatorische Grundlage professionellen Handelns", "answers": ["qualifikation","qualität","qualitätsmaß"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "R",
+      "order": 18,
+      "questions": [
+        { "question": "Die Fähigkeit, sich zu erholen", "answers": ["resilienz","ruhe","regeneration"], "difficulty": "easy" },
+        { "question": "Ein fester Bezugspunkt", "answers": ["rahmen","referenz","richtung"], "difficulty": "easy" },
+        { "question": "Die zielgerichtete Bewegung", "answers": ["richtung","route","reise"], "difficulty": "easy" },
+        { "question": "Der geregelte Ablauf", "answers": ["rhythmus","routine","regel"], "difficulty": "easy" },
+        { "question": "Die Wiederherstellung von Kräften", "answers": ["regeneration","ruhe","reparatur"], "difficulty": "easy" },
+        { "question": "Die innere Widerstandsfähigkeit", "answers": ["resilienz","robustheit","ruhe"], "difficulty": "easy" },
+        { "question": "Ein verbindlicher Maßstab", "answers": ["regel","rahmen","richtlinie"], "difficulty": "easy" },
+        { "question": "Die geordnete Abfolge", "answers": ["rhythmus","reihenfolge","routine"], "difficulty": "easy" },
+        { "question": "Die planmäßige Vorgehensweise", "answers": ["routine","regel","rhythmus"], "difficulty": "easy" },
+        { "question": "Die klare Ausrichtung", "answers": ["richtung","rahmen","referenz"], "difficulty": "easy" },
+
+        { "question": "Die Fähigkeit zur Anpassung nach Belastung", "answers": ["resilienz","regeneration","robustheit"], "difficulty": "medium" },
+        { "question": "Der strukturierende Bezugsrahmen", "answers": ["rahmen","referenz","richtlinie"], "difficulty": "medium" },
+        { "question": "Die stabile Ordnung von Abläufen", "answers": ["rhythmus","routine","regel"], "difficulty": "medium" },
+        { "question": "Die bewusste Zielausrichtung von Handlungen", "answers": ["richtung","route","referenz"], "difficulty": "medium" },
+        { "question": "Die Wiedergewinnung funktionaler Stärke", "answers": ["regeneration","resilienz","ruhe"], "difficulty": "medium" },
+
+        { "question": "Die systemische Widerstandsfähigkeit komplexer Strukturen", "answers": ["resilienz","robustheit","regeneration"], "difficulty": "hard" },
+        { "question": "Der normative Rahmen zur Steuerung", "answers": ["rahmen","richtlinie","regel"], "difficulty": "hard" },
+        { "question": "Die kohärente Ordnung zeitlicher Abläufe", "answers": ["rhythmus","routine","reihenfolge"], "difficulty": "hard" },
+        { "question": "Die strategische Ausrichtung langfristiger Prozesse", "answers": ["richtung","referenz","route"], "difficulty": "hard" },
+        { "question": "Die nachhaltige Wiederherstellung systemischer Leistung", "answers": ["regeneration","resilienz","robustheit"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "S",
+      "order": 19,
+      "questions": [
+        { "question": "Die Fähigkeit, Ruhe zu bewahren", "answers": ["stabilität","souveränität","selbstkontrolle"], "difficulty": "easy" },
+        { "question": "Ein klar strukturierter Ablauf", "answers": ["system","schema","struktur"], "difficulty": "easy" },
+        { "question": "Die innere Sicherheit im Handeln", "answers": ["selbstvertrauen","sicherheit","stärke"], "difficulty": "easy" },
+        { "question": "Das zielgerichtete Vorgehen", "answers": ["strategie","schritt","systematik"], "difficulty": "easy" },
+        { "question": "Der Zustand ohne Unruhe", "answers": ["stille","ruhe","sanftmut"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, sich anzupassen", "answers": ["flexibilität","spielraum","skalierung"], "difficulty": "easy" },
+        { "question": "Der geordnete Aufbau eines Ganzen", "answers": ["struktur","system","schema"], "difficulty": "easy" },
+        { "question": "Die bewusste Selbststeuerung", "answers": ["selbstkontrolle","selbstdisziplin","souveränität"], "difficulty": "easy" },
+        { "question": "Die klare Zielorientierung", "answers": ["strategie","systematik","schwerpunkt"], "difficulty": "easy" },
+        { "question": "Die innere Ausgeglichenheit", "answers": ["stabilität","sicherheit","ruhe"], "difficulty": "easy" },
+
+        { "question": "Die dauerhafte innere Festigkeit", "answers": ["stabilität","standhaftigkeit","souveränität"], "difficulty": "medium" },
+        { "question": "Der methodische Aufbau eines Vorgehens", "answers": ["systematik","strategie","schema"], "difficulty": "medium" },
+        { "question": "Die bewusste Kontrolle eigener Impulse", "answers": ["selbstkontrolle","selbstdisziplin","beherrschung"], "difficulty": "medium" },
+        { "question": "Die funktionale Ordnung von Elementen", "answers": ["struktur","system","organisation"], "difficulty": "medium" },
+        { "question": "Die verlässliche innere Haltung", "answers": ["souveränität","sicherheit","selbstvertrauen"], "difficulty": "medium" },
+
+        { "question": "Die strukturelle Stabilität komplexer Systeme", "answers": ["stabilität","standfestigkeit","robustheit"], "difficulty": "hard" },
+        { "question": "Die strategische Steuerung langfristiger Ziele", "answers": ["strategie","systematik","schwerpunkt"], "difficulty": "hard" },
+        { "question": "Die reflektierte Selbstführung", "answers": ["selbstkontrolle","souveränität","selbstdisziplin"], "difficulty": "hard" },
+        { "question": "Die kohärente Ordnung vielschichtiger Strukturen", "answers": ["struktur","system","organisation"], "difficulty": "hard" },
+        { "question": "Die innere Sicherheit als Führungsqualität", "answers": ["souveränität","stärke","selbstvertrauen"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "T",
+      "order": 20,
+      "questions": [
+        { "question": "Die Fähigkeit, etwas auszuhalten", "answers": ["toleranz","tragfähigkeit","tapferkeit"], "difficulty": "easy" },
+        { "question": "Ein klarer zeitlicher Ablauf", "answers": ["takt","tempo","timeline"], "difficulty": "easy" },
+        { "question": "Die bewusste Ausrichtung auf ein Ziel", "answers": ["tendenz","taktik","transparenz"], "difficulty": "easy" },
+        { "question": "Die Offenheit von Abläufen", "answers": ["transparenz","treue","teilhabe"], "difficulty": "easy" },
+        { "question": "Die verlässliche Bindung an etwas", "answers": ["treue","tradition","tragweite"], "difficulty": "easy" },
+        { "question": "Die kontrollierte Vorgehensweise", "answers": ["taktik","technik","taktgefühl"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit zur Anpassung an Zeitdruck", "answers": ["tempo","takt","timing"], "difficulty": "easy" },
+        { "question": "Die bewusste Offenlegung von Informationen", "answers": ["transparenz","teilhabe","toleranz"], "difficulty": "easy" },
+        { "question": "Die moralische Verlässlichkeit", "answers": ["treue","vertrauen","tapferkeit"], "difficulty": "easy" },
+        { "question": "Die strukturierte Vorgehensweise", "answers": ["technik","taktik","template"], "difficulty": "easy" },
+
+        { "question": "Die tragende Fähigkeit eines Systems", "answers": ["tragfähigkeit","toleranz","tragweite"], "difficulty": "medium" },
+        { "question": "Die zielgerichtete operative Planung", "answers": ["taktik","technik","tendenz"], "difficulty": "medium" },
+        { "question": "Die zeitliche Feinabstimmung von Abläufen", "answers": ["timing","takt","tempo"], "difficulty": "medium" },
+        { "question": "Die bewusste Offenheit als Organisationsprinzip", "answers": ["transparenz","teilhabe","toleranz"], "difficulty": "medium" },
+        { "question": "Die stabile Bindung über Zeit", "answers": ["treue","tradition","vertrauen"], "difficulty": "medium" },
+
+        { "question": "Die strukturelle Tragfähigkeit komplexer Systeme", "answers": ["tragfähigkeit","robustheit","tragweite"], "difficulty": "hard" },
+        { "question": "Die taktische Umsetzung strategischer Ziele", "answers": ["taktik","technik","planung"], "difficulty": "hard" },
+        { "question": "Die präzise zeitliche Steuerung von Prozessen", "answers": ["timing","takt","tempo"], "difficulty": "hard" },
+        { "question": "Die institutionalisierte Offenheit von Strukturen", "answers": ["transparenz","teilhabe","offenheit"], "difficulty": "hard" },
+        { "question": "Die dauerhafte Wertebindung", "answers": ["treue","tradition","vertrauen"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "U",
+      "order": 21,
+      "questions": [
+        { "question": "Die Fähigkeit, Zusammenhänge zu erkennen", "answers": ["verständnis","umsicht","urteilskraft"], "difficulty": "easy" },
+        { "question": "Die klare Bewertung einer Situation", "answers": ["urteil","urteilskraft","überblick"], "difficulty": "easy" },
+        { "question": "Die bewusste Betrachtung des Ganzen", "answers": ["überblick","umsicht","übersicht"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, sich anzupassen", "answers": ["umstellungsfähigkeit","umsicht","unabhängigkeit"], "difficulty": "easy" },
+        { "question": "Der geordnete Gesamtzusammenhang", "answers": ["übersicht","überblick","umfeld"], "difficulty": "easy" },
+        { "question": "Die innere Selbstständigkeit", "answers": ["unabhängigkeit","urteilskraft","autonomie"], "difficulty": "easy" },
+        { "question": "Die bewusste Einschätzung von Risiken", "answers": ["umsicht","urteil","überblick"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, richtig zu entscheiden", "answers": ["urteilskraft","verständnis","einsicht"], "difficulty": "easy" },
+        { "question": "Die Betrachtung aus erhöhter Perspektive", "answers": ["überblick","übersicht","umschau"], "difficulty": "easy" },
+        { "question": "Die Anpassung an neue Bedingungen", "answers": ["umstellung","umdenken","umsicht"], "difficulty": "easy" },
+
+        { "question": "Die reflektierte Entscheidungsfähigkeit", "answers": ["urteilskraft","umsicht","verständnis"], "difficulty": "medium" },
+        { "question": "Die systematische Gesamtbetrachtung", "answers": ["überblick","übersicht","analyse"], "difficulty": "medium" },
+        { "question": "Die bewusste Abwägung von Optionen", "answers": ["urteil","abwägung","umsicht"], "difficulty": "medium" },
+        { "question": "Die stabile Selbstständigkeit im Handeln", "answers": ["unabhängigkeit","autonomie","selbstständigkeit"], "difficulty": "medium" },
+        { "question": "Die Fähigkeit zur situationsgerechten Anpassung", "answers": ["umstellungsfähigkeit","umsicht","flexibilität"], "difficulty": "medium" },
+
+        { "question": "Die kognitive Grundlage reflektierter Entscheidungen", "answers": ["urteilskraft","verständnis","einsicht"], "difficulty": "hard" },
+        { "question": "Die strategische Übersicht komplexer Systeme", "answers": ["überblick","übersicht","gesamtbild"], "difficulty": "hard" },
+        { "question": "Die verantwortungsvolle Einschätzung von Folgen", "answers": ["umsicht","urteil","voraussicht"], "difficulty": "hard" },
+        { "question": "Die nachhaltige Autonomie im System", "answers": ["unabhängigkeit","autonomie","selbstbestimmung"], "difficulty": "hard" },
+        { "question": "Die adaptive Fähigkeit unter strukturellem Wandel", "answers": ["umstellungsfähigkeit","flexibilität","anpassungsvermögen"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "V",
+      "order": 22,
+      "questions": [
+        { "question": "Die vorausschauende Einschätzung zukünftiger Entwicklungen", "answers": ["voraussicht","vorahnung","vorblick"], "difficulty": "easy" },
+        { "question": "Die verbindliche Übereinkunft zwischen Parteien", "answers": ["vertrag","vereinbarung","verabredung"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, etwas klar zu erkennen", "answers": ["verstand","vernunft","verstandeskraft"], "difficulty": "easy" },
+        { "question": "Die bewusste Entscheidung für ein Ziel", "answers": ["vorhaben","vorsatz","vorentscheidung"], "difficulty": "easy" },
+        { "question": "Die innere Sicherheit im Auftreten", "answers": ["vertrauen","versicht","verlässlichkeit"], "difficulty": "easy" },
+        { "question": "Die zielgerichtete Planung eines Handelns", "answers": ["vorgehen","vorgehensweise","vorplanung"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, Verantwortung zu übernehmen", "answers": ["verantwortung","verpflichtung","verbindlichkeit"], "difficulty": "easy" },
+        { "question": "Die bewusste Bewertung eines Sachverhalts", "answers": ["vergleich","verortung","verhältnis"], "difficulty": "easy" },
+        { "question": "Die innere Ausrichtung auf ein Ziel", "answers": ["vision","vorstellung","vorbild"], "difficulty": "easy" },
+        { "question": "Die zuverlässige Eigenschaft eines Systems", "answers": ["verlässlichkeit","verfügbarkeit","verträglichkeit"], "difficulty": "easy" },
+
+        { "question": "Die reflektierte Fähigkeit zu urteilen", "answers": ["vernunft","verstand","umsicht"], "difficulty": "medium" },
+        { "question": "Die strukturierte Vorbereitung eines Projekts", "answers": ["vorplanung","vorgehen","vorhaben"], "difficulty": "medium" },
+        { "question": "Die langfristige Zielvorstellung", "answers": ["vision","vorstellung","leitbild"], "difficulty": "medium" },
+        { "question": "Die Verpflichtung gegenüber Regeln oder Personen", "answers": ["verantwortung","verpflichtung","verbindlichkeit"], "difficulty": "medium" },
+        { "question": "Die verlässliche Grundlage von Entscheidungen", "answers": ["vertrauen","verlässlichkeit","versicht"], "difficulty": "medium" },
+
+        { "question": "Die vorausschauende Steuerung komplexer Prozesse", "answers": ["voraussicht","vorplanung","umsicht"], "difficulty": "hard" },
+        { "question": "Die rationale Grundlage verantwortlichen Handelns", "answers": ["vernunft","verstand","urteilskraft"], "difficulty": "hard" },
+        { "question": "Die normative Bindung innerhalb von Systemen", "answers": ["verantwortung","verbindlichkeit","verpflichtung"], "difficulty": "hard" },
+        { "question": "Die strategische Ausrichtung über lange Zeiträume", "answers": ["vision","leitbild","vorstellung"], "difficulty": "hard" },
+        { "question": "Die belastbare Zuverlässigkeit organisatorischer Strukturen", "answers": ["verlässlichkeit","verfügbarkeit","stabilität"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "W",
+      "order": 23,
+      "questions": [
+        { "question": "Die Fähigkeit, Sachverhalte zu erkennen", "answers": ["wahrnehmung","wissen","wachsamkeit"], "difficulty": "easy" },
+        { "question": "Der innere Wunsch nach Entwicklung", "answers": ["wille","wunsch","wachstum"], "difficulty": "easy" },
+        { "question": "Die verlässliche Kenntnis eines Themas", "answers": ["wissen","weisheit","weltkenntnis"], "difficulty": "easy" },
+        { "question": "Die Fähigkeit, ruhig zu bleiben", "answers": ["würde","ruhe","widerstandskraft"], "difficulty": "easy" },
+        { "question": "Die zielgerichtete Entscheidung", "answers": ["wahl","weg","willensakt"], "difficulty": "easy" },
+        { "question": "Die innere Stärke gegenüber Belastungen", "answers": ["widerstandskraft","willenskraft","wehrhaftigkeit"], "difficulty": "easy" },
+        { "question": "Die Entwicklung über Zeit", "answers": ["wachstum","wandel","werdung"], "difficulty": "easy" },
+        { "question": "Die klare Einsicht in Zusammenhänge", "answers": ["weisheit","wissen","weitsicht"], "difficulty": "easy" },
+        { "question": "Die bewusste Zielverfolgung", "answers": ["wille","willenskraft","zielstrebigkeit"], "difficulty": "easy" },
+        { "question": "Die Richtung des Handelns", "answers": ["weg","weise","richtung"], "difficulty": "easy" },
+
+        { "question": "Die reflektierte Erkenntnis komplexer Zusammenhänge", "answers": ["weisheit","weitsicht","wissen"], "difficulty": "medium" },
+        { "question": "Die nachhaltige Entwicklung von Systemen", "answers": ["wachstum","wandel","entwicklung"], "difficulty": "medium" },
+        { "question": "Die bewusste Steuerung des eigenen Handelns", "answers": ["wille","willenskraft","selbstbestimmung"], "difficulty": "medium" },
+        { "question": "Die Fähigkeit zur Belastungsanpassung", "answers": ["widerstandskraft","resilienz","wehrhaftigkeit"], "difficulty": "medium" },
+        { "question": "Die strukturierte Wahl zwischen Optionen", "answers": ["wahl","entscheid","auswahl"], "difficulty": "medium" },
+
+        { "question": "Die kognitive Tiefe reflektierten Wissens", "answers": ["weisheit","weitsicht","erkenntnis"], "difficulty": "hard" },
+        { "question": "Die strategische Gestaltung langfristiger Veränderungen", "answers": ["wandel","entwicklung","wachstum"], "difficulty": "hard" },
+        { "question": "Die autonome Durchsetzung eigener Ziele", "answers": ["willenskraft","selbstbestimmung","wille"], "difficulty": "hard" },
+        { "question": "Die systemische Robustheit gegenüber Störungen", "answers": ["widerstandskraft","resilienz","stabilität"], "difficulty": "hard" },
+        { "question": "Die normativ geleitete Entscheidungsfindung", "answers": ["wahl","urteil","abwägung"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "X",
+      "order": 24,
+      "questions": [
+        { "question": "Die freundliche Haltung gegenüber Fremden", "answers": ["xenial","xenophil","xenodoch"], "difficulty": "easy" },
+        { "question": "Die Abneigung gegen Fremdes", "answers": ["xenophob","xenophobie","xenophobisch"], "difficulty": "easy" },
+        { "question": "Ein chemisches Element mit Edelgaseigenschaft", "answers": ["xenon","xenium","xenongas"], "difficulty": "easy" },
+        { "question": "Ein Musikinstrument aus Holzplatten", "answers": ["xylophon","xylophonist","xylophonbau"], "difficulty": "easy" },
+        { "question": "Die trockene Beschaffenheit eines Lebensraums", "answers": ["xerisch","xerophil","xerophyten"], "difficulty": "easy" },
+
+        { "question": "Die positive Einstellung zu kultureller Vielfalt", "answers": ["xenophil","xenial","xenodoch"], "difficulty": "medium" },
+        { "question": "Die negative Haltung gegenüber dem Fremden", "answers": ["xenophob","xenophobie","xenophobisch"], "difficulty": "medium" },
+        { "question": "Ein in der Physik genutztes Edelgas", "answers": ["xenon","xenongas","xenium"], "difficulty": "medium" },
+        { "question": "Ein Schlaginstrument mit gestimmten Klangplatten", "answers": ["xylophon","xylophonbau","xylophonist"], "difficulty": "medium" },
+        { "question": "Die Anpassung an trockene Umweltbedingungen", "answers": ["xerophil","xerisch","xerophyten"], "difficulty": "medium" },
+
+        { "question": "Die kulturelle Offenheit als soziale Eigenschaft", "answers": ["xenial","xenophil","xenodoch"], "difficulty": "hard" },
+        { "question": "Die ideologische Ablehnung des Fremden", "answers": ["xenophobie","xenophob","xenophobisch"], "difficulty": "hard" },
+        { "question": "Die physikalische Nutzung eines Edelgases", "answers": ["xenon","xenongas","xenium"], "difficulty": "hard" },
+        { "question": "Die professionelle Ausübung eines Stabspiels", "answers": ["xylophonist","xylophon","xylophonbau"], "difficulty": "hard" },
+        { "question": "Die ökologische Spezialisierung auf Trockenheit", "answers": ["xerophil","xerophyten","xerisch"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Y",
+      "order": 25,
+      "questions": [
+        { "question": "Eine fernöstliche Praxis zur Förderung von Körper und Geist", "answers": ["yoga","yogapraxis","yogalehre"], "difficulty": "easy" },
+        { "question": "Ein Wasserfahrzeug für Freizeit oder Sport", "answers": ["yacht","yawl","yachtbau"], "difficulty": "easy" },
+        { "question": "Der Buchstabe mit griechischem Ursprung", "answers": ["ypsilon","ypogeum","yotta"], "difficulty": "easy" },
+        { "question": "Eine Währung in Ostasien", "answers": ["yen","yuan","yentyp"], "difficulty": "easy" },
+        { "question": "Eine körperliche Haltung aus dem Yoga", "answers": ["yogahaltung","yogapose","yogastellung"], "difficulty": "easy" },
+
+        { "question": "Eine spirituelle Disziplin mit meditativer Ausrichtung", "answers": ["yoga","yogalehre","yogatradition"], "difficulty": "medium" },
+        { "question": "Ein seegängiges Luxusboot", "answers": ["yacht","yachtbau","yachtwesen"], "difficulty": "medium" },
+        { "question": "Ein Maßpräfix für sehr große Zahlen", "answers": ["yotta","yocto","yottabyte"], "difficulty": "medium" },
+        { "question": "Ein Symbol aus dem griechischen Alphabet", "answers": ["ypsilon","ypogeum","ypsilant"], "difficulty": "medium" },
+        { "question": "Eine fernöstliche Bewegungskultur", "answers": ["yoga","yogapraxis","yogaschule"], "difficulty": "medium" },
+
+        { "question": "Eine ganzheitliche Praxis zur Selbstregulation", "answers": ["yoga","yogalehre","yogatradition"], "difficulty": "hard" },
+        { "question": "Der nautische Entwurf großer Segelschiffe", "answers": ["yachtbau","yachttechnik","yachtwesen"], "difficulty": "hard" },
+        { "question": "Ein wissenschaftliches Präfix im internationalen Einheitensystem", "answers": ["yotta","yocto","yottabyte"], "difficulty": "hard" },
+        { "question": "Die historische Bezeichnung eines griechischen Lautzeichens", "answers": ["ypsilon","ypsilant","ypogeum"], "difficulty": "hard" },
+        { "question": "Die systematische Lehre körperlicher Yogatechniken", "answers": ["yogalehre","yogaschule","yogatradition"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Z",
+      "order": 26,
+      "questions": [
+        { "question": "Ein klar definiertes Ziel", "answers": ["ziel","zweck","zielpunkt"], "difficulty": "easy" },
+        { "question": "Der Zustand innerer Sicherheit", "answers": ["zuversicht","zufriedenheit","zugehörigkeit"], "difficulty": "easy" },
+        { "question": "Ein zeitlicher Abschnitt", "answers": ["zeit","zyklus","zeitraum"], "difficulty": "easy" },
+        { "question": "Die bewusste Entscheidung für etwas", "answers": ["zusage","zuwendung","zustimmung"], "difficulty": "easy" },
+        { "question": "Die Ordnung von Abläufen", "answers": ["zyklus","zusammenhang","zeitfolge"], "difficulty": "easy" },
+
+        { "question": "Die langfristige Ausrichtung eines Vorhabens", "answers": ["zielsetzung","zweckbindung","zielorientierung"], "difficulty": "medium" },
+        { "question": "Die verlässliche innere Haltung", "answers": ["zuversicht","zuverlässigkeit","zukunftsglaube"], "difficulty": "medium" },
+        { "question": "Die wiederkehrende Abfolge von Phasen", "answers": ["zyklus","zeitstruktur","zeitfolge"], "difficulty": "medium" },
+        { "question": "Die bewusste Hinwendung zu einer Sache", "answers": ["zuwendung","zusage","zustimmung"], "difficulty": "medium" },
+        { "question": "Der funktionale Zusammenhang von Teilen", "answers": ["zusammenhang","zusammenspiel","zentrierung"], "difficulty": "medium" },
+
+        { "question": "Die strategische Definition eines Endzustands", "answers": ["zielsetzung","zielorientierung","zweckbindung"], "difficulty": "hard" },
+        { "question": "Die stabile Erwartung positiver Entwicklung", "answers": ["zuversicht","zukunftsglaube","zuverlässigkeit"], "difficulty": "hard" },
+        { "question": "Die systemische Wiederkehr zeitlicher Muster", "answers": ["zyklus","zeitstruktur","zeitdynamik"], "difficulty": "hard" },
+        { "question": "Die bewusste und verbindliche Zustimmung", "answers": ["zustimmung","zusage","zuwendung"], "difficulty": "hard" },
+        { "question": "Die kohärente Verbindung komplexer Elemente", "answers": ["zusammenhang","zusammenspiel","zentrierung"], "difficulty": "hard" }
+      ]
+    }
+  ]
+}

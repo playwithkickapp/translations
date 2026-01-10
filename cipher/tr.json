@@ -1,0 +1,621 @@
+{
+  "lang": "tr",
+  "letters": [
+    {
+      "letter": "A",
+      "order": 1,
+      "questions": [
+        { "question": "Bir kişinin doğruyu gözeterek davranması durumu", "answers": ["adalet","ahlak","adil","erdem"], "difficulty": "easy" },
+        { "question": "Bir şeye karşı duyulan güçlü istek", "answers": ["arzu","istek","alaka","aşk"], "difficulty": "easy" },
+        { "question": "Bir işi başarma gücü", "answers": ["azim","atak","aktif","ataklık"], "difficulty": "easy" },
+        { "question": "Bir durumu kavrama yeteneği", "answers": ["akıl","algı","anlayış","ayrım"], "difficulty": "easy" },
+        { "question": "Bir yere ait olma hissi", "answers": ["aidiyet","aitlik","adaptasyon"], "difficulty": "easy" },
+        { "question": "Bir şeye yönelme durumu", "answers": ["arayış","amaç","aksiyon"], "difficulty": "easy" },
+        { "question": "Bir işte ileri gitmeyi sağlayan özellik", "answers": ["avantaj","artı","ayrıcalık"], "difficulty": "easy" },
+        { "question": "Bir olayın başlangıç anı", "answers": ["an","aşama","adım"], "difficulty": "easy" },
+        { "question": "Bir şeyin var olma nedeni", "answers": ["amaç","anlam","adayış"], "difficulty": "easy" },
+        { "question": "Bir durumun farkında olma hali", "answers": ["aydınlık","algılama","açıklık"], "difficulty": "easy" },
+
+        { "question": "Bir sistemi oluşturan temel yapı", "answers": ["altyapı","anahtar","arayüz"], "difficulty": "medium" },
+        { "question": "Bir konuyu ayrıntılı biçimde inceleme süreci", "answers": ["analiz","araştırma","ayrıştırma"], "difficulty": "medium" },
+        { "question": "Bir düşünceyi ifade etme biçimi", "answers": ["anlatım","açıklama","aktarım"], "difficulty": "medium" },
+        { "question": "Bir duruma uyum sağlama yeteneği", "answers": ["adaptasyon","alışma","ayarlama"], "difficulty": "medium" },
+        { "question": "Bir olayın etkisini artıran unsur", "answers": ["ağırlık","artış","akıcılık"], "difficulty": "medium" },
+        { "question": "Bir düşüncenin zihinde şekillenmesi", "answers": ["abstraksiyon","algılama","anlamlandırma"], "difficulty": "medium" },
+        { "question": "Bir yapının dengeli olması durumu", "answers": ["ahenk","armoni","ayarlılık"], "difficulty": "medium" },
+        { "question": "Bir kişinin kendini ifade etme tarzı", "answers": ["aura","alışkanlık","anlatım"], "difficulty": "medium" },
+        { "question": "Bir kararın uygulanmaya konması", "answers": ["aksiyon","adım","atılım"], "difficulty": "medium" },
+        { "question": "Bir bilginin zihinde tutulması süreci", "answers": ["anımsama","akılda kalma","algı"], "difficulty": "medium" },
+
+        { "question": "Soyut bir düşüncenin zihinsel temsili", "answers": ["abstraksiyon","anlam","arche"], "difficulty": "hard" },
+        { "question": "Bir sistemin kendi içinde tutarlı olması", "answers": ["ahenk","adaptiflik","ayar"], "difficulty": "hard" },
+        { "question": "İnsanın kendini gerçekleştirme çabası", "answers": ["arayış","arayışçılık","atılım"], "difficulty": "hard" },
+        { "question": "Bilginin eleştirel süzgeçten geçirilmesi", "answers": ["analiz","ayıklama","araştırma"], "difficulty": "hard" },
+        { "question": "Bir düşüncenin temel dayanağı", "answers": ["aksiyom","argüman","altyapı"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "B",
+      "order": 2,
+      "questions": [
+        { "question": "Bir şeye karşı duyulan içten yakınlık", "answers": ["bağ","benimseme","bağlılık"], "difficulty": "easy" },
+        { "question": "Bir işte elde edilen olumlu sonuç", "answers": ["başarı","bereket","büyüme"], "difficulty": "easy" },
+        { "question": "Bir kişinin bilgi birikimi", "answers": ["bilgi","birikim","bilgelik"], "difficulty": "easy" },
+        { "question": "Bir olayın başlangıç noktası", "answers": ["başlangıç","basamak","baş"], "difficulty": "easy" },
+        { "question": "Bir işi yapabilme yetisi", "answers": ["beceri","başarı","beceriklilik"], "difficulty": "easy" },
+        { "question": "Bir şeye güvenme durumu", "answers": ["bağlanma","benimseme","bağlılık"], "difficulty": "easy" },
+        { "question": "Bir ortamda bulunma hali", "answers": ["bulunuş","barınma","bulunma"], "difficulty": "easy" },
+        { "question": "Bir kişinin davranış tarzı", "answers": ["biçem","benlik","bakış"], "difficulty": "easy" },
+        { "question": "Bir işte gösterilen çaba", "answers": ["gayret","bedel","bağlanma"], "difficulty": "easy" },
+        { "question": "Bir durumun açık olması", "answers": ["belirlilik","berraklık","belginlik"], "difficulty": "easy" },
+
+        { "question": "Bir topluluğu bir arada tutan unsur", "answers": ["bağ","birlik","bütünlük"], "difficulty": "medium" },
+        { "question": "Bir düşüncenin temel yapısı", "answers": ["bütün","blok","bileşen"], "difficulty": "medium" },
+        { "question": "Bir olayın arka planı", "answers": ["bağlam","zemin","arka plan"], "difficulty": "medium" },
+        { "question": "Bir işin planlı ilerlemesi", "answers": ["bütünlük","basamak","düzen"], "difficulty": "medium" },
+        { "question": "Bir bilginin doğrulanması", "answers": ["belgeleme","kanıt","ispat"], "difficulty": "medium" },
+        { "question": "Bir sistemin uyumlu çalışması", "answers": ["bütünlük","denge","uyum"], "difficulty": "medium" },
+        { "question": "Bir fikrin savunulması", "answers": ["beyan","bildirim","savunma"], "difficulty": "medium" },
+        { "question": "Bir yapının ana unsuru", "answers": ["bileşen","blok","birim"], "difficulty": "medium" },
+        { "question": "Bir sürecin aşamaları", "answers": ["basamak","bölüm","evre"], "difficulty": "medium" },
+        { "question": "Bir kişinin kendini algılayışı", "answers": ["benlik","bilinç","bakış"], "difficulty": "medium" },
+
+        { "question": "Bir düşüncenin mantıksal dayanağı", "answers": ["baz","bütün","bağlam"], "difficulty": "hard" },
+        { "question": "Bir sistemin kararlı çalışması", "answers": ["istikrar","denge","bütünlük"], "difficulty": "hard" },
+        { "question": "Bilginin yapılandırılması süreci", "answers": ["bütünleme","birleştirme","derleme"], "difficulty": "hard" },
+        { "question": "Bir fikrin kavramsal çerçevesi", "answers": ["bağlam","bütün","çerçeve"], "difficulty": "hard" },
+        { "question": "Bir toplumsal yapının temeli", "answers": ["birlik","bütünlük","bağ"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "C",
+      "order": 3,
+      "questions": [
+        { "question": "Bir arada bulunma durumu", "answers": ["cemiyet","camia","cami"], "difficulty": "easy" },
+        { "question": "Bir işte gösterilen canlılık", "answers": ["canlılık","coşku","cevher"], "difficulty": "easy" },
+        { "question": "Bir şeye değer katma hali", "answers": ["cazibe","çekicilik","cömertlik"], "difficulty": "easy" },
+        { "question": "Bir kişinin içsel gücü", "answers": ["cesaret","cüret","can"], "difficulty": "easy" },
+        { "question": "Bir ortamın sıcaklığı", "answers": ["canlılık","civcivlilik","coşku"], "difficulty": "easy" },
+        { "question": "Bir şeyin merkezinde olma durumu", "answers": ["cazibe","çekim","odak"], "difficulty": "easy" },
+        { "question": "Bir düşüncenin netliği", "answers": ["ciddiyet","clarity","cisim"], "difficulty": "easy" },
+        { "question": "Bir işin hızlı yapılması", "answers": ["çabukluk","celerity","çeviklik"], "difficulty": "easy" },
+        { "question": "Bir kişinin duygusal hali", "answers": ["coşku","canlılık","cesaret"], "difficulty": "easy" },
+        { "question": "Bir ortamda oluşan enerji", "answers": ["coşku","canlılık","cazibe"], "difficulty": "easy" },
+
+        { "question": "Bir yapının ortak noktası", "answers": ["çekirdek","merkez","odak"], "difficulty": "medium" },
+        { "question": "Bir fikrin çekici olması", "answers": ["cazibe","çekim","albeni"], "difficulty": "medium" },
+        { "question": "Bir sistemin ana bileşeni", "answers": ["çekirdek","bileşen","merkez"], "difficulty": "medium" },
+        { "question": "Bir topluluğun ortak bilinci", "answers": ["cemiyet","camia","topluluk"], "difficulty": "medium" },
+        { "question": "Bir durumun dikkat çekmesi", "answers": ["cazibe","çekicilik","etki"], "difficulty": "medium" },
+        { "question": "Bir sürecin hızlanması", "answers": ["çeviklik","çabukluk","akış"], "difficulty": "medium" },
+        { "question": "Bir fikrin yayılması", "answers": ["çoğalma","çoğaltma","dağılma"], "difficulty": "medium" },
+        { "question": "Bir yapının merkezden yönetilmesi", "answers": ["centralizasyon","merkezileşme","odaklanma"], "difficulty": "medium" },
+        { "question": "Bir düşüncenin netleşmesi", "answers": ["clarity","açıklık","belirlilik"], "difficulty": "medium" },
+        { "question": "Bir ortamın hareketliliği", "answers": ["canlılık","coşku","dinamizm"], "difficulty": "medium" },
+
+        { "question": "Bir sistemin merkezî yapısı", "answers": ["centralizasyon","çekirdek","merkez"], "difficulty": "hard" },
+        { "question": "Bir düşüncenin toplumsal etkisi", "answers": ["cereyan","akım","hareket"], "difficulty": "hard" },
+        { "question": "Bir yapının kavramsal odağı", "answers": ["çekirdek","odak","merkez"], "difficulty": "hard" },
+        { "question": "Bir fikrin geniş kitlelere yayılması", "answers": ["çoğalma","cereyan","yayılım"], "difficulty": "hard" },
+        { "question": "Bir toplumsal hareketin temel gücü", "answers": ["coşku","cazibe","çekim"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Ç",
+      "order": 4,
+      "questions": [
+        { "question": "Bir işi yapma isteği ve enerjisi", "answers": ["çaba","çalışkanlık","çeviklik"], "difficulty": "easy" },
+        { "question": "Bir durumun açık ve anlaşılır olması", "answers": ["çözünürlük","çıklık","çerçeve"], "difficulty": "easy" },
+        { "question": "Bir toplulukta birlikte hareket etme hali", "answers": ["çevre","çember","çeviklik"], "difficulty": "easy" },
+        { "question": "Bir olayın beklenmedik şekilde sona ermesi", "answers": ["çöküş","çarpışma","çözülme"], "difficulty": "medium" },
+        { "question": "Bir sorunun giderilmesi süreci", "answers": ["çözüm","çare","çıkarım"], "difficulty": "medium" },
+        { "question": "Bir düşüncenin sınırlarının belirlenmesi", "answers": ["çerçeve","çizgi","çevreleme"], "difficulty": "medium" },
+        { "question": "Bir sistemin parçalarına ayrılması", "answers": ["çözülme","çözümleme","çözüm"], "difficulty": "hard" },
+        { "question": "Bir yapının aniden zarar görmesi", "answers": ["çökme","çarpma","çatlama"], "difficulty": "hard" },
+        { "question": "Bir fikrin etkisini kaybetmesi", "answers": ["çözülme","çürüme","çöküş"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "D",
+      "order": 5,
+      "questions": [
+        { "question": "Bir işte düzenli ve istikrarlı olma hali", "answers": ["disiplin","düzen","devamlılık"], "difficulty": "easy" },
+        { "question": "Bir durumun açıkça anlaşılması", "answers": ["doğruluk","duruluk","derinlik"], "difficulty": "easy" },
+        { "question": "Bir şeyin değerli olması durumu", "answers": ["değer","değerlik","değerlenme"], "difficulty": "easy" },
+        { "question": "Bir olayın zaman içindeki gelişimi", "answers": ["dönüşüm","değişim","devinim"], "difficulty": "medium" },
+        { "question": "Bir kararın uygulanması süreci", "answers": ["devreye alma","davranış","direksiyon"], "difficulty": "medium" },
+        { "question": "Bir yapının sağlam kalması", "answers": ["dayanıklılık","denge","direnç"], "difficulty": "medium" },
+        { "question": "Bir düşüncenin ayrıntılı incelenmesi", "answers": ["derinleştirme","değerlendirme","düşünüm"], "difficulty": "hard" },
+        { "question": "Bir sistemin kararlı şekilde sürmesi", "answers": ["devamlılık","denge","dirayet"], "difficulty": "hard" },
+        { "question": "Bir bilginin doğruluğunun sınanması", "answers": ["doğrulama","denetim","değerlendirme"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "E",
+      "order": 6,
+      "questions": [
+        { "question": "Bir kişiye karşı anlayışlı olma durumu", "answers": ["empati","esneklik","erişkenlik"], "difficulty": "easy" },
+        { "question": "Bir şeyin etkili olması hali", "answers": ["etki","etkililik","etkinlik"], "difficulty": "easy" },
+        { "question": "Bir işte gösterilen çaba", "answers": ["emek","enerji","eylem"], "difficulty": "easy" },
+        { "question": "Bir olayın sonucunda ortaya çıkan durum", "answers": ["etki","etkileşim","etmen"], "difficulty": "medium" },
+        { "question": "Bir yapının değişime uyum sağlaması", "answers": ["esneklik","evrim","etkileşim"], "difficulty": "medium" },
+        { "question": "Bir bilginin genişletilmesi süreci", "answers": ["ekleme","erişim","entegrasyon"], "difficulty": "medium" },
+        { "question": "Bir sistemin dış faktörlerle karşılıklı çalışması", "answers": ["etkileşim","entegrasyon","eşgüdüm"], "difficulty": "hard" },
+        { "question": "Bir sürecin aşamalarla ilerlemesi", "answers": ["evrim","ilerleme","etaplama"], "difficulty": "hard" },
+        { "question": "Bir yapının kendi içinde tutarlı olması", "answers": ["eşgüdüm","etiketleme","eşitlik"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "F",
+      "order": 7,
+      "questions": [
+        { "question": "Bir kişinin doğruyu söyleme eğilimi", "answers": ["fazilet","feraset","fedakarlık"], "difficulty": "easy" },
+        { "question": "Bir olayın algılanma biçimi", "answers": ["farkındalık","fikir","felsefe"], "difficulty": "easy" },
+        { "question": "Bir şeye duyulan yoğun ilgi", "answers": ["favori","fırsat","fayda"], "difficulty": "easy" },
+        { "question": "Bir durumun yararlı olma hali", "answers": ["fayda","fonksiyon","faktör"], "difficulty": "easy" },
+        { "question": "Bir işte gösterilen karşılıksız çaba", "answers": ["fedakarlık","feragat","fedai"], "difficulty": "easy" },
+
+        { "question": "Bir olayın oluşmasına etki eden unsur", "answers": ["faktör","fonksiyon","frekans"], "difficulty": "medium" },
+        { "question": "Bir düşünce sisteminin temeli", "answers": ["felsefe","fikriyat","formülasyon"], "difficulty": "medium" },
+        { "question": "Bir yapının işlevsel olması", "answers": ["fonksiyonellik","faydalılık","faaliyet"], "difficulty": "medium" },
+        { "question": "Bir durumun bilincinde olma hali", "answers": ["farkındalık","feraset","fikir"], "difficulty": "medium" },
+        { "question": "Bir sürecin düzenli işlemesi", "answers": ["format","form","fonksiyon"], "difficulty": "medium" },
+
+        { "question": "Bir düşüncenin soyut yapısı", "answers": ["felsefe","form","fikriyat"], "difficulty": "hard" },
+        { "question": "Bir davranışın ahlaki değeri", "answers": ["fazilet","feraset","fedakarlık"], "difficulty": "hard" },
+        { "question": "Bir sistemin işleyiş mantığı", "answers": ["fonksiyon","formülasyon","faktör"], "difficulty": "hard" },
+        { "question": "Bir bilginin zihinsel temsili", "answers": ["form","fikir","felsefe"], "difficulty": "hard" },
+        { "question": "Bir kararın etkili sonuç üretmesi", "answers": ["fayda","faktör","fonksiyonellik"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "G",
+      "order": 8,
+      "questions": [
+        { "question": "Bir işten elde edilen olumlu sonuç", "answers": ["getiri","gelir","gelişim"], "difficulty": "easy" },
+        { "question": "Bir kişiye duyulan içten yakınlık", "answers": ["güven","gönül","gönüllülük"], "difficulty": "easy" },
+        { "question": "Bir olayın ilerleme durumu", "answers": ["gelişim","gidişat","genişleme"], "difficulty": "easy" },
+        { "question": "Bir şeyin değerli görülmesi", "answers": ["gereklilik","geçerlilik","gerekçe"], "difficulty": "easy" },
+        { "question": "Bir davranışta dürüst olma hali", "answers": ["güvenilirlik","gerçeklik","doğruluk"], "difficulty": "easy" },
+
+        { "question": "Bir fikrin dayandığı neden", "answers": ["gerekçe","gerek","girdi"], "difficulty": "medium" },
+        { "question": "Bir sürecin olumlu yönde değişmesi", "answers": ["gelişim","güçlenme","genişleme"], "difficulty": "medium" },
+        { "question": "Bir yapının işler durumda olması", "answers": ["geçerlilik","güvenirlik","güç"], "difficulty": "medium" },
+        { "question": "Bir sistemin dışa etkisi", "answers": ["geri bildirim","girdi","geri dönüş"], "difficulty": "medium" },
+        { "question": "Bir olayın genel durumu", "answers": ["gidişat","genel görünüm","görüntü"], "difficulty": "medium" },
+
+        { "question": "Bir bilginin doğruluğunun kabulü", "answers": ["geçerlilik","güvenirlik","gerçeklik"], "difficulty": "hard" },
+        { "question": "Bir sürecin kontrol altında ilerlemesi", "answers": ["gözetim","güvence","güç"], "difficulty": "hard" },
+        { "question": "Bir fikrin toplumsal etkisi", "answers": ["görüş","genel kanaat","gündem"], "difficulty": "hard" },
+        { "question": "Bir sistemin sürdürülebilir olması", "answers": ["güç","güvence","gereklilik"], "difficulty": "hard" },
+        { "question": "Bir kararın arkasındaki mantık", "answers": ["gerekçe","gerek","görüş"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "H",
+      "order": 10,
+      "questions": [
+        { "question": "Bir kişiye duyulan saygı ve değer", "answers": ["hürmet","hatır","hoşgörü"], "difficulty": "easy" },
+        { "question": "Bir durumun açıkça anlaşılması", "answers": ["hakikat","husus","haber"], "difficulty": "easy" },
+        { "question": "Bir olaydan alınan bilgi", "answers": ["haber","haberleşme","havadi̇s"], "difficulty": "easy" },
+        { "question": "Bir kişinin içsel gücü", "answers": ["hedef","hırs","heyecan"], "difficulty": "easy" },
+        { "question": "Bir davranışta yumuşak yaklaşım", "answers": ["hoşgörü","hürmet","hassasiyet"], "difficulty": "easy" },
+
+        { "question": "Bir düşüncenin temel amacı", "answers": ["hedef","hırs","hayal"], "difficulty": "medium" },
+        { "question": "Bir bilginin doğruluğu", "answers": ["hakikat","haklılık","hakkaniyet"], "difficulty": "medium" },
+        { "question": "Bir olayın ayrıntılı yönü", "answers": ["husus","hassasiyet","hâl"], "difficulty": "medium" },
+        { "question": "Bir sürecin heyecan verici olması", "answers": ["heyecan","hareket","hız"], "difficulty": "medium" },
+        { "question": "Bir kişinin olaylara yaklaşımı", "answers": ["hissiyat","hayat görüşü","hal"], "difficulty": "medium" },
+
+        { "question": "Bir gerçeğin ahlaki boyutu", "answers": ["hakkaniyet","hakikat","hürmet"], "difficulty": "hard" },
+        { "question": "Bir hedefe ulaşma isteği", "answers": ["hırs","hedef","heyecan"], "difficulty": "hard" },
+        { "question": "Bir bilginin toplumsal değeri", "answers": ["haber","hakikat","hususiyet"], "difficulty": "hard" },
+        { "question": "Bir davranışın etik temeli", "answers": ["hakkaniyet","hoşgörü","hürmet"], "difficulty": "hard" },
+        { "question": "Bir düşüncenin zihinsel yansıması", "answers": ["hayal","his","hissiyat"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "I",
+      "order": 11,
+      "questions": [
+        { "question": "Doğal olarak akan büyük su yatağı", "answers": ["ırmak","ırmakçık","ırmaklı"], "difficulty": "easy" },
+        { "question": "Görmeyi sağlayan fiziksel enerji", "answers": ["ışık","ışıma","ışın"], "difficulty": "easy" },
+        { "question": "Aşırı olmayan ve dengeli olma durumu", "answers": ["ılımlı","ılımlılık","ılıman"], "difficulty": "easy" },
+        { "question": "Bir konuda vazgeçmeme durumu", "answers": ["ısrar","ısrarcılık","ısrarlı"], "difficulty": "medium" },
+        { "question": "Bir şeye dikkatini yöneltme hali", "answers": ["ilinti","irtibat","irade"], "difficulty": "medium" },
+        { "question": "Bir davranışın bilinçli olarak seçilmesi", "answers": ["irade","iradilik","iradi"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "İ",
+      "order": 12,
+      "questions": [
+        { "question": "Toplum içinde yaşayan birey", "answers": ["insan","insanlık","insaniyet"], "difficulty": "easy" },
+        { "question": "Bir şeye yönelen merak ve bağ", "answers": ["ilgi","ilinti","ilişki"], "difficulty": "easy" },
+        { "question": "Zihinde oluşan tasarım", "answers": ["imge","imaj","imgesel"], "difficulty": "easy" },
+        { "question": "Bir işin yapılabilme durumu", "answers": ["imkan","ihtimal","ihtiyaç"], "difficulty": "medium" },
+        { "question": "Bir kavramın açıklayıcı örneği", "answers": ["izah","ifade","ileti"], "difficulty": "medium" },
+        { "question": "Bir düşüncenin mantıksal sonucu", "answers": ["çıkarım","sonuç","netice"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "J",
+      "order": 13,
+      "questions": [
+        { "question": "Hızlı ve kısa süreli hava aracı", "answers": ["jet","jetlik","jeton"], "difficulty": "easy" },
+        { "question": "Keskin ağızlı tıraş aracı", "answers": ["jilet","jiletlik","jiletçi"], "difficulty": "easy" },
+        { "question": "Şaka ve espriyle ilişkilendirilen karakter", "answers": ["joker","jokerlik","jokersiz"], "difficulty": "medium" },
+        { "question": "Hukuki konularda karar veren kurul", "answers": ["jüri","jürilik","jürisel"], "difficulty": "medium" },
+        { "question": "Popüler müzik türü", "answers": ["jazz","jazcı","jazzlık"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "K",
+      "order": 14,
+      "questions": [
+        { "question": "Bir kişinin bir konuda yeterli olması durumu", "answers": ["kabiliyet","kapasite","kompetans"], "difficulty": "easy" },
+        { "question": "Bir durumu anlayabilme yetisi", "answers": ["kavrayış","kavrama","kavrayıcılık"], "difficulty": "easy" },
+        { "question": "Bir şeyin değerli görülme nedeni", "answers": ["kıymet","kazanım","katkı"], "difficulty": "easy" },
+        { "question": "Bir işte düzenli ilerleme hali", "answers": ["kararlılık","istikrar","kontrol"], "difficulty": "easy" },
+        { "question": "Bir amaca yönelmiş düşünce", "answers": ["karar","kriter","kapsam"], "difficulty": "easy" },
+
+        { "question": "Bir sistemin sınırlarını belirleyen yapı", "answers": ["kapsam","kriter","koşul"], "difficulty": "medium" },
+        { "question": "Bir olayın nedenlerini anlama süreci", "answers": ["kestirim","kurgulama","kıyas"], "difficulty": "medium" },
+        { "question": "Bir yapının bütünlüğünü koruması", "answers": ["korunum","kararlılık","denge"], "difficulty": "medium" },
+        { "question": "Bir bilginin başka bilgiyle karşılaştırılması", "answers": ["kıyas","karşıtlık","karşılaştırma"], "difficulty": "medium" },
+        { "question": "Bir sürecin denetlenmesi durumu", "answers": ["kontrol","koordinasyon","kılavuzluk"], "difficulty": "medium" },
+
+        { "question": "Bir düşüncenin temel ölçütü", "answers": ["kriter","kavram","kuram"], "difficulty": "hard" },
+        { "question": "Bir sistemin kendi kendini düzenlemesi", "answers": ["kontrol","kararlılık","korunum"], "difficulty": "hard" },
+        { "question": "Bir fikrin zihinsel inşası", "answers": ["kurgu","kavramsallaşma","kurgulama"], "difficulty": "hard" },
+        { "question": "Bir yapının teorik dayanağı", "answers": ["kuram","kavramsal","kapsam"], "difficulty": "hard" },
+        { "question": "Bir kararın mantıksal temeli", "answers": ["kriter","kıyas","kanıt"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "L",
+      "order": 15,
+      "questions": [
+        { "question": "Bir şeyden hoşlanma durumu", "answers": ["lezzet","latiflik","lütuf"], "difficulty": "easy" },
+        { "question": "Bir olayın mantıklı olması", "answers": ["mantık","tutarlılık","geçerlilik"], "difficulty": "easy" },
+        { "question": "Bir yapının hafif olması durumu", "answers": ["letafet","hafiflik","yumuşaklık"], "difficulty": "easy" },
+        { "question": "Bir kişiye gösterilen iyilik", "answers": ["lütuf","iyilik","bağış"], "difficulty": "easy" },
+        { "question": "Bir ortamın çekici olması", "answers": ["latiflik","lezzet","cazibe"], "difficulty": "easy" },
+
+        { "question": "Bir düşüncenin akla uygunluğu", "answers": ["mantık","tutarlılık","akılcılık"], "difficulty": "medium" },
+        { "question": "Bir yapının dilsel anlatımı", "answers": ["lisan","lehçe","lafız"], "difficulty": "medium" },
+        { "question": "Bir bilginin ifade ediliş biçimi", "answers": ["lafız","lisan","üslup"], "difficulty": "medium" },
+        { "question": "Bir durumun yumuşak geçişi", "answers": ["letafet","uyum","denge"], "difficulty": "medium" },
+        { "question": "Bir davranışın nazik olması", "answers": ["latiflik","lütuf","incelik"], "difficulty": "medium" },
+
+        { "question": "Bir düşüncenin mantıksal yapısı", "answers": ["mantık","akılcılık","tutarlılık"], "difficulty": "hard" },
+        { "question": "Bir dilin kavramsal çerçevesi", "answers": ["lisan","lafız","terminoloji"], "difficulty": "hard" },
+        { "question": "Bir ifadenin anlam derinliği", "answers": ["letafet","incelik","derinlik"], "difficulty": "hard" },
+        { "question": "Bir davranışın ahlaki yumuşaklığı", "answers": ["lütuf","latiflik","merhamet"], "difficulty": "hard" },
+        { "question": "Bir anlatımın estetik değeri", "answers": ["letafet","üslup","zarafet"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "M",
+      "order": 16,
+      "questions": [
+        { "question": "Bir şeyin anlamlı olması durumu", "answers": ["mana","manalılık","mahiyet"], "difficulty": "easy" },
+        { "question": "Bir hedefe ulaşma isteği", "answers": ["motivasyon","maksat","mevzu"], "difficulty": "easy" },
+        { "question": "Bir şeye verilen önem", "answers": ["mana","kıymet","değer"], "difficulty": "easy" },
+        { "question": "Bir işin yapılma nedeni", "answers": ["maksat","mana","gaye"], "difficulty": "easy" },
+        { "question": "Bir ortamın ruh hali", "answers": ["mod","mizaç","mood"], "difficulty": "easy" },
+
+        { "question": "Bir konunun temel içeriği", "answers": ["mahiyet","mana","mevzu"], "difficulty": "medium" },
+        { "question": "Bir bireyi harekete geçiren güç", "answers": ["motivasyon","motive","maksat"], "difficulty": "medium" },
+        { "question": "Bir yapının ölçülü olması", "answers": ["mizan","denge","oran"], "difficulty": "medium" },
+        { "question": "Bir davranışın karakter yapısı", "answers": ["mizaç","meşrep","tabiat"], "difficulty": "medium" },
+        { "question": "Bir sürecin ana konusu", "answers": ["mevzu","mahiyet","mana"], "difficulty": "medium" },
+
+        { "question": "Bir düşüncenin kavramsal özü", "answers": ["mahiyet","mana","öz"], "difficulty": "hard" },
+        { "question": "Bir sistemin denge prensibi", "answers": ["mizan","denge","ölçü"], "difficulty": "hard" },
+        { "question": "Bir davranışın içsel kaynağı", "answers": ["motivasyon","mizaç","meşrep"], "difficulty": "hard" },
+        { "question": "Bir kavramın felsefi içeriği", "answers": ["mahiyet","mana","mevhum"], "difficulty": "hard" },
+        { "question": "Bir amacın zihinsel temeli", "answers": ["maksat","mana","motivasyon"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "N",
+      "order": 17,
+      "questions": [
+        { "question": "Bir şeyin ihtiyaç duyulma durumu", "answers": ["neceset","neden","noksan"], "difficulty": "easy" },
+        { "question": "Bir olayın açıklayıcı sebebi", "answers": ["neden","nedensellik","nedeniyet"], "difficulty": "easy" },
+        { "question": "Bir şeyin eksik olması durumu", "answers": ["noksan","noktalılık","nadirlik"], "difficulty": "easy" },
+        { "question": "Bir durumun alışılmamış olması", "answers": ["nadir","niteliksiz","nevzuhur"], "difficulty": "easy" },
+        { "question": "Bir varlığın sayısal miktarı", "answers": ["nicelik","numara","nüfus"], "difficulty": "easy" },
+
+        { "question": "Bir kavramın ayırt edici özelliği", "answers": ["nitelik","nitelendirme","niteliklilik"], "difficulty": "medium" },
+        { "question": "Bir olayın sonuç doğurma ilişkisi", "answers": ["nedensellik","nedeniyet","neden"], "difficulty": "medium" },
+        { "question": "Bir durumun tarafsız değerlendirilmesi", "answers": ["nesnellik","nötrlük","nazar"], "difficulty": "medium" },
+        { "question": "Bir şeyin sayısal olarak ifade edilmesi", "answers": ["nicelik","numerik","numaralandırma"], "difficulty": "medium" },
+        { "question": "Bir olgunun açık biçimde görülmesi", "answers": ["netlik","nesnellik","nizam"], "difficulty": "medium" },
+
+        { "question": "Bir kavramın felsefi özelliği", "answers": ["nitelik","nesnellik","nedensellik"], "difficulty": "hard" },
+        { "question": "Bir bilginin yoruma kapalı olması", "answers": ["netlik","nesnellik","niteliklilik"], "difficulty": "hard" },
+        { "question": "Bir yapının düzenli işleyişi", "answers": ["nizam","nizamiye","norm"], "difficulty": "hard" },
+        { "question": "Bir düşüncenin gerçekliğe dayanması", "answers": ["nesnellik","nazar","netlik"], "difficulty": "hard" },
+        { "question": "Bir olgunun zorunlu oluşu", "answers": ["nedensellik","neceset","norm"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "O",
+      "order": 18,
+      "questions": [
+        { "question": "Bir şeyin var olma durumu", "answers": ["oluş","olgu","olanak"], "difficulty": "easy" },
+        { "question": "Bir işin yapılabilme ihtimali", "answers": ["olanak","olasılık","opsiyon"], "difficulty": "easy" },
+        { "question": "Bir olayın meydana gelmesi", "answers": ["oluş","ortaya çıkış","olay"], "difficulty": "easy" },
+        { "question": "Bir şeyin merkezde bulunması", "answers": ["odak","orta","odaklanma"], "difficulty": "easy" },
+        { "question": "Bir durumun düzenli olması", "answers": ["organizasyon","orantı","olgunluk"], "difficulty": "easy" },
+
+        { "question": "Bir olayın gerçekleşme ihtimali", "answers": ["olasılık","olanak","olasılıksallık"], "difficulty": "medium" },
+        { "question": "Bir sistemin düzenlenmesi süreci", "answers": ["organizasyon","organizasyonel","oluşum"], "difficulty": "medium" },
+        { "question": "Bir şeyin belirli noktaya yönelmesi", "answers": ["odaklanma","odak","oryantasyon"], "difficulty": "medium" },
+        { "question": "Bir yapının ölçülü olması", "answers": ["orantı","oran","ölçülülük"], "difficulty": "medium" },
+        { "question": "Bir düşüncenin olgunlaşması", "answers": ["olgunluk","oluşum","oturmuşluk"], "difficulty": "medium" },
+
+        { "question": "Bir sistemin iç düzeni", "answers": ["organizasyon","orantı","oluşum"], "difficulty": "hard" },
+        { "question": "Bir bilginin ihtimale dayanması", "answers": ["olasılık","olasılıksallık","olanak"], "difficulty": "hard" },
+        { "question": "Bir sürecin merkezî yönelimi", "answers": ["odak","odaklanma","oryantasyon"], "difficulty": "hard" },
+        { "question": "Bir yapının dengeli kurulması", "answers": ["orantı","oran","organizasyon"], "difficulty": "hard" },
+        { "question": "Bir kavramın gerçekleşme zemini", "answers": ["olanak","oluş","olasılık"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Ö",
+      "order": 19,
+      "questions": [
+        { "question": "Bir şeyin esas niteliği", "answers": ["öz","özellik","özgünlük"], "difficulty": "easy" },
+        { "question": "Bir davranışta serbest olma hali", "answers": ["özgürlük","özgürleşme","özerklik"], "difficulty": "easy" },
+        { "question": "Bir yapının temel parçası", "answers": ["öz","özüt","öge"], "difficulty": "easy" },
+        { "question": "Bir kişinin kendine güvenmesi", "answers": ["özgüven","özsaygı","özdeğer"], "difficulty": "easy" },
+        { "question": "Bir şeyin ayırt edici niteliği", "answers": ["özellik","özgünlük","özdeşlik"], "difficulty": "easy" },
+
+        { "question": "Bir kavramın temel içeriği", "answers": ["öz","özüt","özellik"], "difficulty": "medium" },
+        { "question": "Bir yapının kendine ait olması", "answers": ["özerklik","özgünlük","özellik"], "difficulty": "medium" },
+        { "question": "Bir kişinin kendini değerlendirmesi", "answers": ["özsaygı","özgüven","özdeğer"], "difficulty": "medium" },
+        { "question": "Bir bilginin kısaltılmış anlatımı", "answers": ["özet","özetleme","öz"], "difficulty": "medium" },
+        { "question": "Bir şeyin benzerleriyle aynı olması", "answers": ["özdeşlik","özellik","örtüşme"], "difficulty": "medium" },
+
+        { "question": "Bir kavramın felsefi temeli", "answers": ["öz","özüt","özdeşlik"], "difficulty": "hard" },
+        { "question": "Bir bireyin bağımsız karar verebilmesi", "answers": ["özerklik","özgürlük","özgürleşme"], "difficulty": "hard" },
+        { "question": "Bir yapının ayırt edici doğası", "answers": ["özgünlük","özellik","öz"], "difficulty": "hard" },
+        { "question": "Bir düşüncenin kendisiyle tutarlı olması", "answers": ["özdeşlik","özgünlük","öz"], "difficulty": "hard" },
+        { "question": "Bir değerin bireyde içselleşmesi", "answers": ["özsaygı","özdeğer","özgüven"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "P",
+      "order": 20,
+      "questions": [
+        { "question": "Bir işin planlı biçimde yürütülmesi", "answers": ["plan","program","proje"], "difficulty": "easy" },
+        { "question": "Bir şeye yönelik olumlu bakış", "answers": ["pozitiflik","paylaşım","paydaşlık"], "difficulty": "easy" },
+        { "question": "Bir şeyin açıkça görülmesi", "answers": ["parlaklık","perspektif","panorama"], "difficulty": "easy" },
+        { "question": "Bir konuda uzmanlaşmış kişi", "answers": ["profesyonel","pratisyen","pedagog"], "difficulty": "easy" },
+        { "question": "Bir sürecin düzenli ilerlemesi", "answers": ["progresyon","planlama","programlama"], "difficulty": "easy" },
+
+        { "question": "Bir yapının işleyiş mantığı", "answers": ["prosedür","protokol","prensip"], "difficulty": "medium" },
+        { "question": "Bir düşüncenin temel dayanağı", "answers": ["prensip","postülat","paradigma"], "difficulty": "medium" },
+        { "question": "Bir olayın geniş açıdan değerlendirilmesi", "answers": ["perspektif","panorama","projeksiyon"], "difficulty": "medium" },
+        { "question": "Bir sürecin aşamalı ilerlemesi", "answers": ["progresyon","periyot","planlama"], "difficulty": "medium" },
+        { "question": "Bir işin öncelikli hale getirilmesi", "answers": ["priorite","plan","program"], "difficulty": "medium" },
+
+        { "question": "Bir düşünce sisteminin genel modeli", "answers": ["paradigma","postülat","prensip"], "difficulty": "hard" },
+        { "question": "Bir bilginin geleceğe yansıtılması", "answers": ["projeksiyon","perspektif","planlama"], "difficulty": "hard" },
+        { "question": "Bir yapının kuramsal temeli", "answers": ["postülat","prensip","paradigma"], "difficulty": "hard" },
+        { "question": "Bir sürecin sistematik kurgusu", "answers": ["prosedür","protokol","programlama"], "difficulty": "hard" },
+        { "question": "Bir hedefe yönelik uzun vadeli bakış", "answers": ["perspektif","projeksiyon","plan"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "R",
+      "order": 21,
+      "questions": [
+        { "question": "Bir şeyin doğru kabul edilmesi", "answers": ["realite","rasyonellik","rayiç"], "difficulty": "easy" },
+        { "question": "Bir işin belirli kurallarla yürütülmesi", "answers": ["rutin","ritim","rota"], "difficulty": "easy" },
+        { "question": "Bir olayın tekrar etmesi", "answers": ["rutin","repetisyon","ritim"], "difficulty": "easy" },
+        { "question": "Bir yapının sağlamlığı", "answers": ["dayanıklılık","direnç","robustluk"], "difficulty": "easy" },
+        { "question": "Bir sürecin yönü", "answers": ["rota","istikamet","referans"], "difficulty": "easy" },
+
+        { "question": "Bir kararın mantığa dayanması", "answers": ["rasyonellik","realizm","rayiçlik"], "difficulty": "medium" },
+        { "question": "Bir bilginin temel alınması", "answers": ["referans","rehber","resim"], "difficulty": "medium" },
+        { "question": "Bir sistemin tekrarlı işlemesi", "answers": ["rutin","ritim","repetisyon"], "difficulty": "medium" },
+        { "question": "Bir yapının dış etkilere karşı durması", "answers": ["direnç","robustluk","dayanıklılık"], "difficulty": "medium" },
+        { "question": "Bir sürecin yönlendirilmesi", "answers": ["rehberlik","referans","rota"], "difficulty": "medium" },
+
+        { "question": "Bir düşüncenin gerçekliğe dayanması", "answers": ["realizm","rasyonellik","realite"], "difficulty": "hard" },
+        { "question": "Bir sistemin istikrarlı işlemesi", "answers": ["rutin","ritim","robustluk"], "difficulty": "hard" },
+        { "question": "Bir bilginin dayanak noktası", "answers": ["referans","rehber","realite"], "difficulty": "hard" },
+        { "question": "Bir yapının teorik sağlamlığı", "answers": ["robustluk","rasyonellik","realizm"], "difficulty": "hard" },
+        { "question": "Bir kararın ölçüt alınması", "answers": ["referans","rayiç","rasyonellik"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "S",
+      "order": 22,
+      "questions": [
+        { "question": "Bir işin güvenli şekilde yapılması", "answers": ["sağlamlık","stabilite","süreklilik"], "difficulty": "easy" },
+        { "question": "Bir durumun net biçimde anlaşılması", "answers": ["sadakat","sadelik","seçiklik"], "difficulty": "easy" },
+        { "question": "Bir işte düzenli devamlılık", "answers": ["süreklilik","sistem","seyir"], "difficulty": "easy" },
+        { "question": "Bir kişinin bir şeye bağlı kalması", "answers": ["sadakat","sorumluluk","sahiplenme"], "difficulty": "easy" },
+        { "question": "Bir yapının parçalarının uyumu", "answers": ["sistem","senkron","sinerji"], "difficulty": "easy" },
+
+        { "question": "Bir yapının birlikte çalışması", "answers": ["sinerji","senkron","sistem"], "difficulty": "medium" },
+        { "question": "Bir sürecin denge içinde ilerlemesi", "answers": ["stabilite","süreklilik","sağlamlık"], "difficulty": "medium" },
+        { "question": "Bir olayın genel akışı", "answers": ["seyir","süreç","senaryo"], "difficulty": "medium" },
+        { "question": "Bir yapının planlı düzeni", "answers": ["sistem","strateji","şema"], "difficulty": "medium" },
+        { "question": "Bir hedefe ulaşmak için izlenen yol", "answers": ["strateji","süreç","seyir"], "difficulty": "medium" },
+
+        { "question": "Bir sistemin uzun vadeli kararlılığı", "answers": ["stabilite","süreklilik","sağlamlık"], "difficulty": "hard" },
+        { "question": "Bir yapının bileşenler arası etkileşimi", "answers": ["sinerji","senkron","sistem"], "difficulty": "hard" },
+        { "question": "Bir düşüncenin uygulanma planı", "answers": ["strateji","senaryo","sistem"], "difficulty": "hard" },
+        { "question": "Bir sürecin kuramsal düzeni", "answers": ["sistem","şema","strateji"], "difficulty": "hard" },
+        { "question": "Bir yapının kendi kendini sürdürmesi", "answers": ["süreklilik","stabilite","sağlamlık"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Ş",
+      "order": 23,
+      "questions": [
+        { "question": "Bir davranışta nazik ve anlayışlı olma hali", "answers": ["şefkat","şefik","şefkatlilik"], "difficulty": "easy" },
+        { "question": "Bir durumun açık ve net olması", "answers": ["şeffaflık","şeffaf","şeffaflaşma"], "difficulty": "easy" },
+        { "question": "Bir şeyin biçimsel görünümü", "answers": ["şekil","şema","şekillenme"], "difficulty": "easy" },
+        { "question": "Bir olayın aniden ortaya çıkması", "answers": ["şaşkınlık","şaşırma","şaşırtı"], "difficulty": "easy" },
+        { "question": "Bir kişinin yaptığı işten memnun olması", "answers": ["şükür","şükretme","şükrediş"], "difficulty": "easy" },
+
+        { "question": "Bir yapının anlaşılır biçimde ortaya konması", "answers": ["şeffaflık","şeffaflaşma","şerh"], "difficulty": "medium" },
+        { "question": "Bir konunun görsel olarak düzenlenmesi", "answers": ["şema","şekillendirme","şablon"], "difficulty": "medium" },
+        { "question": "Bir olayın etkisiyle oluşan duygusal tepki", "answers": ["şaşkınlık","şaşma","şaşırış"], "difficulty": "medium" },
+        { "question": "Bir fikrin yazılı olarak açıklanması", "answers": ["şerh","şerhleme","şerhli"], "difficulty": "medium" },
+        { "question": "Bir davranışta ölçülü ve yumuşak yaklaşım", "answers": ["şefkat","şefkatlilik","şefikane"], "difficulty": "medium" },
+
+        { "question": "Bir bilginin gizlenmeden sunulması ilkesi", "answers": ["şeffaflık","şeffaflaşma","şeffafiyet"], "difficulty": "hard" },
+        { "question": "Bir düşüncenin kavramsal görselleştirilmesi", "answers": ["şema","şekillendirme","şekilcilik"], "difficulty": "hard" },
+        { "question": "Bir olayın yarattığı bilişsel sarsıntı", "answers": ["şaşkınlık","şaşırma","şaşırtıcılık"], "difficulty": "hard" },
+        { "question": "Bir metne eklenen açıklayıcı yorum", "answers": ["şerh","şerhleme","şerhli"], "difficulty": "hard" },
+        { "question": "Bir davranışın insani duyarlılıkla yönlendirilmesi", "answers": ["şefkat","şefikane","şefkatlilik"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "T",
+      "order": 24,
+      "questions": [
+        { "question": "Bir şeyin kendi içinde uyumlu olması", "answers": ["tutarlılık","tutarlı","tutarlık"], "difficulty": "easy" },
+        { "question": "Bir olayın doğru biçimde algılanması", "answers": ["tespit","teşhis","tanı"], "difficulty": "easy" },
+        { "question": "Bir işte düzenli devamlılık", "answers": ["tekrar","tempo","takip"], "difficulty": "easy" },
+        { "question": "Bir kişinin bir şeye bağlanması", "answers": ["taraftarlık","tutku","temayül"], "difficulty": "easy" },
+        { "question": "Bir sürecin belirli hızda ilerlemesi", "answers": ["tempo","tempolu","tempoluluk"], "difficulty": "easy" },
+
+        { "question": "Bir bilginin doğruluğunun belirlenmesi", "answers": ["tespit","teyit","tanımlama"], "difficulty": "medium" },
+        { "question": "Bir düşüncenin iç bütünlüğü", "answers": ["tutarlılık","tutarlık","tutarlılaşma"], "difficulty": "medium" },
+        { "question": "Bir yapının belirli kurallara göre işlemesi", "answers": ["tasarım","tertibat","teşkilat"], "difficulty": "medium" },
+        { "question": "Bir sürecin bilinçli olarak izlenmesi", "answers": ["takip","takibat","takipçilik"], "difficulty": "medium" },
+        { "question": "Bir olayın kavramsal olarak açıklanması", "answers": ["tanım","tanımlama","tasvir"], "difficulty": "medium" },
+
+        { "question": "Bir düşünce sisteminin içsel uyumu", "answers": ["tutarlılık","tutarlık","tutarlılaşma"], "difficulty": "hard" },
+        { "question": "Bir bilginin analitik olarak belirlenmesi", "answers": ["teşhis","tespit","tanımlama"], "difficulty": "hard" },
+        { "question": "Bir yapının planlı organizasyonu", "answers": ["teşkilat","tertibat","tasarım"], "difficulty": "hard" },
+        { "question": "Bir sürecin bilinçli kontrol altında tutulması", "answers": ["takip","takibat","takipçilik"], "difficulty": "hard" },
+        { "question": "Bir kavramın kuramsal açıklaması", "answers": ["tanım","tanımlama","tasvir"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "U",
+      "order": 25,
+      "questions": [
+        { "question": "Bir yapının parçalarının birlikte işlemesi", "answers": ["uyum","uyumluluk","uyumlanma"], "difficulty": "easy" },
+        { "question": "Bir durumun kullanılabilir olması", "answers": ["uygunluk","uyarlanabilirlik","uyarlama"], "difficulty": "easy" },
+        { "question": "Bir davranışta yumuşak geçiş", "answers": ["uzlaşma","uyuşma","uyum"], "difficulty": "easy" },
+        { "question": "Bir sürecin belli kurala göre ilerlemesi", "answers": ["usul","uygulama","uygulayış"], "difficulty": "easy" },
+        { "question": "Bir yapının pratikte işe yarar olması", "answers": ["uygulanabilirlik","uygunluk","uyarlılık"], "difficulty": "easy" },
+
+        { "question": "Bir sistemin parçaları arasındaki denge", "answers": ["uyum","uyumluluk","uyumlanma"], "difficulty": "medium" },
+        { "question": "Bir kuralın hayata geçirilmesi", "answers": ["uygulama","uygulanış","uygulayım"], "difficulty": "medium" },
+        { "question": "Bir görüş ayrılığının anlaşmayla giderilmesi", "answers": ["uzlaşma","uyuşma","uyum"], "difficulty": "medium" },
+        { "question": "Bir yöntemin doğru şekilde izlenmesi", "answers": ["usul","uygulama","uygulayış"], "difficulty": "medium" },
+        { "question": "Bir yapının koşullara göre değişebilmesi", "answers": ["uyarlanabilirlik","uyarlama","uyarlılık"], "difficulty": "medium" },
+
+        { "question": "Bir sistemin sürdürülebilir dengesi", "answers": ["uyum","uyumluluk","uyumlanma"], "difficulty": "hard" },
+        { "question": "Bir kuralın pratikte işlerlik kazanması", "answers": ["uygulanabilirlik","uygulama","uygulanış"], "difficulty": "hard" },
+        { "question": "Bir anlaşmazlığın kalıcı çözüme ulaşması", "answers": ["uzlaşma","uyuşma","uyum"], "difficulty": "hard" },
+        { "question": "Bir yöntemin kuramsal ve pratik bütünlüğü", "answers": ["usul","uygulama","uygulanabilirlik"], "difficulty": "hard" },
+        { "question": "Bir yapının değişen koşullara dirençli uyumu", "answers": ["uyarlanabilirlik","uyarlılık","uyumlanma"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Ü",
+      "order": 26,
+      "questions": [
+        { "question": "Bir şeyin en üst seviyede olması durumu", "answers": ["üstünlük","üstün","üstünleşme"], "difficulty": "easy" },
+        { "question": "Bir şeyin ötesinde bulunma hali", "answers": ["üst","üstlük","üstlenme"], "difficulty": "easy" },
+        { "question": "Bir işte sorumluluğu üzerine alma", "answers": ["üstlenme","üstlencilik","üstleniş"], "difficulty": "easy" },
+        { "question": "Bir yapının en üst noktası", "answers": ["üst","üstkat","üstseviye"], "difficulty": "easy" },
+        { "question": "Bir kişinin diğerlerinden daha yetkin olması", "answers": ["üstünlük","üstünleşme","üstün"], "difficulty": "easy" },
+
+        { "question": "Bir görevin bilerek kabul edilmesi", "answers": ["üstlenme","üstleniş","üstlencilik"], "difficulty": "medium" },
+        { "question": "Bir niteliğin diğerlerinden ayrılması", "answers": ["üstünlük","üstünleşme","üstün"], "difficulty": "medium" },
+        { "question": "Bir konunun en yüksek noktaya taşınması", "answers": ["üstseviye","üstlenme","üstlük"], "difficulty": "medium" },
+        { "question": "Bir yapının hiyerarşik tepe noktası", "answers": ["üst","üstkat","üstseviye"], "difficulty": "medium" },
+        { "question": "Bir sorumluluğun bilinçli olarak kabulü", "answers": ["üstlenme","üstleniş","üstlencilik"], "difficulty": "medium" },
+
+        { "question": "Bir değerin diğerlerine göre baskın olması", "answers": ["üstünlük","üstünleşme","üstün"], "difficulty": "hard" },
+        { "question": "Bir yapının en üstten yönetilmesi", "answers": ["üstseviye","üstlük","üstkat"], "difficulty": "hard" },
+        { "question": "Bir görevin ahlaki sorumlulukla kabul edilmesi", "answers": ["üstlenme","üstlencilik","üstleniş"], "difficulty": "hard" },
+        { "question": "Bir özelliğin belirgin biçimde öne çıkması", "answers": ["üstünlük","üstünleşme","üstün"], "difficulty": "hard" },
+        { "question": "Bir hiyerarşide en üst konumda bulunma", "answers": ["üst","üstlük","üstseviye"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "V",
+      "order": 27,
+      "questions": [
+        { "question": "Bir şeyin gerçek ve doğru olması durumu", "answers": ["varlık","vakıa","vukuat"], "difficulty": "easy" },
+        { "question": "Bir şeyin mevcut olması hali", "answers": ["varlık","varoluş","vücut"], "difficulty": "easy" },
+        { "question": "Bir olayın gerçekleşmesi", "answers": ["vukuat","vakıa","vaki"], "difficulty": "easy" },
+        { "question": "Bir şeyin değerli olması durumu", "answers": ["vasıf","verim","verimlilik"], "difficulty": "easy" },
+        { "question": "Bir işten elde edilen olumlu sonuç", "answers": ["verim","verimlilik","varım"], "difficulty": "easy" },
+
+        { "question": "Bir olgunun fiilen gerçekleşmiş olması", "answers": ["vakıa","vukuat","vaki"], "difficulty": "medium" },
+        { "question": "Bir yapının üretkenliği", "answers": ["verim","verimlilik","varım"], "difficulty": "medium" },
+        { "question": "Bir şeyin niteliksel özelliği", "answers": ["vasıf","vasıflılık","vasıflanma"], "difficulty": "medium" },
+        { "question": "Bir kavramın gerçekten mevcut olması", "answers": ["varlık","varoluş","vücut"], "difficulty": "medium" },
+        { "question": "Bir sonuca mantıkla ulaşılması", "answers": ["varım","varımsama","varış"], "difficulty": "medium" },
+
+        { "question": "Bir olgunun felsefi olarak mevcut olması", "answers": ["varoluş","varlık","vücut"], "difficulty": "hard" },
+        { "question": "Bir bilginin deneyimle doğrulanması", "answers": ["vakıa","vukuat","vaki"], "difficulty": "hard" },
+        { "question": "Bir sistemin çıktılarının etkinliği", "answers": ["verimlilik","verim","varım"], "difficulty": "hard" },
+        { "question": "Bir niteliğin belirleyici özelliği", "answers": ["vasıf","vasıflılık","vasıflanma"], "difficulty": "hard" },
+        { "question": "Bir düşüncenin sonuç çıkarma biçimi", "answers": ["varım","varımsama","varış"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Y",
+      "order": 28,
+      "questions": [
+        { "question": "Bir işin yapılma biçimi", "answers": ["yöntem","yol","yordam"], "difficulty": "easy" },
+        { "question": "Bir şeyin doğru olma hali", "answers": ["yanıt","yaklaşım","yargı"], "difficulty": "easy" },
+        { "question": "Bir amaca ulaşmak için izlenen yol", "answers": ["yol","yöntem","yordam"], "difficulty": "easy" },
+        { "question": "Bir konuda verilen karar", "answers": ["yargı","yorum","yaklaşım"], "difficulty": "easy" },
+        { "question": "Bir fikre bakış biçimi", "answers": ["yaklaşım","yorum","yargı"], "difficulty": "easy" },
+
+        { "question": "Bir bilginin değerlendirilmesi sonucu oluşan görüş", "answers": ["yargı","yorum","yaklaşım"], "difficulty": "medium" },
+        { "question": "Bir sürecin izlediği sistematik yol", "answers": ["yöntem","yordam","yol"], "difficulty": "medium" },
+        { "question": "Bir metnin anlamlandırılması", "answers": ["yorum","yaklaşım","yargı"], "difficulty": "medium" },
+        { "question": "Bir hedefe ulaşmak için belirlenen rota", "answers": ["yol","yordam","yöntem"], "difficulty": "medium" },
+        { "question": "Bir konunun ele alınış biçimi", "answers": ["yaklaşım","yöntem","yorum"], "difficulty": "medium" },
+
+        { "question": "Bir düşüncenin mantıksal sonucu", "answers": ["yargı","yorum","yaklaşım"], "difficulty": "hard" },
+        { "question": "Bir sistemin izlediği kuramsal yöntem", "answers": ["yöntem","yordam","yaklaşım"], "difficulty": "hard" },
+        { "question": "Bir metnin eleştirel çözümlemesi", "answers": ["yorum","yargı","yaklaşım"], "difficulty": "hard" },
+        { "question": "Bir sürecin bilinçli olarak yönlendirilmesi", "answers": ["yordam","yöntem","yol"], "difficulty": "hard" },
+        { "question": "Bir kavramın ele alınış perspektifi", "answers": ["yaklaşım","yorum","yargı"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Z",
+      "order": 29,
+      "questions": [
+        { "question": "Toplumda ayrıcalıklı bir kesim", "answers": ["zümre","zadegân","zenginler"], "difficulty": "easy" },
+        { "question": "Bir durumun güç ve sıkıntı içermesi", "answers": ["zahmet","zorluk","zorlama"], "difficulty": "easy" },
+        { "question": "Bir şeyin yok olmasıyla ortaya çıkan kayıp", "answers": ["ziyan","zarar","zayiat"], "difficulty": "easy" },
+        { "question": "Bir ortamda estetik ve incelik hissi", "answers": ["zarafet","zerafet","zariflik"], "difficulty": "easy" },
+        { "question": "Bir işin belli sürede ilerlemesi", "answers": ["zaman","zamanlama","zamansallık"], "difficulty": "easy" },
+
+        { "question": "Bir düşüncenin karşıtıyla birlikte ele alınması", "answers": ["zıtlık","zıtlaşma","zıddiyet"], "difficulty": "medium" },
+        { "question": "Bir yapının üzerine kurulduğu temel", "answers": ["zemin","zerre","zaviye"], "difficulty": "medium" },
+        { "question": "Bir kişinin düşünme ve kavrama yetisi", "answers": ["zeka","zihin","zihniyet"], "difficulty": "medium" },
+        { "question": "Bir durumun kaçınılmaz olması", "answers": ["zorunluluk","zaruret","zorlama"], "difficulty": "medium" },
+        { "question": "Bir işin dikkat ve özen gerektirmesi", "answers": ["zerafet","zarafet","zorluk"], "difficulty": "medium" },
+
+        { "question": "Bir olgunun gerçekleşmesini belirleyen koşul", "answers": ["zaruret","zorunluluk","zorlama"], "difficulty": "hard" },
+        { "question": "Bir kavramın karşıtlarıyla anlam kazanması", "answers": ["zıtlık","zıddiyet","zıtlaşma"], "difficulty": "hard" },
+        { "question": "Bir yapının düşünsel dayanağı", "answers": ["zihin","zeka","zihniyet"], "difficulty": "hard" },
+        { "question": "Bir sürecin tümünü kapsayan zaman boyutu", "answers": ["zamansallık","zaman","zamanlama"], "difficulty": "hard" },
+        { "question": "Bir değerin yok olmasıyla ortaya çıkan olumsuzluk", "answers": ["ziyan","zarar","zayiat"], "difficulty": "hard" }
+      ]
+    }
+  ]
+}

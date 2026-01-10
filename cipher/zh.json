@@ -1,0 +1,530 @@
+{
+  "lang": "ch",
+  "letters": [
+    {
+      "letter": "a",
+      "order": 1,
+      "questions": [
+        { "question": "表示事物处于没有危险的状态", "answers": ["安全","安稳","安然"], "difficulty": "easy" },
+        { "question": "指事情背后隐藏而不易察觉的内容", "answers": ["奥秘","暗因","暗线"], "difficulty": "easy" },
+        { "question": "形容环境或氛围安静平和", "answers": ["安静","安宁","安详"], "difficulty": "easy" },
+        { "question": "表示对事物产生正面情感的状态", "answers": ["爱慕","爱戴","爱护"], "difficulty": "easy" },
+        { "question": "描述光线不足的视觉状态", "answers": ["暗淡","暗沉","暗黑"], "difficulty": "easy" },
+        { "question": "指事情发生前的准备阶段", "answers": ["安排","安置","安顿"], "difficulty": "medium" },
+        { "question": "表示态度或行为显得平和", "answers": ["安抚","安慰","安定"], "difficulty": "medium" },
+        { "question": "指隐藏但具有影响的因素", "answers": ["暗示","暗流","暗影"], "difficulty": "medium" },
+        { "question": "表示对人或事物给予积极情感", "answers": ["爱惜","爱重","爱好"], "difficulty": "medium" },
+        { "question": "描述内心稳定不慌乱的状态", "answers": ["安心","安神","安适"], "difficulty": "medium" },
+        { "question": "表示事物本质难以直接理解", "answers": ["奥妙","奥理","奥义"], "difficulty": "hard" },
+        { "question": "指情绪被平复后的心理状态", "answers": ["安抚","安平","安缓"], "difficulty": "hard" },
+        { "question": "描述逐渐显现但不明显的变化", "answers": ["暗变","暗转","暗化"], "difficulty": "hard" },
+        { "question": "表示感情由内而外的表现", "answers": ["爱意","爱心","爱念"], "difficulty": "hard" },
+        { "question": "形容处境稳定而无外在干扰", "answers": ["安处","安居","安身"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "b",
+      "order": 2,
+      "questions": [
+        { "question": "指事物最核心的特征", "answers": ["本质","本性","本源"], "difficulty": "easy" },
+        { "question": "表示事情发生时的外在环境", "answers": ["背景","布景","背景"], "difficulty": "easy" },
+        { "question": "指衡量事物的统一依据", "answers": ["标准","标尺","标线"], "difficulty": "easy" },
+        { "question": "表示已经取得的结果", "answers": ["成果","成绩","成效"], "difficulty": "easy" },
+        { "question": "描述事物发展所需的代价", "answers": ["成本","本钱","本费"], "difficulty": "easy" },
+        { "question": "指对事情进行分类和区分", "answers": ["辨别","辨认","辨析"], "difficulty": "medium" },
+        { "question": "表示事物发展的基础条件", "answers": ["基础","根本","本底"], "difficulty": "medium" },
+        { "question": "指事情发生前的原始状态", "answers": ["本初","本来","本色"], "difficulty": "medium" },
+        { "question": "表示对信息的简要整理", "answers": ["编排","编辑","编制"], "difficulty": "medium" },
+        { "question": "指外在行为所遵循的方式", "answers": ["办法","步骤","路径"], "difficulty": "medium" },
+        { "question": "表示对事物进行系统分析", "answers": ["辨证","剖析","分析"], "difficulty": "hard" },
+        { "question": "指隐藏在表象下的真实因素", "answers": ["本因","本源","本根"], "difficulty": "hard" },
+        { "question": "描述结构严密的组织方式", "answers": ["布局","编排","编组"], "difficulty": "hard" },
+        { "question": "表示行为所遵循的内在原则", "answers": ["本分","本心","本意"], "difficulty": "hard" },
+        { "question": "指长期积累形成的状态", "answers": ["本能","本领","本事"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "c",
+      "order": 3,
+      "questions": [
+        { "question": "表示事情完成后的结果", "answers": ["成果","成效","成绩"], "difficulty": "easy" },
+        { "question": "指完成某事所付出的代价", "answers": ["成本","成价","成费"], "difficulty": "easy" },
+        { "question": "描述事物所达到的水平", "answers": ["程度","层次","层级"], "difficulty": "easy" },
+        { "question": "指事情发生的具体过程", "answers": ["过程","程序","流程"], "difficulty": "easy" },
+        { "question": "表示持续不断的发展状态", "answers": ["持续","长久","长远"], "difficulty": "easy" },
+        { "question": "指事物逐步完成的变化", "answers": ["成长","成型","成形"], "difficulty": "medium" },
+        { "question": "表示对情况的整体把握", "answers": ["全局","整体","全貌"], "difficulty": "medium" },
+        { "question": "指事情内在的运作方式", "answers": ["机制","程式","成规"], "difficulty": "medium" },
+        { "question": "表示外在条件对结果的影响", "answers": ["条件","成因","成分"], "difficulty": "medium" },
+        { "question": "描述状态逐渐稳定下来", "answers": ["成熟","成稳","成定"], "difficulty": "medium" },
+        { "question": "指事物发展到最终阶段", "answers": ["成局","成势","成型"], "difficulty": "hard" },
+        { "question": "表示变化过程中形成的特性", "answers": ["成性","成态","成象"], "difficulty": "hard" },
+        { "question": "指行为或事件产生的连锁反应", "answers": ["成效","成波","成势"], "difficulty": "hard" },
+        { "question": "描述长期积累带来的结果", "answers": ["成就","成名","成器"], "difficulty": "hard" },
+        { "question": "指系统内部的运行逻辑", "answers": ["程序","程理","程式"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "d",
+      "order": 4,
+      "questions": [
+        { "question": "事物不断向前变化的过程", "answers": ["发展","递进","动向"], "difficulty": "easy" },
+        { "question": "事情发生的先后顺序", "answers": ["次序","段落","步骤"], "difficulty": "easy" },
+        { "question": "对信息进行系统处理的行为", "answers": ["分析","整理","归纳"], "difficulty": "easy" },
+        { "question": "外界施加的影响力量", "answers": ["动力","推动","带动"], "difficulty": "easy" },
+        { "question": "事情展开的方式", "answers": ["路径","方向","打法"], "difficulty": "easy" },
+        { "question": "长期变化中形成的总体趋势", "answers": ["大势","走向","动势"], "difficulty": "medium" },
+        { "question": "将复杂内容拆解理解的过程", "answers": ["解析","剖析","分解"], "difficulty": "medium" },
+        { "question": "推动事物前行的内在原因", "answers": ["动因","根源","动机"], "difficulty": "medium" },
+        { "question": "事物运作所依赖的基本方式", "answers": ["机制","定式","流程"], "difficulty": "medium" },
+        { "question": "行为或决策的指引方向", "answers": ["导向","定位","定向"], "difficulty": "medium" },
+        { "question": "系统内部持续变化的能力", "answers": ["动力","弹性","韧性"], "difficulty": "hard" },
+        { "question": "事物演进中显现的深层规律", "answers": ["定律","法则","原理"], "difficulty": "hard" },
+        { "question": "复杂结构中各部分的互动关系", "answers": ["耦合","联动","对应"], "difficulty": "hard" },
+        { "question": "推动整体变化的关键节点", "answers": ["触点","节点","关口"], "difficulty": "hard" },
+        { "question": "发展过程中形成的稳定形态", "answers": ["定型","成势","格局"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "e",
+      "order": 5,
+      "questions": [
+        { "question": "对事物产生的主观感受", "answers": ["感受","体验","印象"], "difficulty": "easy" },
+        { "question": "外在条件带来的影响", "answers": ["环境","条件","氛围"], "difficulty": "easy" },
+        { "question": "事情产生的直接结果", "answers": ["效果","结果","反应"], "difficulty": "easy" },
+        { "question": "个体对外界的认知过程", "answers": ["认知","理解","认识"], "difficulty": "easy" },
+        { "question": "行为完成后的实际表现", "answers": ["表现","呈现","展现"], "difficulty": "easy" },
+        { "question": "外部因素对系统的干预", "answers": ["影响","干扰","作用"], "difficulty": "medium" },
+        { "question": "通过实践获得的感性认识", "answers": ["经验","体会","心得"], "difficulty": "medium" },
+        { "question": "环境变化带来的适应过程", "answers": ["调整","适应","协调"], "difficulty": "medium" },
+        { "question": "行为产生的连带反应", "answers": ["效应","回响","反响"], "difficulty": "medium" },
+        { "question": "对事物整体状态的判断", "answers": ["评价","评估","判断"], "difficulty": "medium" },
+        { "question": "多种因素共同产生的综合结果", "answers": ["合力","叠加","综合"], "difficulty": "hard" },
+        { "question": "环境长期作用形成的状态", "answers": ["生态","格局","态势"], "difficulty": "hard" },
+        { "question": "认知不断深化后的理解层次", "answers": ["洞见","领悟","通达"], "difficulty": "hard" },
+        { "question": "影响扩散所形成的范围", "answers": ["波及","扩散","蔓延"], "difficulty": "hard" },
+        { "question": "外界作用下产生的系统变化", "answers": ["演化","转变","变迁"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "f",
+      "order": 6,
+      "questions": [
+        { "question": "实现目标所采用的方式", "answers": ["方法","方式","手段"], "difficulty": "easy" },
+        { "question": "事物具备的实际作用", "answers": ["功能","用途","效用"], "difficulty": "easy" },
+        { "question": "未来可能发生的不确定情况", "answers": ["风险","隐患","变数"], "difficulty": "easy" },
+        { "question": "系统运转所需的基本条件", "answers": ["基础","前提","条件"], "difficulty": "easy" },
+        { "question": "为他人提供的帮助行为", "answers": ["服务","协助","支援"], "difficulty": "easy" },
+        { "question": "对事物进行规划和安排", "answers": ["方案","规划","设计"], "difficulty": "medium" },
+        { "question": "功能发挥的实际程度", "answers": ["效率","效能","效力"], "difficulty": "medium" },
+        { "question": "面对风险采取的应对方式", "answers": ["防范","规避","应对"], "difficulty": "medium" },
+        { "question": "资源被合理使用的状态", "answers": ["分配","配置","调配"], "difficulty": "medium" },
+        { "question": "服务过程中体现的质量水平", "answers": ["品质","水准","标准"], "difficulty": "medium" },
+        { "question": "多种功能协同产生的价值", "answers": ["复合","叠加","整合"], "difficulty": "hard" },
+        { "question": "风险长期积累后的集中表现", "answers": ["爆发","失控","危机"], "difficulty": "hard" },
+        { "question": "系统功能背后的设计逻辑", "answers": ["架构","原理","结构"], "difficulty": "hard" },
+        { "question": "方案实施后的反馈信息", "answers": ["回馈","反馈","反思"], "difficulty": "hard" },
+        { "question": "服务体系中形成的整体能力", "answers": ["支撑","保障","体系"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "g",
+      "order": 7,
+      "questions": [
+        { "question": "事物持续向前推进的状态", "answers": ["过程","进展","轨迹"], "difficulty": "easy" },
+        { "question": "对整体情况的全面观察", "answers": ["概况","概览","概述"], "difficulty": "easy" },
+        { "question": "推动事情发生的主要因素", "answers": ["根本","关键","根源"], "difficulty": "easy" },
+        { "question": "事物运行所遵循的模式", "answers": ["规则","惯例","规律"], "difficulty": "easy" },
+        { "question": "对目标形成的基本想法", "answers": ["构想","规划","构思"], "difficulty": "easy" },
+        { "question": "多种因素汇集形成的状态", "answers": ["格局","结构","框架"], "difficulty": "medium" },
+        { "question": "长期积累后产生的影响", "answers": ["惯性","积淀","沉淀"], "difficulty": "medium" },
+        { "question": "对复杂问题的整体把控", "answers": ["统筹","管理","管控"], "difficulty": "medium" },
+        { "question": "行为背后的内在依据", "answers": ["根据","根由","缘由"], "difficulty": "medium" },
+        { "question": "对系统状态的全面认识", "answers": ["感知","认知","理解"], "difficulty": "medium" },
+        { "question": "结构稳定后形成的固定形态", "answers": ["格局","定式","框定"], "difficulty": "hard" },
+        { "question": "影响长期发展的深层条件", "answers": ["根基","根本","根源"], "difficulty": "hard" },
+        { "question": "系统内部要素的关联方式", "answers": ["耦合","关联","联结"], "difficulty": "hard" },
+        { "question": "整体运作中形成的控制能力", "answers": ["管制","调控","制衡"], "difficulty": "hard" },
+        { "question": "事物演变中显现的总体走向", "answers": ["趋势","格势","态势"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "h",
+      "order": 8,
+      "questions": [
+        { "question": "外在条件形成的总体状态", "answers": ["环境","氛围","情境"], "difficulty": "easy" },
+        { "question": "事情对人的直接影响", "answers": ["后果","影响","反应"], "difficulty": "easy" },
+        { "question": "对事物价值的主观判断", "answers": ["好坏","评价","看法"], "difficulty": "easy" },
+        { "question": "行为带来的即时变化", "answers": ["回应","回馈","回响"], "difficulty": "easy" },
+        { "question": "系统运作中的稳定状态", "answers": ["恒定","平衡","均衡"], "difficulty": "easy" },
+        { "question": "多种因素相互作用的结果", "answers": ["合成","汇合","融合"], "difficulty": "medium" },
+        { "question": "外部变化引发的调整过程", "answers": ["缓冲","适配","协调"], "difficulty": "medium" },
+        { "question": "行为之间形成的因果联系", "answers": ["关联","呼应","对应"], "difficulty": "medium" },
+        { "question": "系统维持运行的关键条件", "answers": ["核心","支点","要害"], "difficulty": "medium" },
+        { "question": "对整体状态的宏观判断", "answers": ["衡量","评估","判断"], "difficulty": "medium" },
+        { "question": "长期作用下形成的稳定关系", "answers": ["互依","互补","协同"], "difficulty": "hard" },
+        { "question": "复杂系统中的关键影响因素", "answers": ["核心","枢纽","要素"], "difficulty": "hard" },
+        { "question": "环境变化导致的结构调整", "answers": ["重构","演变","转化"], "difficulty": "hard" },
+        { "question": "多层因素叠加后的总体效应", "answers": ["合力","叠效","聚合"], "difficulty": "hard" },
+        { "question": "系统长期稳定运行的内在条件", "answers": ["恒常","稳态","平衡"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "i",
+      "order": 9,
+      "questions": [
+        { "question": "对外界事物形成的内心反应", "answers": ["印象","感受","感觉"], "difficulty": "easy" },
+        { "question": "信息被理解后的认知状态", "answers": ["理解","认识","领会"], "difficulty": "easy" },
+        { "question": "行为产生的直接结果", "answers": ["影响","效果","作用"], "difficulty": "easy" },
+        { "question": "个体对事物的主观看法", "answers": ["意见","意向","意愿"], "difficulty": "easy" },
+        { "question": "信息传递后的接受情况", "answers": ["印证","应答","回应"], "difficulty": "easy" },
+        { "question": "经验积累后形成的判断能力", "answers": ["意识","洞察","觉察"], "difficulty": "medium" },
+        { "question": "行为背后的内在动机", "answers": ["意图","意念","用意"], "difficulty": "medium" },
+        { "question": "外界刺激引发的心理变化", "answers": ["影响","触动","激发"], "difficulty": "medium" },
+        { "question": "对信息进行内化的过程", "answers": ["吸收","消化","整合"], "difficulty": "medium" },
+        { "question": "认知深化后的理解层次", "answers": ["领悟","通晓","洞悉"], "difficulty": "medium" },
+        { "question": "意识长期作用下形成的思维模式", "answers": ["意境","意象","意涵"], "difficulty": "hard" },
+        { "question": "复杂信息整合后的整体认识", "answers": ["洞见","见解","远见"], "difficulty": "hard" },
+        { "question": "内在认知对行为的持续影响", "answers": ["引导","制约","驱动"], "difficulty": "hard" },
+        { "question": "意识层面形成的价值取向", "answers": ["意志","信念","信条"], "difficulty": "hard" },
+        { "question": "认知体系中形成的稳定结构", "answers": ["框架","体系","模式"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "j",
+      "order": 10,
+      "questions": [
+        { "question": "事情向前推进所呈现的状态", "answers": ["进展","进程","进度"], "difficulty": "easy" },
+        { "question": "事物最终形成的状态或产出", "answers": ["结果","结局","结论"], "difficulty": "easy" },
+        { "question": "事物内部组成的方式", "answers": ["结构","架构","机构"], "difficulty": "easy" },
+        { "question": "对事物整体情况的简要说明", "answers": ["介绍","简述","简报"], "difficulty": "easy" },
+        { "question": "将信息集中在一起的行为", "answers": ["集中","集合","集结"], "difficulty": "easy" },
+        { "question": "对事物进行系统整理的过程", "answers": ["整理","整合","聚合"], "difficulty": "medium" },
+        { "question": "事情发生前的准备阶段", "answers": ["计划","计策","计议"], "difficulty": "medium" },
+        { "question": "对行为产生影响的关键因素", "answers": ["机制","机理","基因"], "difficulty": "medium" },
+        { "question": "事物发展过程中出现的转折", "answers": ["节点","阶段","界点"], "difficulty": "medium" },
+        { "question": "对信息进行判断和区分的能力", "answers": ["鉴别","鉴定","解析"], "difficulty": "medium" },
+        { "question": "系统内部持续运作的方式", "answers": ["机制","结构","架构"], "difficulty": "hard" },
+        { "question": "多种因素共同作用形成的状态", "answers": ["局势","格局","结势"], "difficulty": "hard" },
+        { "question": "长期积累后显现的能力", "answers": ["经验","积淀","积累"], "difficulty": "hard" },
+        { "question": "事物发展中起决定作用的条件", "answers": ["基础","基石","根基"], "difficulty": "hard" },
+        { "question": "对整体走向的前瞻性判断", "answers": ["见解","远见","鉴见"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "k",
+      "order": 11,
+      "questions": [
+        { "question": "事物中起主导作用的部分", "answers": ["核心","关键","枢纽"], "difficulty": "easy" },
+        { "question": "对情况进行全面掌握", "answers": ["控制","看管","看守"], "difficulty": "easy" },
+        { "question": "事物运行的基本要点", "answers": ["看点","看法","看头"], "difficulty": "easy" },
+        { "question": "维持系统正常运转的能力", "answers": ["可靠","可控","可行"], "difficulty": "easy" },
+        { "question": "对资源进行有效管理", "answers": ["控制","开支","看护"], "difficulty": "easy" },
+        { "question": "对整体局面的稳定把握", "answers": ["控盘","控局","控场"], "difficulty": "medium" },
+        { "question": "事物具备持续运作的条件", "answers": ["可持续","可延续","可运行"], "difficulty": "medium" },
+        { "question": "对复杂问题的关键理解", "answers": ["看透","看清","看明"], "difficulty": "medium" },
+        { "question": "行为是否能够实际执行", "answers": ["可行","可靠","可用"], "difficulty": "medium" },
+        { "question": "对重要节点的有效把控", "answers": ["卡点","卡位","卡关"], "difficulty": "medium" },
+        { "question": "系统长期稳定运行的能力", "answers": ["抗压","抗衡","抗扰"], "difficulty": "hard" },
+        { "question": "关键因素之间的相互作用", "answers": ["耦合","捆绑","扣合"], "difficulty": "hard" },
+        { "question": "对整体结构的核心支撑", "answers": ["框架","骨架","壳体"], "difficulty": "hard" },
+        { "question": "控制失效前的临界状态", "answers": ["卡壳","卡死","卡顿"], "difficulty": "hard" },
+        { "question": "对复杂系统的关键约束", "answers": ["控件","控因","控点"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "l",
+      "order": 12,
+      "questions": [
+        { "question": "事物之间形成的关系", "answers": ["联系","关联","联结"], "difficulty": "easy" },
+        { "question": "事物发展的整体方向", "answers": ["路线","路向","路子"], "difficulty": "easy" },
+        { "question": "对信息进行逻辑处理", "answers": ["理解","领会","领悟"], "difficulty": "easy" },
+        { "question": "系统内部的运作规律", "answers": ["逻辑","流程","路径"], "difficulty": "easy" },
+        { "question": "长期形成的稳定状态", "answers": ["累积","累进","累加"], "difficulty": "easy" },
+        { "question": "多因素之间形成的互动关系", "answers": ["联动","联通","联合"], "difficulty": "medium" },
+        { "question": "事物运行所遵循的内在规则", "answers": ["逻辑","理路","理则"], "difficulty": "medium" },
+        { "question": "外部条件带来的限制", "answers": ["约束","掣肘","限制"], "difficulty": "medium" },
+        { "question": "对情况进行分层理解", "answers": ["层次","层级","层面"], "difficulty": "medium" },
+        { "question": "系统持续运转所需条件", "answers": ["连贯","连续","连通"], "difficulty": "medium" },
+        { "question": "多重关系叠加形成的网络", "answers": ["联络","联结","联通"], "difficulty": "hard" },
+        { "question": "复杂系统中的内在结构", "answers": ["逻辑","蓝图","轮廓"], "difficulty": "hard" },
+        { "question": "长期演变中形成的模式", "answers": ["路径","路线","轨迹"], "difficulty": "hard" },
+        { "question": "因素之间相互制约的状态", "answers": ["拉扯","联制","联控"], "difficulty": "hard" },
+        { "question": "整体运行中形成的稳定链条", "answers": ["链路","链条","链接"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "m",
+      "order": 13,
+      "questions": [
+        { "question": "对事物进行统筹安排", "answers": ["管理","谋划","谋定"], "difficulty": "easy" },
+        { "question": "事物表现出的主要特点", "answers": ["面貌","面向","面目"], "difficulty": "easy" },
+        { "question": "推动事情发生的心理因素", "answers": ["动机","目的","目标"], "difficulty": "easy" },
+        { "question": "事物发展所遵循的方式", "answers": ["模式","模型","模版"], "difficulty": "easy" },
+        { "question": "对资源进行合理分配", "answers": ["配置","调配","分配"], "difficulty": "easy" },
+        { "question": "多要素组合形成的整体", "answers": ["模块","模组","组合"], "difficulty": "medium" },
+        { "question": "事物运行中体现的规律", "answers": ["脉络","脉动","脉线"], "difficulty": "medium" },
+        { "question": "长期积累形成的能力", "answers": ["磨炼","磨合","磨砺"], "difficulty": "medium" },
+        { "question": "对未来行动的整体规划", "answers": ["谋略","谋局","谋划"], "difficulty": "medium" },
+        { "question": "系统中可重复使用的结构", "answers": ["模块","模型","模版"], "difficulty": "medium" },
+        { "question": "复杂系统中的主导运行方式", "answers": ["模式","母型","母式"], "difficulty": "hard" },
+        { "question": "长期互动后形成的稳定状态", "answers": ["默契","磨合","磨平"], "difficulty": "hard" },
+        { "question": "多层结构共同形成的整体", "answers": ["面系","面网","面体"], "difficulty": "hard" },
+        { "question": "行为背后隐藏的深层目的", "answers": ["谋算","谋图","谋求"], "difficulty": "hard" },
+        { "question": "系统运行中形成的内在节奏", "answers": ["脉搏","脉动","脉象"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "n",
+      "order": 14,
+      "questions": [
+        { "question": "事物所具备的实际水平", "answers": ["能力","能耐","能为"], "difficulty": "easy" },
+        { "question": "事情推进时遇到的阻碍程度", "answers": ["难度","难关","难题"], "difficulty": "easy" },
+        { "question": "事物内部所包含的意义", "answers": ["内涵","内意","内蕴"], "difficulty": "easy" },
+        { "question": "连接不同部分的关系形式", "answers": ["纽带","纽结","纽合"], "difficulty": "easy" },
+        { "question": "数量或规模的大小情况", "answers": ["容量","能量","能级"], "difficulty": "easy" },
+        { "question": "长期积累形成的内在力量", "answers": ["耐力","韧性","凝力"], "difficulty": "medium" },
+        { "question": "事物呈现出的内在特质", "answers": ["内质","内性","内在"], "difficulty": "medium" },
+        { "question": "群体向心集中的状态", "answers": ["凝聚","凝合","凝结"], "difficulty": "medium" },
+        { "question": "过程推进中的必要条件", "answers": ["门槛","难点","节点"], "difficulty": "medium" },
+        { "question": "体系内部形成的关联方式", "answers": ["内联","内通","内接"], "difficulty": "medium" },
+        { "question": "长期作用后形成的稳定特征", "answers": ["耐性","耐久","耐受"], "difficulty": "hard" },
+        { "question": "结构内部的深层含义", "answers": ["内核","内里","内层"], "difficulty": "hard" },
+        { "question": "多因素汇聚后的集中状态", "answers": ["凝态","凝势","凝形"], "difficulty": "hard" },
+        { "question": "系统运行中不可回避的限制", "answers": ["难局","难势","难境"], "difficulty": "hard" },
+        { "question": "内在力量对外的持续支撑", "answers": ["内驱","内推","内生"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "o",
+      "order": 15,
+      "questions": [
+        { "question": "事情展开时形成的总体轮廓", "answers": ["框架","结构","外形"], "difficulty": "easy" },
+        { "question": "外界条件带来的影响状态", "answers": ["环境","外因","外界"], "difficulty": "easy" },
+        { "question": "事物对外呈现的样貌", "answers": ["外观","外表","外貌"], "difficulty": "easy" },
+        { "question": "对外部变化作出的反应", "answers": ["应对","回应","应答"], "difficulty": "easy" },
+        { "question": "系统对外发挥的作用", "answers": ["输出","外放","外显"], "difficulty": "easy" },
+        { "question": "外部条件与内部结构的配合", "answers": ["耦合","衔接","对应"], "difficulty": "medium" },
+        { "question": "外界压力下的调整过程", "answers": ["缓释","调适","应变"], "difficulty": "medium" },
+        { "question": "整体对外的运行方式", "answers": ["运作","运转","运行"], "difficulty": "medium" },
+        { "question": "外在表现与内在实质的关系", "answers": ["映射","对应","外显"], "difficulty": "medium" },
+        { "question": "系统对外产生的综合影响", "answers": ["外溢","扩散","外放"], "difficulty": "medium" },
+        { "question": "外部因素长期作用的结果", "answers": ["外化","外生","外演"], "difficulty": "hard" },
+        { "question": "对外关系形成的稳定格局", "answers": ["外势","外局","外态"], "difficulty": "hard" },
+        { "question": "系统与环境之间的深层互动", "answers": ["耦联","互构","共振"], "difficulty": "hard" },
+        { "question": "外在变化引发的结构重排", "answers": ["外调","外变","外迁"], "difficulty": "hard" },
+        { "question": "对外运行形成的长期模式", "answers": ["外循","外轨","外路"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "p",
+      "order": 16,
+      "questions": [
+        { "question": "实现目标所采取的方式", "answers": ["方法","路径","方案"], "difficulty": "easy" },
+        { "question": "事情展开时遵循的步骤", "answers": ["流程","程序","步骤"], "difficulty": "easy" },
+        { "question": "事物向前推进的状态", "answers": ["进程","推进","发展"], "difficulty": "easy" },
+        { "question": "对事务进行统筹安排", "answers": ["配置","配给","配套"], "difficulty": "easy" },
+        { "question": "行为产生的直接效果", "answers": ["表现","反应","呈现"], "difficulty": "easy" },
+        { "question": "系统内部要素的协同方式", "answers": ["配合","配接","配联"], "difficulty": "medium" },
+        { "question": "对资源进行合理规划", "answers": ["配置","盘活","调配"], "difficulty": "medium" },
+        { "question": "过程运行中的关键环节", "answers": ["瓶颈","节点","关口"], "difficulty": "medium" },
+        { "question": "对整体情况的系统安排", "answers": ["布局","铺陈","铺排"], "difficulty": "medium" },
+        { "question": "行动实施前的周密准备", "answers": ["铺垫","预设","筹备"], "difficulty": "medium" },
+        { "question": "长期推进形成的稳定轨道", "answers": ["路径","轨迹","脉络"], "difficulty": "hard" },
+        { "question": "多要素协作产生的综合效应", "answers": ["叠加","配效","合成"], "difficulty": "hard" },
+        { "question": "系统运行中隐藏的推动力量", "answers": ["驱动","推力","牵引"], "difficulty": "hard" },
+        { "question": "规划实施后的结构定型", "answers": ["铺就","定式","成型"], "difficulty": "hard" },
+        { "question": "复杂流程中的整体掌控能力", "answers": ["统筹","把控","调度"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "q",
+      "order": 17,
+      "questions": [
+        { "question": "事物达到的质量水平", "answers": ["质量","品质","水准"], "difficulty": "easy" },
+        { "question": "事情发展的整体趋势", "answers": ["趋势","走向","倾向"], "difficulty": "easy" },
+        { "question": "对事物进行区分和判断", "answers": ["区分","区辨","区别"], "difficulty": "easy" },
+        { "question": "事情发生所需的前提条件", "answers": ["前提","前置","起点"], "difficulty": "easy" },
+        { "question": "对问题作出正式回应", "answers": ["回应","回答","答复"], "difficulty": "easy" },
+        { "question": "多因素共同作用形成的状态", "answers": ["情势","态势","局势"], "difficulty": "medium" },
+        { "question": "事情推进中的关键因素", "answers": ["驱动","牵引","推动"], "difficulty": "medium" },
+        { "question": "对整体情况进行系统审视", "answers": ["全局","全貌","全景"], "difficulty": "medium" },
+        { "question": "对事物进行持续跟进", "answers": ["追踪","跟进","延续"], "difficulty": "medium" },
+        { "question": "对信息进行准确判断", "answers": ["确认","确证","确定"], "difficulty": "medium" },
+        { "question": "复杂系统中形成的稳定态", "answers": ["趋稳","趋同","趋衡"], "difficulty": "hard" },
+        { "question": "关键因素产生的决定作用", "answers": ["权重","权衡","权威"], "difficulty": "hard" },
+        { "question": "整体发展中显现的主导方向", "answers": ["趋向","倾斜","偏向"], "difficulty": "hard" },
+        { "question": "长期运行后形成的结构特征", "answers": ["框架","脉络","轮廓"], "difficulty": "hard" },
+        { "question": "对复杂问题的深入判断", "answers": ["确解","确析","确论"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "r",
+      "order": 18,
+      "questions": [
+        { "question": "事情发生后的直接影响", "answers": ["结果","后果","效应"], "difficulty": "easy" },
+        { "question": "事物之间形成的联系", "answers": ["关系","关联","联系"], "difficulty": "easy" },
+        { "question": "系统持续运作所需资源", "answers": ["资源","人力","物力"], "difficulty": "easy" },
+        { "question": "行为产生的反馈信息", "answers": ["反馈","回应","反应"], "difficulty": "easy" },
+        { "question": "对事物进行重新安排", "answers": ["调整","重排","改组"], "difficulty": "easy" },
+        { "question": "多要素相互作用的结果", "answers": ["融合","耦合","整合"], "difficulty": "medium" },
+        { "question": "系统运行中的支持能力", "answers": ["韧性","弹性","耐性"], "difficulty": "medium" },
+        { "question": "对变化情况的及时应对", "answers": ["响应","应变","反制"], "difficulty": "medium" },
+        { "question": "事物恢复到稳定状态", "answers": ["复原","回稳","回归"], "difficulty": "medium" },
+        { "question": "对整体状态进行重新评估", "answers": ["审视","复盘","回顾"], "difficulty": "medium" },
+        { "question": "长期互动中形成的依赖结构", "answers": ["依存","互赖","相依"], "difficulty": "hard" },
+        { "question": "系统在压力下保持运转的能力", "answers": ["韧度","耐压","抗扰"], "difficulty": "hard" },
+        { "question": "变化过程中产生的连锁反应", "answers": ["扩散","传导","蔓延"], "difficulty": "hard" },
+        { "question": "多层关系交织形成的网络", "answers": ["网络","脉网","关系网"], "difficulty": "hard" },
+        { "question": "整体结构重新形成后的状态", "answers": ["重构","再造","重塑"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "s",
+      "order": 19,
+      "questions": [
+        { "question": "事物整体呈现的状态", "answers": ["状态","情形","状况"], "difficulty": "easy" },
+        { "question": "对事情进行妥善处理", "answers": ["处理","处置","解决"], "difficulty": "easy" },
+        { "question": "事物发展所遵循的方式", "answers": ["方式","手段","方法"], "difficulty": "easy" },
+        { "question": "系统内部保持稳定的能力", "answers": ["稳定","平衡","均衡"], "difficulty": "easy" },
+        { "question": "对信息进行选择性关注", "answers": ["筛选","筛查","甄别"], "difficulty": "easy" },
+        { "question": "多因素共同形成的总体结构", "answers": ["体系","系统","架构"], "difficulty": "medium" },
+        { "question": "对整体局势的持续观察", "answers": ["审视","审察","审读"], "difficulty": "medium" },
+        { "question": "系统运行中形成的协同关系", "answers": ["协作","协同","配合"], "difficulty": "medium" },
+        { "question": "变化过程中显现的主要特征", "answers": ["特性","属性","特质"], "difficulty": "medium" },
+        { "question": "对发展方向的主动引导", "answers": ["塑造","设定","引导"], "difficulty": "medium" },
+        { "question": "复杂系统中长期形成的秩序", "answers": ["结构","秩序","层级"], "difficulty": "hard" },
+        { "question": "多层机制叠加后的整体能力", "answers": ["综合","叠加","合成"], "difficulty": "hard" },
+        { "question": "系统内部自我调节的能力", "answers": ["适应","自洽","自调"], "difficulty": "hard" },
+        { "question": "长期运行后形成的稳定模式", "answers": ["范式","定式","模式"], "difficulty": "hard" },
+        { "question": "整体演化中显现的主导逻辑", "answers": ["思路","逻辑","主线"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "t",
+      "order": 20,
+      "questions": [
+        { "question": "事物运行中表现出的总体方向", "answers": ["态势","趋势","走向"], "difficulty": "easy" },
+        { "question": "事物本身所具备的显著特点", "answers": ["特点","特征","特性"], "difficulty": "easy" },
+        { "question": "事情推进所需的时间安排", "answers": ["时间","周期","时序"], "difficulty": "easy" },
+        { "question": "对事物进行系统安排", "answers": ["统筹","调配","配置"], "difficulty": "easy" },
+        { "question": "事情发生后的处理方式", "answers": ["处理","调处","调解"], "difficulty": "easy" },
+        { "question": "多种因素共同形成的整体形态", "answers": ["体系","体制","体量"], "difficulty": "medium" },
+        { "question": "事物内部保持平稳的能力", "answers": ["弹性","韧性","稳定"], "difficulty": "medium" },
+        { "question": "事物变化中呈现的阶段特征", "answers": ["台阶","阶段","梯度"], "difficulty": "medium" },
+        { "question": "推动系统运行的内在力量", "answers": ["推动","推力","推因"], "difficulty": "medium" },
+        { "question": "对复杂情况的整体掌控", "answers": ["调控","统管","统制"], "difficulty": "medium" },
+        { "question": "长期运行中形成的结构平衡", "answers": ["态衡","稳态","定态"], "difficulty": "hard" },
+        { "question": "多层系统协同形成的结果", "answers": ["叠合","统合","融合"], "difficulty": "hard" },
+        { "question": "变化过程中逐步显现的主线", "answers": ["脉络","通路","梯线"], "difficulty": "hard" },
+        { "question": "整体运行所依赖的核心机制", "answers": ["体系","体制","体例"], "difficulty": "hard" },
+        { "question": "系统在变化中保持连续性的能力", "answers": ["调适","调稳","调衡"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "u",
+      "order": 21,
+      "questions": [
+        { "question": "事物整体呈现出的统一状态", "answers": ["统一","一致","整合"], "difficulty": "easy" },
+        { "question": "不同要素之间形成的协同关系", "answers": ["联合","协作","配合"], "difficulty": "easy" },
+        { "question": "对整体情况的综合判断", "answers": ["判断","评估","评价"], "difficulty": "easy" },
+        { "question": "事物内部结构的完整程度", "answers": ["完整","完备","完善"], "difficulty": "easy" },
+        { "question": "系统运行中保持不变的部分", "answers": ["恒定","稳定","稳固"], "difficulty": "easy" },
+        { "question": "多种要素有序结合的过程", "answers": ["整合","统合","融合"], "difficulty": "medium" },
+        { "question": "系统内部形成的整体结构", "answers": ["框架","结构","构型"], "difficulty": "medium" },
+        { "question": "事物运作中表现出的协调程度", "answers": ["协调","均衡","适配"], "difficulty": "medium" },
+        { "question": "对资源进行全面使用", "answers": ["利用","运用","调用"], "difficulty": "medium" },
+        { "question": "系统整体运行的表现形式", "answers": ["运作","运行","运转"], "difficulty": "medium" },
+        { "question": "多层关系整合后的稳定形态", "answers": ["统一","统摄","统合"], "difficulty": "hard" },
+        { "question": "系统长期运转形成的内在秩序", "answers": ["约束","约定","约序"], "difficulty": "hard" },
+        { "question": "复杂要素组合后的总体效应", "answers": ["涌现","汇聚","叠显"], "difficulty": "hard" },
+        { "question": "整体结构对局部的主导作用", "answers": ["统领","统御","统辖"], "difficulty": "hard" },
+        { "question": "系统在变化中保持整体性的能力", "answers": ["稳合","稳固","稳态"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "w",
+      "order": 23,
+      "questions": [
+        { "question": "事物存在并发挥作用的方式", "answers": ["方式","玩法","路径"], "difficulty": "easy" },
+        { "question": "事物运行所依赖的外部条件", "answers": ["环境","外界","外围"], "difficulty": "easy" },
+        { "question": "对情况形成的总体认识", "answers": ["判断","看法","认知"], "difficulty": "easy" },
+        { "question": "事情发展所呈现的方向", "answers": ["走势","走向","弯路"], "difficulty": "easy" },
+        { "question": "对事务进行妥善安排", "answers": ["安排","调度","统筹"], "difficulty": "easy" },
+        { "question": "多因素共同作用形成的状态", "answers": ["外溢","外显","外化"], "difficulty": "medium" },
+        { "question": "系统对变化作出的反应能力", "answers": ["稳定","韧性","弹性"], "difficulty": "medium" },
+        { "question": "对整体情况进行系统掌握", "answers": ["把控","掌握","控制"], "difficulty": "medium" },
+        { "question": "行为在外部产生的影响", "answers": ["外效","外力","外因"], "difficulty": "medium" },
+        { "question": "运行过程中形成的连续表现", "answers": ["脉络","纹理","网状"], "difficulty": "medium" },
+        { "question": "长期互动后形成的稳定结构", "answers": ["网络","网格","网系"], "difficulty": "hard" },
+        { "question": "外部条件与内部系统的深度结合", "answers": ["耦合","协同","联动"], "difficulty": "hard" },
+        { "question": "事物运行中显现的整体轮廓", "answers": ["外形","外貌","外观"], "difficulty": "hard" },
+        { "question": "复杂环境下形成的应对方式", "answers": ["策略","玩法","权变"], "difficulty": "hard" },
+        { "question": "系统在外界作用下的演变结果", "answers": ["外迁","外演","外展"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "x",
+      "order": 24,
+      "questions": [
+        { "question": "事物发展所依赖的基本条件", "answers": ["基础","前提","条件"], "difficulty": "easy" },
+        { "question": "事物表现出来的本身特性", "answers": ["性质","性能","特性"], "difficulty": "easy" },
+        { "question": "对信息进行分辨判断", "answers": ["选择","筛选","甄选"], "difficulty": "easy" },
+        { "question": "事物内部形成的秩序状态", "answers": ["系统","结构","形态"], "difficulty": "easy" },
+        { "question": "行为产生的直接效果", "answers": ["效果","效应","效力"], "difficulty": "easy" },
+        { "question": "多要素组合后的整体运行", "answers": ["协同","协调","协作"], "difficulty": "medium" },
+        { "question": "系统内部持续运转的方式", "answers": ["循环","运行","行程"], "difficulty": "medium" },
+        { "question": "对整体局势的深入理解", "answers": ["洞察","解析","理解"], "difficulty": "medium" },
+        { "question": "行为背后的内在原因", "answers": ["动因","缘由","起因"], "difficulty": "medium" },
+        { "question": "长期积累形成的能力水平", "answers": ["经验","修养","习得"], "difficulty": "medium" },
+        { "question": "系统运行中形成的稳定模式", "answers": ["形制","形态","形构"], "difficulty": "hard" },
+        { "question": "多重因素叠加后的综合表现", "answers": ["显现","显化","显效"], "difficulty": "hard" },
+        { "question": "复杂关系中形成的内在逻辑", "answers": ["线索","脉线","主线"], "difficulty": "hard" },
+        { "question": "系统对外界变化的吸收能力", "answers": ["吸纳","消化","整合"], "difficulty": "hard" },
+        { "question": "整体结构中起决定作用的要素", "answers": ["核心","要素","枢纽"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "y",
+      "order": 25,
+      "questions": [
+        { "question": "事物对外界产生的作用结果", "answers": ["影响","效应","作用"], "difficulty": "easy" },
+        { "question": "事情发生的根本原因", "answers": ["原因","缘由","因由"], "difficulty": "easy" },
+        { "question": "对信息或情况作出的回应", "answers": ["应对","回应","应答"], "difficulty": "easy" },
+        { "question": "事物本身所具有的意义", "answers": ["意义","意涵","意蕴"], "difficulty": "easy" },
+        { "question": "事物内部形成的关系联系", "answers": ["因果","依存","依赖"], "difficulty": "easy" },
+        { "question": "多种因素共同引发的结果", "answers": ["引发","诱发","触发"], "difficulty": "medium" },
+        { "question": "外部条件对系统的干预方式", "answers": ["影响","引导","引入"], "difficulty": "medium" },
+        { "question": "行为背后的主观动机", "answers": ["意图","用意","意向"], "difficulty": "medium" },
+        { "question": "系统内部长期形成的作用力", "answers": ["引力","内驱","推动"], "difficulty": "medium" },
+        { "question": "对整体趋势的提前判断", "answers": ["预测","预判","预期"], "difficulty": "medium" },
+        { "question": "多重影响交织后的综合效果", "answers": ["叠加","涌现","汇合"], "difficulty": "hard" },
+        { "question": "系统运行中形成的因果链条", "answers": ["因链","因序","因路"], "difficulty": "hard" },
+        { "question": "长期作用下形成的内在意义", "answers": ["意境","意象","意涵"], "difficulty": "hard" },
+        { "question": "影响持续扩大的传播过程", "answers": ["延展","蔓延","扩散"], "difficulty": "hard" },
+        { "question": "整体变化背后的主导因素", "answers": ["因子","因源","因核"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "z",
+      "order": 26,
+      "questions": [
+        { "question": "事物呈现出来的总体状态", "answers": ["状态","状况","情状"], "difficulty": "easy" },
+        { "question": "事情发展的最终结果", "answers": ["结果","终局","结局"], "difficulty": "easy" },
+        { "question": "对事物进行合理处理", "answers": ["处理","处置","解决"], "difficulty": "easy" },
+        { "question": "事物运作所依赖的基础", "answers": ["支撑","支持","支点"], "difficulty": "easy" },
+        { "question": "事物内部形成的基本构成", "answers": ["组成","结构","构成"], "difficulty": "easy" },
+        { "question": "多要素共同发挥作用", "answers": ["综合","整合","组合"], "difficulty": "medium" },
+        { "question": "系统运行中的关键环节", "answers": ["枢纽","节点","要害"], "difficulty": "medium" },
+        { "question": "事物发展过程中显现的趋势", "answers": ["走向","走势","趋向"], "difficulty": "medium" },
+        { "question": "对整体局面的有效掌控", "answers": ["掌控","主导","支配"], "difficulty": "medium" },
+        { "question": "对资源进行集中使用", "answers": ["整合","集中","汇聚"], "difficulty": "medium" },
+        { "question": "复杂系统中形成的稳定结构", "answers": ["秩序","结构","框架"], "difficulty": "hard" },
+        { "question": "多重因素作用下的最终形态", "answers": ["终态","定态","稳态"], "difficulty": "hard" },
+        { "question": "系统长期运作形成的主导方式", "answers": ["范式","模式","定式"], "difficulty": "hard" },
+        { "question": "整体变化过程中显现的主线", "answers": ["主轴","主线","轴心"], "difficulty": "hard" },
+        { "question": "支配系统运行的核心力量", "answers": ["主因","主导","主力"], "difficulty": "hard" }
+      ]
+    }
+  ]
+}

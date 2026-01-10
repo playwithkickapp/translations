@@ -1,0 +1,518 @@
+{
+  "lang": "it",
+  "letters": [
+    {
+      "letter": "A",
+      "order": 1,
+      "questions": [
+        { "question": "Capacità di adattarsi a nuove condizioni", "answers": ["adattamento","adattabilità","accomodamento"], "difficulty": "easy" },
+        { "question": "Desiderio intenso di raggiungere un obiettivo", "answers": ["ambizione","aspirazione","ardore"], "difficulty": "easy" },
+        { "question": "Condizione di tranquillità e protezione", "answers": ["armonia","assenza","agio"], "difficulty": "easy" },
+        { "question": "Capacità di agire senza dipendere da altri", "answers": ["autonomia","autosufficienza","autorità"], "difficulty": "easy" },
+        { "question": "Riconoscimento positivo del valore", "answers": ["apprezzamento","ammirazione","attenzione"], "difficulty": "easy" },
+
+        { "question": "Adattamento continuo in contesti variabili", "answers": ["adattabilità","agilità","accomodamento"], "difficulty": "medium" },
+        { "question": "Spinta interiore orientata al futuro", "answers": ["ambizione","aspirazione","attitudine"], "difficulty": "medium" },
+        { "question": "Capacità decisionale indipendente", "answers": ["autonomia","autoregolazione","autogestione"], "difficulty": "medium" },
+        { "question": "Condizione di equilibrio interiore stabile", "answers": ["armonia","assetto","accordo"], "difficulty": "medium" },
+        { "question": "Valutazione positiva espressa apertamente", "answers": ["apprezzamento","approvazione","attestazione"], "difficulty": "medium" },
+
+        { "question": "Adattabilità come competenza strategica duratura", "answers": ["adattabilità","agilità","antifragilità"], "difficulty": "hard" },
+        { "question": "Ambizione sostenuta da visione a lungo termine", "answers": ["ambizione","aspirazione","autorealizzazione"], "difficulty": "hard" },
+        { "question": "Autonomia come principio organizzativo", "answers": ["autonomia","autogoverno","autoregolazione"], "difficulty": "hard" },
+        { "question": "Armonia sistemica in contesti complessi", "answers": ["armonia","allineamento","accordo"], "difficulty": "hard" },
+        { "question": "Apprezzamento come leva motivazionale avanzata", "answers": ["apprezzamento","attestazione","accreditamento"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "B",
+      "order": 2,
+      "questions": [
+        { "question": "Stato di soddisfazione personale", "answers": ["benessere","beatitudine","bontà"], "difficulty": "easy" },
+        { "question": "Base che sostiene una struttura", "answers": ["base","basamento","baluardo"], "difficulty": "easy" },
+        { "question": "Risultato positivo ottenuto", "answers": ["beneficio","bonus","bottino"], "difficulty": "easy" },
+        { "question": "Capacità di affrontare le difficoltà", "answers": ["bravura","baldo","buonsenso"], "difficulty": "easy" },
+        { "question": "Atteggiamento di attenzione verso gli altri", "answers": ["benevolenza","bontà","beneficenza"], "difficulty": "easy" },
+
+        { "question": "Condizione di equilibrio fisico e mentale", "answers": ["benessere","bilanciamento","buonaforma"], "difficulty": "medium" },
+        { "question": "Vantaggio ottenuto in modo continuativo", "answers": ["beneficio","bonus","beneficenza"], "difficulty": "medium" },
+        { "question": "Struttura portante concettuale", "answers": ["base","baluardo","basamento"], "difficulty": "medium" },
+        { "question": "Forza morale di fronte alle avversità", "answers": ["bravura","baldo","buonsenso"], "difficulty": "medium" },
+        { "question": "Comportamento etico costante", "answers": ["benevolenza","bontà","buonsenso"], "difficulty": "medium" },
+
+        { "question": "Benessere sostenibile in sistemi complessi", "answers": ["benessere","bilanciamento","biodinamica"], "difficulty": "hard" },
+        { "question": "Beneficio strategico a lungo termine", "answers": ["beneficio","bottino","benchmark"], "difficulty": "hard" },
+        { "question": "Base strutturale di un sistema articolato", "answers": ["base","basamento","baluardo"], "difficulty": "hard" },
+        { "question": "Bontà come principio etico universale", "answers": ["bontà","benevolenza","beneficenza"], "difficulty": "hard" },
+        { "question": "Buonsenso come guida decisionale avanzata", "answers": ["buonsenso","bilanciamento","ponderazione"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "C",
+      "order": 3,
+      "questions": [
+        { "question": "Stato di tranquillità mentale", "answers": ["calma","compostezza","controllo"], "difficulty": "easy" },
+        { "question": "Capacità di gestire una situazione", "answers": ["controllo","comando","coordinamento"], "difficulty": "easy" },
+        { "question": "Chiarezza nella comunicazione", "answers": ["chiarezza","coerenza","comprensibilità"], "difficulty": "easy" },
+        { "question": "Lavoro svolto insieme ad altri", "answers": ["collaborazione","cooperazione","condivisione"], "difficulty": "easy" },
+        { "question": "Fiducia nelle proprie capacità", "answers": ["confidenza","coraggio","consapevolezza"], "difficulty": "easy" },
+
+        { "question": "Integrazione armonica di più elementi", "answers": ["coesione","connessione","coordinamento"], "difficulty": "medium" },
+        { "question": "Valutazione attenta e precisa", "answers": ["criterio","cura","cognizione"], "difficulty": "medium" },
+        { "question": "Collaborazione organizzata e strutturata", "answers": ["collaborazione","cooperazione","coordinamento"], "difficulty": "medium" },
+        { "question": "Calma mantenuta sotto pressione", "answers": ["compostezza","controllo","costanza"], "difficulty": "medium" },
+        { "question": "Gestione ordinata dei processi", "answers": ["coordinamento","controllo","comando"], "difficulty": "medium" },
+
+        { "question": "Coesione strutturale in sistemi complessi", "answers": ["coesione","coerenza","consistenza"], "difficulty": "hard" },
+        { "question": "Controllo strategico di lungo periodo", "answers": ["controllo","coordinamento","governance"], "difficulty": "hard" },
+        { "question": "Chiarezza concettuale in ambiti astratti", "answers": ["chiarezza","coerenza","consistenza"], "difficulty": "hard" },
+        { "question": "Collaborazione strategica tra organizzazioni", "answers": ["collaborazione","cooperazione","consorzio"], "difficulty": "hard" },
+        { "question": "Consapevolezza come base decisionale avanzata", "answers": ["consapevolezza","cognizione","coscienza"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "D",
+      "order": 4,
+      "questions": [
+        { "question": "Capacità di prendere decisioni ferme e consapevoli", "answers": ["determinazione","decisione","disciplina"], "difficulty": "easy" },
+        { "question": "Processo di valutazione prima di agire", "answers": ["deliberazione","discernimento","diagnosi"], "difficulty": "easy" },
+        { "question": "Direzione chiara verso un obiettivo", "answers": ["direzione","destinazione","dinamica"], "difficulty": "easy" },
+        { "question": "Capacità di resistere nel tempo", "answers": ["durata","durabilità","determinazione"], "difficulty": "easy" },
+        { "question": "Forza morale di fronte alle difficoltà", "answers": ["determinazione","dignità","disciplina"], "difficulty": "easy" },
+
+        { "question": "Analisi ponderata che precede una scelta", "answers": ["deliberazione","discernimento","valutazione"], "difficulty": "medium" },
+        { "question": "Perseveranza di fronte agli ostacoli", "answers": ["determinazione","costanza","tenacia"], "difficulty": "medium" },
+        { "question": "Stabilità funzionale di un sistema", "answers": ["durabilità","solidità","resistenza"], "difficulty": "medium" },
+        { "question": "Capacità di guidare un’azione collettiva", "answers": ["direzione","conduzione","coordinamento"], "difficulty": "medium" },
+        { "question": "Aderenza costante a regole condivise", "answers": ["disciplina","rigore","costanza"], "difficulty": "medium" },
+
+        { "question": "Durabilità strutturale in contesti complessi", "answers": ["durabilità","resilienza","solidità"], "difficulty": "hard" },
+        { "question": "Discernimento avanzato nelle decisioni critiche", "answers": ["discernimento","giudizio","valutazione"], "difficulty": "hard" },
+        { "question": "Direzione strategica di lungo periodo", "answers": ["direzione","orientamento","traiettoria"], "difficulty": "hard" },
+        { "question": "Determinazione mantenuta sotto forte pressione", "answers": ["determinazione","tenacia","risolutezza"], "difficulty": "hard" },
+        { "question": "Disciplina come principio organizzativo centrale", "answers": ["disciplina","rigore","metodo"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "E",
+      "order": 5,
+      "questions": [
+        { "question": "Stato di equilibrio emotivo", "answers": ["equilibrio","armonia","stabilità"], "difficulty": "easy" },
+        { "question": "Capacità di produrre risultati utili", "answers": ["efficacia","efficienza","energia"], "difficulty": "easy" },
+        { "question": "Comprensione di una situazione", "answers": ["entendimento","esame","esperienza"], "difficulty": "easy" },
+        { "question": "Risultato di un’azione compiuta", "answers": ["esito","effetto","esecuzione"], "difficulty": "easy" },
+        { "question": "Stato di calma interiore", "answers": ["equilibrio","serenità","armonia"], "difficulty": "easy" },
+
+        { "question": "Capacità di raggiungere obiettivi prefissati", "answers": ["efficacia","efficienza","rendimento"], "difficulty": "medium" },
+        { "question": "Analisi strutturata di una situazione", "answers": ["esame","valutazione","esperienza"], "difficulty": "medium" },
+        { "question": "Uso ottimale delle risorse disponibili", "answers": ["efficienza","ottimizzazione","economia"], "difficulty": "medium" },
+        { "question": "Stabilità funzionale di un sistema", "answers": ["equilibrio","coerenza","stabilità"], "difficulty": "medium" },
+        { "question": "Capacità di sostenere l’azione nel tempo", "answers": ["energia","endurance","elasticità"], "difficulty": "medium" },
+
+        { "question": "Equilibrio sistemico in ambienti complessi", "answers": ["equilibrio","resilienza","stabilità"], "difficulty": "hard" },
+        { "question": "Efficacia mantenuta nel lungo periodo", "answers": ["efficacia","performance","rendimento"], "difficulty": "hard" },
+        { "question": "Comprensione profonda di sistemi articolati", "answers": ["entendimento","analisi","discernimento"], "difficulty": "hard" },
+        { "question": "Energia come risorsa strategica duratura", "answers": ["energia","vitalità","resistenza"], "difficulty": "hard" },
+        { "question": "Valutazione strategica di scenari complessi", "answers": ["esame","valutazione","proiezione"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "F",
+      "order": 6,
+      "questions": [
+        { "question": "Capacità di mantenere una posizione", "answers": ["fermezza","forza","fedeltà"], "difficulty": "easy" },
+        { "question": "Risultato positivo di un processo", "answers": ["frutto","vantaggio","favore"], "difficulty": "easy" },
+        { "question": "Capacità di concentrare l’attenzione", "answers": ["focalizzazione","focus","fissazione"], "difficulty": "easy" },
+        { "question": "Stato di solidità personale", "answers": ["fermezza","forza","stabilità"], "difficulty": "easy" },
+        { "question": "Capacità di affrontare le difficoltà", "answers": ["forza","fortezza","resistenza"], "difficulty": "easy" },
+
+        { "question": "Concentrazione prolungata su un obiettivo", "answers": ["focalizzazione","attenzione","concentrazione"], "difficulty": "medium" },
+        { "question": "Resistenza attiva alle pressioni", "answers": ["fortezza","resistenza","endurance"], "difficulty": "medium" },
+        { "question": "Mantenimento di una scelta nel tempo", "answers": ["fermezza","determinazione","costanza"], "difficulty": "medium" },
+        { "question": "Risultato derivante da un sistema organizzato", "answers": ["frutto","esito","conseguenza"], "difficulty": "medium" },
+        { "question": "Energia applicata all’azione", "answers": ["forza","slancio","vigore"], "difficulty": "medium" },
+
+        { "question": "Forza strutturale in contesti di cambiamento", "answers": ["resistenza","fortezza","resilienza"], "difficulty": "hard" },
+        { "question": "Focalizzazione strategica di lungo termine", "answers": ["focalizzazione","orientamento","priorità"], "difficulty": "hard" },
+        { "question": "Fermezza decisionale in condizioni incerte", "answers": ["fermezza","determinazione","risolutezza"], "difficulty": "hard" },
+        { "question": "Valore cumulativo generato da un sistema", "answers": ["vantaggio","beneficio","rendimento"], "difficulty": "hard" },
+        { "question": "Capacità globale di sostenere lo sforzo", "answers": ["endurance","resistenza","fortezza"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "G",
+      "order": 7,
+      "questions": [
+        { "question": "Crescita progressiva nel tempo", "answers": ["crescita","guadagno","germinazione"], "difficulty": "easy" },
+        { "question": "Risultato positivo ottenuto", "answers": ["guadagno","vantaggio","profitto"], "difficulty": "easy" },
+        { "question": "Spinta emotiva verso l’azione", "answers": ["grinta","gioia","gelo"], "difficulty": "easy" },
+        { "question": "Origine di un processo o fenomeno", "answers": ["genesi","germinazione","gestazione"], "difficulty": "easy" },
+        { "question": "Disponibilità a dare senza attendere ritorno", "answers": ["generosità","gentilezza","gratuità"], "difficulty": "easy" },
+
+        { "question": "Sviluppo continuo e strutturato", "answers": ["crescita","evoluzione","progresso"], "difficulty": "medium" },
+        { "question": "Beneficio strategico ottenuto nel tempo", "answers": ["guadagno","vantaggio","valore"], "difficulty": "medium" },
+        { "question": "Fase iniziale di strutturazione", "answers": ["genesi","fondazione","impostazione"], "difficulty": "medium" },
+        { "question": "Forza interiore davanti alle difficoltà", "answers": ["grinta","tenacia","resilienza"], "difficulty": "medium" },
+        { "question": "Atteggiamento aperto e solidale", "answers": ["generosità","solidarietà","altruismo"], "difficulty": "medium" },
+
+        { "question": "Crescita sistemica di lungo periodo", "answers": ["crescita","sviluppo","espansione"], "difficulty": "hard" },
+        { "question": "Guadagno sostenibile e strategico", "answers": ["guadagno","valore","redditività"], "difficulty": "hard" },
+        { "question": "Processo fondativo di sistemi complessi", "answers": ["genesi","architettura","fondazione"], "difficulty": "hard" },
+        { "question": "Grinta mantenuta sotto pressione prolungata", "answers": ["grinta","resilienza","robustezza"], "difficulty": "hard" },
+        { "question": "Generosità come principio etico stabile", "answers": ["generosità","altruismo","umanità"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "H",
+      "order": 8,
+      "questions": [
+        { "question": "Stato di equilibrio e accordo", "answers": ["armonia","equilibrio","intesa"], "difficulty": "easy" },
+        { "question": "Capacità acquisita con la pratica", "answers": ["abilità","competenza","destrezza"], "difficulty": "easy" },
+        { "question": "Onestà nel comportamento", "answers": ["onestà","integrità","lealtà"], "difficulty": "easy" },
+        { "question": "Atteggiamento di modestia personale", "answers": ["umiltà","misura","sobrietà"], "difficulty": "easy" },
+        { "question": "Condizione di benessere interiore", "answers": ["armonia","pace","serenità"], "difficulty": "easy" },
+
+        { "question": "Competenza applicata a un ambito specifico", "answers": ["abilità","maestria","competenza"], "difficulty": "medium" },
+        { "question": "Condotta morale coerente", "answers": ["onestà","integrità","rettitudine"], "difficulty": "medium" },
+        { "question": "Equilibrio stabile nel tempo", "answers": ["armonia","stabilità","coerenza"], "difficulty": "medium" },
+        { "question": "Controllo dell’ego nelle relazioni", "answers": ["umiltà","moderazione","misura"], "difficulty": "medium" },
+        { "question": "Relazione sociale priva di conflitti", "answers": ["armonia","concordia","coesione"], "difficulty": "medium" },
+
+        { "question": "Abilità avanzata in contesti complessi", "answers": ["abilità","maestria","expertise"], "difficulty": "hard" },
+        { "question": "Integrità come principio guida", "answers": ["onestà","integrità","coerenza"], "difficulty": "hard" },
+        { "question": "Armonia sistemica duratura", "answers": ["armonia","equilibrio","stabilità"], "difficulty": "hard" },
+        { "question": "Umiltà come regolazione consapevole dell’ego", "answers": ["umiltà","misura","temperanza"], "difficulty": "hard" },
+        { "question": "Coesione sociale stabile nel tempo", "answers": ["armonia","coesione","concordia"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "I",
+      "order": 9,
+      "questions": [
+        { "question": "Capacità di agire senza dipendere da altri", "answers": ["indipendenza","autonomia","libertà"], "difficulty": "easy" },
+        { "question": "Comprensione immediata senza ragionamento", "answers": ["intuizione","percezione","sensibilità"], "difficulty": "easy" },
+        { "question": "Produzione di idee nuove", "answers": ["innovazione","immaginazione","inventiva"], "difficulty": "easy" },
+        { "question": "Avvio volontario di un’azione", "answers": ["iniziativa","impulso","slancio"], "difficulty": "easy" },
+        { "question": "Coerenza tra valori e comportamenti", "answers": ["integrità","coerenza","rettitudine"], "difficulty": "easy" },
+
+        { "question": "Autonomia funzionale mantenuta nel tempo", "answers": ["indipendenza","autosufficienza","autonomia"], "difficulty": "medium" },
+        { "question": "Capacità di cogliere segnali complessi", "answers": ["intuizione","discernimento","lungimiranza"], "difficulty": "medium" },
+        { "question": "Generazione strutturata di novità", "answers": ["innovazione","creatività","inventiva"], "difficulty": "medium" },
+        { "question": "Propensione ad agire senza stimoli esterni", "answers": ["iniziativa","determinazione","proattività"], "difficulty": "medium" },
+        { "question": "Allineamento etico costante", "answers": ["integrità","coerenza","onestà"], "difficulty": "medium" },
+
+        { "question": "Indipendenza strutturale in sistemi complessi", "answers": ["indipendenza","autonomia","autosufficienza"], "difficulty": "hard" },
+        { "question": "Intuizione come strumento cognitivo avanzato", "answers": ["intuizione","discernimento","lungimiranza"], "difficulty": "hard" },
+        { "question": "Innovazione come leva strategica duratura", "answers": ["innovazione","trasformazione","evoluzione"], "difficulty": "hard" },
+        { "question": "Iniziativa sostenuta in contesti incerti", "answers": ["iniziativa","leadership","determinazione"], "difficulty": "hard" },
+        { "question": "Integrità come fondamento della fiducia", "answers": ["integrità","coerenza","credibilità"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "J",
+      "order": 10,
+      "questions": [
+        { "question": "Capacità di valutare una situazione con equilibrio", "answers": ["giudizio","giustezza","giurisprudenza"], "difficulty": "easy" },
+        { "question": "Sentimento di forte soddisfazione interiore", "answers": ["gioia","jubilo","jollità"], "difficulty": "easy" },
+        { "question": "Principio di equità applicato alle regole", "answers": ["giustizia","giustezza","giuridicità"], "difficulty": "easy" },
+
+        { "question": "Valutazione razionale prima di una decisione", "answers": ["giudizio","giustezza","giurisprudenza"], "difficulty": "medium" },
+        { "question": "Espressione intensa di felicità condivisa", "answers": ["gioia","jubilo","jollità"], "difficulty": "medium" },
+        { "question": "Applicazione coerente delle norme", "answers": ["giustizia","giuridicità","giurisprudenza"], "difficulty": "medium" },
+
+        { "question": "Giudizio come fondamento delle decisioni etiche", "answers": ["giudizio","giustizia","giustezza"], "difficulty": "hard" },
+        { "question": "Giustizia come principio strutturale della società", "answers": ["giustizia","giuridicità","giurisprudenza"], "difficulty": "hard" },
+        { "question": "Gioia come stato emotivo profondo e duraturo", "answers": ["gioia","jubilo","jollità"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "K",
+      "order": 11,
+      "questions": [
+        { "question": "Unità di misura pari a mille", "answers": ["kilo","kilogrammo","chilometro"], "difficulty": "easy" },
+        { "question": "Piccola struttura per informazione o vendita", "answers": ["kiosk","kiosco","kermesse"], "difficulty": "easy" },
+        { "question": "Principio spirituale legato alle azioni", "answers": ["karma","kabbala","karmismo"], "difficulty": "easy" },
+
+        { "question": "Prefisso del sistema metrico decimale", "answers": ["kilo","kilogrammo","chilometro"], "difficulty": "medium" },
+        { "question": "Concetto morale di causa ed effetto", "answers": ["karma","karmismo","kabbala"], "difficulty": "medium" },
+        { "question": "Struttura leggera nello spazio urbano", "answers": ["kiosk","kiosco","kermesse"], "difficulty": "medium" },
+
+        { "question": "Karma come principio regolatore del comportamento", "answers": ["karma","karmismo","kabbala"], "difficulty": "hard" },
+        { "question": "Sistema metrico come base di misurazione", "answers": ["kilo","kilogrammo","chilometro"], "difficulty": "hard" },
+        { "question": "Kiosk come punto informativo funzionale", "answers": ["kiosk","kiosco","kermesse"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "L",
+      "order": 12,
+      "questions": [
+        { "question": "Capacità di guidare un gruppo", "answers": ["leadership","legittimità","linea"], "difficulty": "easy" },
+        { "question": "Processo di acquisizione del sapere", "answers": ["lettura","lezione","logica"], "difficulty": "easy" },
+        { "question": "Coerenza razionale del pensiero", "answers": ["logica","linearità","lucidità"], "difficulty": "easy" },
+        { "question": "Risultato positivo ottenuto", "answers": ["lucro","lavoro","lotto"], "difficulty": "easy" },
+
+        { "question": "Guida strategica di un’organizzazione", "answers": ["leadership","legittimità","linea"], "difficulty": "medium" },
+        { "question": "Apprendimento strutturato e continuo", "answers": ["lettura","lezione","formazione"], "difficulty": "medium" },
+        { "question": "Chiarezza e coerenza nel ragionamento", "answers": ["logica","lucidità","linearità"], "difficulty": "medium" },
+        { "question": "Direzione coerente di un’azione", "answers": ["linea","logica","orientamento"], "difficulty": "medium" },
+
+        { "question": "Leadership come dinamica organizzativa complessa", "answers": ["leadership","legittimità","autorità"], "difficulty": "hard" },
+        { "question": "Logica come fondamento del pensiero astratto", "answers": ["logica","coerenza","consistenza"], "difficulty": "hard" },
+        { "question": "Legittimità come base del potere riconosciuto", "answers": ["legittimità","autorità","leadership"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "M",
+      "order": 13,
+      "questions": [
+        { "question": "Spinta interiore verso un obiettivo", "answers": ["motivazione","molla","movente"], "difficulty": "easy" },
+        { "question": "Metodo organizzato per agire", "answers": ["metodo","modello","meccanismo"], "difficulty": "easy" },
+        { "question": "Condizione mentale predominante", "answers": ["mentalità","mindset","morale"], "difficulty": "easy" },
+        { "question": "Capacità di muoversi o cambiare posizione", "answers": ["mobilità","movimento","manovra"], "difficulty": "easy" },
+        { "question": "Risorsa iniziale per avviare un’attività", "answers": ["mezzi","materiali","moneta"], "difficulty": "easy" },
+
+        { "question": "Motivazione mantenuta nel tempo", "answers": ["motivazione","motivante","militanza"], "difficulty": "medium" },
+        { "question": "Sistema strutturato di gestione", "answers": ["management","metodologia","meccanica"], "difficulty": "medium" },
+        { "question": "Assetto mentale collettivo", "answers": ["mentalità","morale","mentalismo"], "difficulty": "medium" },
+        { "question": "Mobilità applicata in modo strategico", "answers": ["mobilità","manovrabilità","movimentazione"], "difficulty": "medium" },
+        { "question": "Mezzi disponibili per un’azione complessa", "answers": ["mezzi","materiali","macchinari"], "difficulty": "medium" },
+
+        { "question": "Motivazione come leva strategica duratura", "answers": ["motivazione","missione","militanza"], "difficulty": "hard" },
+        { "question": "Metodo come architettura operativa", "answers": ["metodo","metodologia","modellazione"], "difficulty": "hard" },
+        { "question": "Mentalità come fattore decisionale sistemico", "answers": ["mentalità","mindset","mentalismo"], "difficulty": "hard" },
+        { "question": "Mobilità strutturale nei sistemi complessi", "answers": ["mobilità","movimentazione","manovrabilità"], "difficulty": "hard" },
+        { "question": "Mezzi come fondamento della capacità d’azione", "answers": ["mezzi","materiali","macchinari"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "N",
+      "order": 14,
+      "questions": [
+        { "question": "Regola condivisa di comportamento", "answers": ["norma","nomenclatura","notazione"], "difficulty": "easy" },
+        { "question": "Livello o grado in una scala", "answers": ["numero","nodo","nivel"], "difficulty": "easy" },
+        { "question": "Idea di base di un concetto", "answers": ["nozione","nucleo","notione"], "difficulty": "easy" },
+        { "question": "Collegamento tra più elementi", "answers": ["nodo","nesso","network"], "difficulty": "easy" },
+        { "question": "Spazio specifico di opportunità", "answers": ["nicchia","nucleo","network"], "difficulty": "easy" },
+
+        { "question": "Norma applicata a un contesto sociale", "answers": ["norma","normativa","notazione"], "difficulty": "medium" },
+        { "question": "Livello funzionale di un sistema", "answers": ["nivel","nodo","numero"], "difficulty": "medium" },
+        { "question": "Nozione come base concettuale", "answers": ["nozione","nucleo","notione"], "difficulty": "medium" },
+        { "question": "Rete di relazioni interconnesse", "answers": ["network","nesso","nodo"], "difficulty": "medium" },
+        { "question": "Nicchia come ambito specializzato", "answers": ["nicchia","network","nucleo"], "difficulty": "medium" },
+
+        { "question": "Norma come fondamento dell’ordine sociale", "answers": ["norma","normativa","normalità"], "difficulty": "hard" },
+        { "question": "Nodo come punto critico di sistema", "answers": ["nodo","network","nesso"], "difficulty": "hard" },
+        { "question": "Nozione come struttura cognitiva astratta", "answers": ["nozione","nucleo","notione"], "difficulty": "hard" },
+        { "question": "Network come architettura relazionale complessa", "answers": ["network","nodo","nesso"], "difficulty": "hard" },
+        { "question": "Nicchia come strategia di differenziazione", "answers": ["nicchia","network","nucleo"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "O",
+      "order": 15,
+      "questions": [
+        { "question": "Possibilità tra cui scegliere", "answers": ["opzione","opportunità","occasione"], "difficulty": "easy" },
+        { "question": "Struttura ordinata di elementi", "answers": ["ordine","organizzazione","orbita"], "difficulty": "easy" },
+        { "question": "Direzione verso un obiettivo", "answers": ["orientamento","obiettivo","orbita"], "difficulty": "easy" },
+        { "question": "Occasione favorevole", "answers": ["opportunità","occasione","opzione"], "difficulty": "easy" },
+        { "question": "Risultato prodotto da un’azione", "answers": ["output","obiettivo","opera"], "difficulty": "easy" },
+
+        { "question": "Scelta razionale tra alternative", "answers": ["opzione","opportunità","orientamento"], "difficulty": "medium" },
+        { "question": "Gestione coordinata di risorse", "answers": ["organizzazione","ordine","orchestrazione"], "difficulty": "medium" },
+        { "question": "Orientamento strategico dell’azione", "answers": ["orientamento","obiettivo","orizzonte"], "difficulty": "medium" },
+        { "question": "Sfruttamento efficace di un’occasione", "answers": ["opportunità","opzione","occasione"], "difficulty": "medium" },
+        { "question": "Produzione finale di un processo", "answers": ["output","opera","obiettivo"], "difficulty": "medium" },
+
+        { "question": "Opzione come leva decisionale complessa", "answers": ["opzione","orientamento","opportunità"], "difficulty": "hard" },
+        { "question": "Organizzazione come architettura sistemica", "answers": ["organizzazione","ordine","orchestrazione"], "difficulty": "hard" },
+        { "question": "Orientamento di lungo periodo", "answers": ["orientamento","orizzonte","obiettivo"], "difficulty": "hard" },
+        { "question": "Opportunità come fattore di crescita strategica", "answers": ["opportunità","opzione","orizzonte"], "difficulty": "hard" },
+        { "question": "Output come misura del valore prodotto", "answers": ["output","opera","obiettivo"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "P",
+      "order": 16,
+      "questions": [
+        { "question": "Capacità di continuare nonostante le difficoltà", "answers": ["perseveranza","pazienza","persistenza"], "difficulty": "easy" },
+        { "question": "Condizione di calma e assenza di conflitto", "answers": ["pace","pacatezza","placidità"], "difficulty": "easy" },
+        { "question": "Risultato positivo ottenuto da un’attività", "answers": ["profitto","premio","plusvalore"], "difficulty": "easy" },
+        { "question": "Atteggiamento di attenzione verso gli altri", "answers": ["premura","protezione","partecipazione"], "difficulty": "easy" },
+        { "question": "Capacità di concentrarsi su uno scopo", "answers": ["precisione","puntualità","prontezza"], "difficulty": "easy" },
+
+        { "question": "Costanza mantenuta nel lungo periodo", "answers": ["perseveranza","persistenza","prosecuzione"], "difficulty": "medium" },
+        { "question": "Gestione ordinata di risorse e azioni", "answers": ["pianificazione","programmazione","previsione"], "difficulty": "medium" },
+        { "question": "Valore aggiunto generato nel tempo", "answers": ["profitto","plusvalore","produttività"], "difficulty": "medium" },
+        { "question": "Atteggiamento mentale orientato allo scopo", "answers": ["proattività","prontezza","propensione"], "difficulty": "medium" },
+        { "question": "Capacità di mantenere l’equilibrio emotivo", "answers": ["padronanza","pacatezza","ponderazione"], "difficulty": "medium" },
+
+        { "question": "Perseveranza come leva strategica duratura", "answers": ["perseveranza","persistenza","resilienza"], "difficulty": "hard" },
+        { "question": "Pianificazione complessa di lungo periodo", "answers": ["pianificazione","programmazione","progettazione"], "difficulty": "hard" },
+        { "question": "Produttività sostenibile in sistemi complessi", "answers": ["produttività","performance","plusvalore"], "difficulty": "hard" },
+        { "question": "Padronanza come controllo consapevole di sé", "answers": ["padronanza","ponderazione","prontezza"], "difficulty": "hard" },
+        { "question": "Proattività come principio di leadership", "answers": ["proattività","propensione","iniziativa"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Q",
+      "order": 17,
+      "questions": [
+        { "question": "Livello di eccellenza di qualcosa", "answers": ["qualità","qualifica","quoziente"], "difficulty": "easy" },
+        { "question": "Parte assegnata in una distribuzione", "answers": ["quota","quantità","quoziente"], "difficulty": "easy" },
+        { "question": "Misura numerica di una grandezza", "answers": ["quantità","quoziente","quota"], "difficulty": "easy" },
+        { "question": "Caratteristica distintiva di un elemento", "answers": ["qualità","quirinalità","qualifica"], "difficulty": "easy" },
+        { "question": "Livello minimo richiesto per una decisione", "answers": ["quorum","quota","quantità"], "difficulty": "easy" },
+
+        { "question": "Valutazione sistematica del valore", "answers": ["qualità","qualifica","quantificazione"], "difficulty": "medium" },
+        { "question": "Ripartizione regolata di risorse", "answers": ["quota","quantità","quoziente"], "difficulty": "medium" },
+        { "question": "Misurazione strutturata di dati", "answers": ["quantificazione","quantità","quoziente"], "difficulty": "medium" },
+        { "question": "Condizione di validità decisionale collettiva", "answers": ["quorum","qualifica","quota"], "difficulty": "medium" },
+        { "question": "Attributo che determina il valore percepito", "answers": ["qualità","qualifica","quintessenza"], "difficulty": "medium" },
+
+        { "question": "Qualità come vantaggio competitivo duraturo", "answers": ["qualità","quintessenza","eccellenza"], "difficulty": "hard" },
+        { "question": "Quantificazione avanzata in sistemi complessi", "answers": ["quantificazione","modellazione","misurazione"], "difficulty": "hard" },
+        { "question": "Quorum come fondamento della legittimità", "answers": ["quorum","qualifica","validità"], "difficulty": "hard" },
+        { "question": "Quota come strumento di regolazione strategica", "answers": ["quota","ripartizione","allocazione"], "difficulty": "hard" },
+        { "question": "Qualità come standard normativo centrale", "answers": ["qualità","eccellenza","affidabilità"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "R",
+      "order": 18,
+      "questions": [
+        { "question": "Capacità di affrontare e superare difficoltà", "answers": ["resilienza","resistenza","robustezza"], "difficulty": "easy" },
+        { "question": "Direzione scelta per raggiungere un obiettivo", "answers": ["rotta","riferimento","riscontro"], "difficulty": "easy" },
+        { "question": "Ripetizione ordinata di azioni", "answers": ["ritmo","routine","regolarità"], "difficulty": "easy" },
+        { "question": "Processo di recupero dopo uno sforzo", "answers": ["riposo","recupero","rigenerazione"], "difficulty": "easy" },
+        { "question": "Capacità di reagire a uno stimolo", "answers": ["reattività","risposta","riflesso"], "difficulty": "easy" },
+
+        { "question": "Adattamento positivo dopo una crisi", "answers": ["resilienza","rigenerazione","recupero"], "difficulty": "medium" },
+        { "question": "Sistema di riferimento per le decisioni", "answers": ["riferimento","riscontro","regola"], "difficulty": "medium" },
+        { "question": "Struttura temporale stabile del lavoro", "answers": ["ritmo","regolarità","routine"], "difficulty": "medium" },
+        { "question": "Capacità di sostenere pressioni ripetute", "answers": ["resistenza","robustezza","resilienza"], "difficulty": "medium" },
+        { "question": "Processo di recupero funzionale completo", "answers": ["recupero","rigenerazione","ripristino"], "difficulty": "medium" },
+
+        { "question": "Resilienza sistemica in contesti instabili", "answers": ["resilienza","robustezza","adattabilità"], "difficulty": "hard" },
+        { "question": "Rotta strategica di lungo periodo", "answers": ["rotta","orientamento","direzione"], "difficulty": "hard" },
+        { "question": "Ritmo sostenibile nei sistemi produttivi", "answers": ["ritmo","regolarità","sincronizzazione"], "difficulty": "hard" },
+        { "question": "Recupero completo delle capacità operative", "answers": ["recupero","rigenerazione","ripristino"], "difficulty": "hard" },
+        { "question": "Reattività come vantaggio competitivo dinamico", "answers": ["reattività","prontezza","responsività"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "S",
+      "order": 19,
+      "questions": [
+        { "question": "Condizione di equilibrio e assenza di pericolo", "answers": ["sicurezza","stabilità","salvaguardia"], "difficulty": "easy" },
+        { "question": "Insieme organizzato di elementi collegati", "answers": ["sistema","struttura","schema"], "difficulty": "easy" },
+        { "question": "Capacità di rimanere saldo sotto pressione", "answers": ["solidità","stabilità","resistenza"], "difficulty": "easy" },
+        { "question": "Stato di calma profonda", "answers": ["serenità","silenzio","soavità"], "difficulty": "easy" },
+        { "question": "Piano generale per raggiungere un obiettivo", "answers": ["strategia","soluzione","schema"], "difficulty": "easy" },
+
+        { "question": "Organizzazione coerente di processi complessi", "answers": ["sistema","strutturazione","sinergia"], "difficulty": "medium" },
+        { "question": "Capacità di mantenere equilibrio nel tempo", "answers": ["stabilità","sostenibilità","solidità"], "difficulty": "medium" },
+        { "question": "Pianificazione orientata al futuro", "answers": ["strategia","scenario","sviluppo"], "difficulty": "medium" },
+        { "question": "Condizione emotiva stabile e controllata", "answers": ["serenità","stabilità","sicurezza"], "difficulty": "medium" },
+        { "question": "Tutela affidabile contro i rischi", "answers": ["sicurezza","salvaguardia","protezione"], "difficulty": "medium" },
+
+        { "question": "Stabilità strutturale di sistemi complessi", "answers": ["stabilità","resilienza","solidità"], "difficulty": "hard" },
+        { "question": "Strategia come architettura decisionale", "answers": ["strategia","pianificazione","indirizzo"], "difficulty": "hard" },
+        { "question": "Sistema come insieme coerente autosostenuto", "answers": ["sistema","integrità","coerenza"], "difficulty": "hard" },
+        { "question": "Serenità come controllo consapevole delle emozioni", "answers": ["serenità","equilibrio","padronanza"], "difficulty": "hard" },
+        { "question": "Sicurezza come fondamento della fiducia collettiva", "answers": ["sicurezza","affidabilità","stabilità"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "T",
+      "order": 20,
+      "questions": [
+        { "question": "Capacità di resistere alle difficoltà", "answers": ["tenacia","tenuta","tolleranza"], "difficulty": "easy" },
+        { "question": "Condizione di calma e pace", "answers": ["tranquillità","tregua","temperanza"], "difficulty": "easy" },
+        { "question": "Obiettivo finale di un’azione", "answers": ["traguardo","target","termine"], "difficulty": "easy" },
+        { "question": "Metodo pratico per agire", "answers": ["tecnica","tattica","traccia"], "difficulty": "easy" },
+        { "question": "Ordine e disposizione corretta", "answers": ["tattica","tessitura","tutela"], "difficulty": "easy" },
+
+        { "question": "Resistenza mantenuta nel lungo periodo", "answers": ["tenacia","perseveranza","costanza"], "difficulty": "medium" },
+        { "question": "Applicazione organizzata di mezzi operativi", "answers": ["tecnica","tattica","procedura"], "difficulty": "medium" },
+        { "question": "Stato emotivo stabile e controllato", "answers": ["tranquillità","temperanza","equilibrio"], "difficulty": "medium" },
+        { "question": "Orientamento verso il risultato finale", "answers": ["traguardo","target","obiettivo"], "difficulty": "medium" },
+        { "question": "Struttura ordinata delle azioni", "answers": ["tessitura","trama","tattica"], "difficulty": "medium" },
+
+        { "question": "Tenacia come leva di successo duraturo", "answers": ["tenacia","resilienza","determinazione"], "difficulty": "hard" },
+        { "question": "Tecnica avanzata in contesti complessi", "answers": ["tecnica","specializzazione","competenza"], "difficulty": "hard" },
+        { "question": "Tranquillità come equilibrio mentale profondo", "answers": ["tranquillità","serenità","padronanza"], "difficulty": "hard" },
+        { "question": "Tattica come componente della strategia", "answers": ["tattica","pianificazione","esecuzione"], "difficulty": "hard" },
+        { "question": "Traguardo come sintesi degli sforzi coordinati", "answers": ["traguardo","realizzazione","compimento"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "U",
+      "order": 21,
+      "questions": [
+        { "question": "Caratteristica che rende qualcosa diverso", "answers": ["unicità","unicità","unicorno"], "difficulty": "easy" },
+        { "question": "Condizione di insieme non frammentato", "answers": ["unità","uniformità","unione"], "difficulty": "easy" },
+        { "question": "Capacità di stare in piedi da soli", "answers": ["autonomia","unicità","utilità"], "difficulty": "easy" },
+        { "question": "Vantaggio concreto ottenuto", "answers": ["utilità","uso","utile"], "difficulty": "easy" },
+        { "question": "Punto di vista espresso", "answers": ["opinione","utilità","orientamento"], "difficulty": "easy" },
+
+        { "question": "Integrazione coerente degli elementi", "answers": ["unità","unione","uniformità"], "difficulty": "medium" },
+        { "question": "Valore pratico riconosciuto a qualcosa", "answers": ["utilità","funzionalità","vantaggio"], "difficulty": "medium" },
+        { "question": "Identità distinta e non replicabile", "answers": ["unicità","singolarità","originalità"], "difficulty": "medium" },
+        { "question": "Capacità di funzionare in modo indipendente", "answers": ["autonomia","autosufficienza","indipendenza"], "difficulty": "medium" },
+        { "question": "Visione personale su un tema", "answers": ["opinione","valutazione","giudizio"], "difficulty": "medium" },
+
+        { "question": "Unità strutturale in sistemi complessi", "answers": ["unità","coesione","integrità"], "difficulty": "hard" },
+        { "question": "Utilità come criterio decisionale avanzato", "answers": ["utilità","efficacia","rilevanza"], "difficulty": "hard" },
+        { "question": "Unicità come vantaggio competitivo", "answers": ["unicità","differenziazione","originalità"], "difficulty": "hard" },
+        { "question": "Autonomia come principio organizzativo", "answers": ["autonomia","indipendenza","autosufficienza"], "difficulty": "hard" },
+        { "question": "Opinione come costruzione cognitiva complessa", "answers": ["opinione","valutazione","interpretazione"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "V",
+      "order": 20,
+      "questions": [
+        { "question": "Forza interiore che sostiene l’azione", "answers": ["vigore","vitalità","valenza"], "difficulty": "easy" },
+        { "question": "Principio morale che guida il comportamento", "answers": ["virtù","valore","verità"], "difficulty": "easy" },
+        { "question": "Direzione ideale verso il futuro", "answers": ["visione","vocazione","vettore"], "difficulty": "easy" },
+        { "question": "Beneficio riconosciuto di qualcosa", "answers": ["valore","vantaggio","validità"], "difficulty": "easy" },
+        { "question": "Condizione di energia fisica e mentale", "answers": ["vitalità","vigore","vivacità"], "difficulty": "easy" },
+
+        { "question": "Valore riconosciuto nel tempo", "answers": ["valore","validità","valenza"], "difficulty": "medium" },
+        { "question": "Visione condivisa che orienta l’azione", "answers": ["visione","vocazione","visibilità"], "difficulty": "medium" },
+        { "question": "Qualità etica stabile dell’individuo", "answers": ["virtù","integrità","rettitudine"], "difficulty": "medium" },
+        { "question": "Energia applicata in modo continuativo", "answers": ["vigore","vitalità","resistenza"], "difficulty": "medium" },
+        { "question": "Rilevanza pratica di una scelta", "answers": ["valenza","validità","valore"], "difficulty": "medium" },
+
+        { "question": "Visione strategica di lungo periodo", "answers": ["visione","indirizzo","orientamento"], "difficulty": "hard" },
+        { "question": "Virtù come fondamento etico sistemico", "answers": ["virtù","integrità","coerenza"], "difficulty": "hard" },
+        { "question": "Valore come leva competitiva duratura", "answers": ["valore","vantaggio","rilevanza"], "difficulty": "hard" },
+        { "question": "Vitalità come risorsa organizzativa", "answers": ["vitalità","energia","vigore"], "difficulty": "hard" },
+        { "question": "Validità come criterio di legittimazione", "answers": ["validità","veridicità","affidabilità"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Z",
+      "order": 21,
+      "questions": [
+        { "question": "Area delimitata con funzione specifica", "answers": ["zona","zolla","zoccolo"], "difficulty": "easy" },
+        { "question": "Periodo storico definito", "answers": ["zelo","zodiaco","zaman"], "difficulty": "easy" },
+        { "question": "Sostanza materiale con proprietà definite", "answers": ["zolfo","zinco","zirconio"], "difficulty": "easy" },
+        { "question": "Impegno intenso verso uno scopo", "answers": ["zelo","zest","zampino"], "difficulty": "easy" },
+        { "question": "Ordine simbolico legato alle stelle", "answers": ["zodiaco","zenit","zefiro"], "difficulty": "easy" },
+
+        { "question": "Zona come strumento di organizzazione", "answers": ["zona","settore","ambito"], "difficulty": "medium" },
+        { "question": "Zelo come motivazione attiva", "answers": ["zelo","impegno","ardore"], "difficulty": "medium" },
+        { "question": "Elemento chimico di base", "answers": ["zinco","zolfo","zirconio"], "difficulty": "medium" },
+        { "question": "Zodiaco come sistema simbolico culturale", "answers": ["zodiaco","astrologia","costellazioni"], "difficulty": "medium" },
+        { "question": "Posizione più alta nel cielo apparente", "answers": ["zenit","culmine","apice"], "difficulty": "medium" },
+
+        { "question": "Zona come leva di pianificazione strategica", "answers": ["zona","ambito","perimetro"], "difficulty": "hard" },
+        { "question": "Zelo come forza motivazionale sostenuta", "answers": ["zelo","determinazione","dedizione"], "difficulty": "hard" },
+        { "question": "Zenit come metafora del massimo livello", "answers": ["zenit","apice","culmine"], "difficulty": "hard" },
+        { "question": "Zodiaco come struttura simbolica storica", "answers": ["zodiaco","astrologia","tradizione"], "difficulty": "hard" },
+        { "question": "Zinco come risorsa funzionale nei sistemi", "answers": ["zinco","zolfo","zirconio"], "difficulty": "hard" }
+      ]
+    }
+  ]
+}

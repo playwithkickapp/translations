@@ -1,0 +1,656 @@
+{
+  "lang": "en",
+  "letters": [
+    {
+      "letter": "A",
+      "order": 1,
+      "questions": [
+        { "question": "The ability to understand and judge situations clearly", "answers": ["ability","acuity","awareness"], "difficulty": "easy" },
+        { "question": "A strong desire to achieve something", "answers": ["ambition","aspiration","aim"], "difficulty": "easy" },
+        { "question": "The state of being truthful and fair", "answers": ["accuracy","authenticity","accountability"], "difficulty": "easy" },
+        { "question": "The process of adjusting to new conditions", "answers": ["adaptation","adjustment","assimilation"], "difficulty": "easy" },
+        { "question": "A positive or negative reaction to something", "answers": ["attitude","approach","assessment"], "difficulty": "easy" },
+
+        { "question": "The systematic examination of something complex", "answers": ["analysis","assessment","appraisal"], "difficulty": "medium" },
+        { "question": "The capacity to act independently", "answers": ["autonomy","agency","authority"], "difficulty": "medium" },
+        { "question": "The act of bringing things together", "answers": ["aggregation","alignment","assembly"], "difficulty": "medium" },
+        { "question": "The state of being accepted or approved", "answers": ["acceptance","approval","acknowledgment"], "difficulty": "medium" },
+        { "question": "A guiding principle or standard", "answers": ["axiom","assumption","assertion"], "difficulty": "medium" },
+
+        { "question": "A fundamental principle taken as true", "answers": ["axiom","assumption","article"], "difficulty": "hard" },
+        { "question": "The philosophical study of existence or knowledge", "answers": ["aphilosophy","analysis","abstraction"], "difficulty": "hard" },
+        { "question": "The quality of being logically consistent", "answers": ["accuracy","alignment","accordance"], "difficulty": "hard" },
+        { "question": "A conceptual representation removed from specifics", "answers": ["abstraction","archetype","analogy"], "difficulty": "hard" },
+        { "question": "The structured framework of an idea", "answers": ["architecture","articulation","arrangement"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "B",
+      "order": 2,
+      "questions": [
+        { "question": "A close connection between people or things", "answers": ["bond","bonding","belonging"], "difficulty": "easy" },
+        { "question": "Knowledge gained through experience", "answers": ["background","base","breadth"], "difficulty": "easy" },
+        { "question": "The act of starting something new", "answers": ["beginning","birth","baseline"], "difficulty": "easy" },
+        { "question": "The ability to perform a task well", "answers": ["ability","brilliance","balance"], "difficulty": "easy" },
+        { "question": "A positive outcome of effort", "answers": ["benefit","bonus","boon"], "difficulty": "easy" },
+
+        { "question": "The state of being evenly distributed or stable", "answers": ["balance","baseline","buoyancy"], "difficulty": "medium" },
+        { "question": "A fundamental supporting element", "answers": ["basis","bedrock","backbone"], "difficulty": "medium" },
+        { "question": "The act of combining separate parts", "answers": ["bonding","blending","bridging"], "difficulty": "medium" },
+        { "question": "A guiding reference point", "answers": ["benchmark","baseline","beacon"], "difficulty": "medium" },
+        { "question": "The capacity to recover from difficulty", "answers": ["bounceback","bravery","buffering"], "difficulty": "medium" },
+
+        { "question": "The structural support of a system", "answers": ["backbone","bedrock","basis"], "difficulty": "hard" },
+        { "question": "The logical grounding of an argument", "answers": ["basis","benchmark","baseline"], "difficulty": "hard" },
+        { "question": "The enduring strength of a structure", "answers": ["bracing","buffering","balance"], "difficulty": "hard" },
+        { "question": "The conceptual scope behind an idea", "answers": ["breadth","boundary","backdrop"], "difficulty": "hard" },
+        { "question": "The condition of long-term stability", "answers": ["balance","buoyancy","baseline"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "C",
+      "order": 3,
+      "questions": [
+        { "question": "The ability to choose freely", "answers": ["choice","control","capacity"], "difficulty": "easy" },
+        { "question": "A group of people with shared interests", "answers": ["community","circle","collective"], "difficulty": "easy" },
+        { "question": "A clear and logical connection", "answers": ["clarity","coherence","consistency"], "difficulty": "easy" },
+        { "question": "The act of working together", "answers": ["cooperation","collaboration","coordination"], "difficulty": "easy" },
+        { "question": "A feeling of confidence and certainty", "answers": ["confidence","conviction","certainty"], "difficulty": "easy" },
+
+        { "question": "The internal order of a system", "answers": ["coherence","consistency","coordination"], "difficulty": "medium" },
+        { "question": "The process of bringing elements together", "answers": ["consolidation","combination","convergence"], "difficulty": "medium" },
+        { "question": "A shared understanding within a group", "answers": ["consensus","conformity","concord"], "difficulty": "medium" },
+        { "question": "The ability to adapt and respond", "answers": ["capacity","capability","competence"], "difficulty": "medium" },
+        { "question": "A structured way of thinking", "answers": ["concept","construct","configuration"], "difficulty": "medium" },
+
+        { "question": "The theoretical framework of an idea", "answers": ["conceptualization","construct","configuration"], "difficulty": "hard" },
+        { "question": "The logical unity of an argument", "answers": ["coherence","consistency","congruence"], "difficulty": "hard" },
+        { "question": "The combined effect of interacting parts", "answers": ["convergence","coordination","coalescence"], "difficulty": "hard" },
+        { "question": "A comprehensive system of ideas", "answers": ["corpus","construct","canon"], "difficulty": "hard" },
+        { "question": "The stable alignment of multiple elements", "answers": ["consistency","cohesion","congruence"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "D",
+      "order": 4,
+      "questions": [
+        { "question": "The ability to remain firm under pressure", "answers": ["durability","discipline","determination"], "difficulty": "easy" },
+        { "question": "A clear separation between things", "answers": ["division","distinction","difference"], "difficulty": "easy" },
+        { "question": "The act of deciding firmly", "answers": ["decision","determination","direction"], "difficulty": "easy" },
+        { "question": "The orderly arrangement of elements", "answers": ["design","distribution","deployment"], "difficulty": "easy" },
+        { "question": "A steady state without sudden change", "answers": ["duration","dependability","density"], "difficulty": "easy" },
+
+        { "question": "The capacity to withstand wear or stress", "answers": ["durability","dependability","density"], "difficulty": "medium" },
+        { "question": "A guiding course of action", "answers": ["direction","doctrine","directive"], "difficulty": "medium" },
+        { "question": "The process of careful examination", "answers": ["diagnosis","dissection","deliberation"], "difficulty": "medium" },
+        { "question": "The structured layout of a system", "answers": ["design","framework","distribution"], "difficulty": "medium" },
+        { "question": "A stable and reliable condition", "answers": ["dependability","durability","discipline"], "difficulty": "medium" },
+
+        { "question": "The underlying principle shaping behavior", "answers": ["doctrine","determinism","directive"], "difficulty": "hard" },
+        { "question": "The analytical identification of a condition", "answers": ["diagnosis","determination","discrimination"], "difficulty": "hard" },
+        { "question": "The theoretical explanation of causation", "answers": ["determinism","dependence","directionality"], "difficulty": "hard" },
+        { "question": "The conceptual organization of complex elements", "answers": ["design","deliberation","distribution"], "difficulty": "hard" },
+        { "question": "The sustained consistency of a system", "answers": ["durability","dependability","discipline"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "E",
+      "order": 5,
+      "questions": [
+        { "question": "The ability to produce a desired result", "answers": ["effectiveness","efficiency","efficacy"], "difficulty": "easy" },
+        { "question": "A focused attempt toward a goal", "answers": ["effort","engagement","endeavor"], "difficulty": "easy" },
+        { "question": "The act of putting something into action", "answers": ["execution","enactment","employment"], "difficulty": "easy" },
+        { "question": "The condition of being involved", "answers": ["engagement","enrollment","entanglement"], "difficulty": "easy" },
+        { "question": "A measurable influence on an outcome", "answers": ["effect","element","extent"], "difficulty": "easy" },
+
+        { "question": "The productive use of resources", "answers": ["efficiency","economy","effectiveness"], "difficulty": "medium" },
+        { "question": "The process of bringing parts together", "answers": ["integration","embedding","enclosure"], "difficulty": "medium" },
+        { "question": "The gradual improvement over time", "answers": ["evolution","enhancement","expansion"], "difficulty": "medium" },
+        { "question": "The ability to adapt to change", "answers": ["elasticity","endurance","flexibility"], "difficulty": "medium" },
+        { "question": "A structured system of cooperation", "answers": ["ecosystem","enterprise","establishment"], "difficulty": "medium" },
+
+        { "question": "The theoretical measure of successful action", "answers": ["efficacy","effectiveness","efficiency"], "difficulty": "hard" },
+        { "question": "The long-term development of a system", "answers": ["evolution","emergence","expansion"], "difficulty": "hard" },
+        { "question": "The interconnected structure of components", "answers": ["ecosystem","entanglement","embeddedness"], "difficulty": "hard" },
+        { "question": "The capacity to persist under strain", "answers": ["endurance","elasticity","equilibrium"], "difficulty": "hard" },
+        { "question": "The organized realization of complex plans", "answers": ["execution","enactment","engineering"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "F",
+      "order": 6,
+      "questions": [
+        { "question": "The ability to change easily", "answers": ["flexibility","fluidity","freedom"], "difficulty": "easy" },
+        { "question": "A guiding purpose or role", "answers": ["function","focus","framework"], "difficulty": "easy" },
+        { "question": "A feeling of trust or certainty", "answers": ["faith","fidelity","firmness"], "difficulty": "easy" },
+        { "question": "A clear central point of attention", "answers": ["focus","feature","focality"], "difficulty": "easy" },
+        { "question": "A beneficial result from action", "answers": ["fruit","favor","fulfillment"], "difficulty": "easy" },
+
+        { "question": "The practical role of an element", "answers": ["function","facility","framework"], "difficulty": "medium" },
+        { "question": "The structural outline of a system", "answers": ["framework","formulation","foundation"], "difficulty": "medium" },
+        { "question": "The smooth progression of activity", "answers": ["flow","fluidity","frequency"], "difficulty": "medium" },
+        { "question": "The capacity to adapt without damage", "answers": ["flexibility","forbearance","fluidity"], "difficulty": "medium" },
+        { "question": "A reliable basis for action", "answers": ["foundation","foothold","framework"], "difficulty": "medium" },
+
+        { "question": "The abstract structure underlying ideas", "answers": ["framework","formulation","foundation"], "difficulty": "hard" },
+        { "question": "The consistent operation of a system", "answers": ["functionality","flow","frequency"], "difficulty": "hard" },
+        { "question": "The conceptual shaping of principles", "answers": ["formulation","formalism","figuration"], "difficulty": "hard" },
+        { "question": "The sustained movement of processes", "answers": ["flow","flux","fluidity"], "difficulty": "hard" },
+        { "question": "The essential support of stability", "answers": ["foundation","framework","foothold"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "G",
+      "order": 7,
+      "questions": [
+        { "question": "A positive result achieved through effort", "answers": ["gain","growth","gratification"], "difficulty": "easy" },
+        { "question": "The act of directing someone or something", "answers": ["guidance","governance","guiding"], "difficulty": "easy" },
+        { "question": "A strong desire to improve or succeed", "answers": ["goal","grit","growth"], "difficulty": "easy" },
+        { "question": "A general direction or tendency", "answers": ["gradient","guideline","generalization"], "difficulty": "easy" },
+        { "question": "A group united by shared traits", "answers": ["group","gathering","guild"], "difficulty": "easy" },
+
+        { "question": "The system by which rules are applied", "answers": ["governance","guideline","groundwork"], "difficulty": "medium" },
+        { "question": "The gradual improvement of something", "answers": ["growth","gain","germination"], "difficulty": "medium" },
+        { "question": "A foundational basis for development", "answers": ["groundwork","genesis","grounding"], "difficulty": "medium" },
+        { "question": "A unifying aim that directs action", "answers": ["goal","guiding","governance"], "difficulty": "medium" },
+        { "question": "The origin point of a process", "answers": ["genesis","groundwork","germ"], "difficulty": "medium" },
+
+        { "question": "The underlying origin of a complex system", "answers": ["genesis","grounding","groundwork"], "difficulty": "hard" },
+        { "question": "The structured control of collective behavior", "answers": ["governance","guideline","governing"], "difficulty": "hard" },
+        { "question": "The sustained increase of capability", "answers": ["growth","gain","graduation"], "difficulty": "hard" },
+        { "question": "The conceptual basis that supports reasoning", "answers": ["grounding","groundwork","genesis"], "difficulty": "hard" },
+        { "question": "The alignment of actions toward a shared end", "answers": ["guidance","goalsetting","governance"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "H",
+      "order": 8,
+      "questions": [
+        { "question": "A strong wish to achieve something", "answers": ["hope","hunger","hustle"], "difficulty": "easy" },
+        { "question": "The condition of being fair and honest", "answers": ["honesty","honor","honorability"], "difficulty": "easy" },
+        { "question": "A clear aim or destination", "answers": ["heading","hope","horizon"], "difficulty": "easy" },
+        { "question": "A state of balance and agreement", "answers": ["harmony","homogeneity","harmony"], "difficulty": "easy" },
+        { "question": "A natural inclination to act", "answers": ["habit","hunch","heuristic"], "difficulty": "easy" },
+
+        { "question": "The balanced interaction of parts", "answers": ["harmony","homogeneity","homeostasis"], "difficulty": "medium" },
+        { "question": "A guiding mental shortcut for decisions", "answers": ["heuristic","habit","hypothesis"], "difficulty": "medium" },
+        { "question": "The condition of internal balance", "answers": ["homeostasis","harmony","health"], "difficulty": "medium" },
+        { "question": "A broad limit of perception or possibility", "answers": ["horizon","heading","highpoint"], "difficulty": "medium" },
+        { "question": "A deeply held moral principle", "answers": ["honor","honesty","humanity"], "difficulty": "medium" },
+
+        { "question": "The self-regulating balance of a system", "answers": ["homeostasis","harmony","homogeneity"], "difficulty": "hard" },
+        { "question": "A theory proposed for explanation", "answers": ["hypothesis","heuristic","hunch"], "difficulty": "hard" },
+        { "question": "The ethical foundation of behavior", "answers": ["honor","honesty","humanity"], "difficulty": "hard" },
+        { "question": "The conceptual boundary of understanding", "answers": ["horizon","heuristic","hypothesis"], "difficulty": "hard" },
+        { "question": "The structured unity of diverse elements", "answers": ["harmony","homogeneity","homeostasis"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "I",
+      "order": 9,
+      "questions": [
+        { "question": "The ability to influence outcomes", "answers": ["impact","influence","importance"], "difficulty": "easy" },
+        { "question": "A strong interest in learning or knowing", "answers": ["interest","inquiry","impulse"], "difficulty": "easy" },
+        { "question": "The act of beginning something", "answers": ["initiation","inception","introduction"], "difficulty": "easy" },
+        { "question": "A sense of who someone is", "answers": ["identity","image","individuality"], "difficulty": "easy" },
+        { "question": "A thoughtful understanding of a situation", "answers": ["insight","intuition","interpretation"], "difficulty": "easy" },
+
+        { "question": "The process of combining parts into a whole", "answers": ["integration","incorporation","interconnection"], "difficulty": "medium" },
+        { "question": "The ability to act independently", "answers": ["independence","initiative","individuality"], "difficulty": "medium" },
+        { "question": "The exchange between connected elements", "answers": ["interaction","interplay","interrelation"], "difficulty": "medium" },
+        { "question": "A reasoned explanation of meaning", "answers": ["interpretation","inference","insight"], "difficulty": "medium" },
+        { "question": "The deliberate start of action", "answers": ["initiative","initiation","impetus"], "difficulty": "medium" },
+
+        { "question": "The unification of complex systems", "answers": ["integration","interconnection","incorporation"], "difficulty": "hard" },
+        { "question": "The logical conclusion drawn from evidence", "answers": ["inference","insight","interpretation"], "difficulty": "hard" },
+        { "question": "The defining core of personal existence", "answers": ["identity","individuality","innerness"], "difficulty": "hard" },
+        { "question": "The driving force behind action", "answers": ["impetus","initiative","impulse"], "difficulty": "hard" },
+        { "question": "The capacity to shape outcomes indirectly", "answers": ["influence","impact","intervention"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "J",
+      "order": 10,
+      "questions": [
+        { "question": "A fair and morally right action or outcome", "answers": ["justice","justness","judgment"], "difficulty": "easy" },
+        { "question": "The ability to evaluate situations wisely", "answers": ["judgment","judiciousness","judgmentality"], "difficulty": "easy" },
+        { "question": "A feeling of happiness caused by success", "answers": ["joy","jubilation","jollity"], "difficulty": "easy" },
+        { "question": "Public celebration of a significant event", "answers": ["jubilee","jamboree","jubilation"], "difficulty": "easy" },
+        { "question": "A deliberate assessment before deciding", "answers": ["judgment","justification","jurisdiction"], "difficulty": "easy" },
+
+        { "question": "The moral principle of fairness in society", "answers": ["justice","justness","jurisprudence"], "difficulty": "medium" },
+        { "question": "The process of forming an informed opinion", "answers": ["judgment","justification","judiciousness"], "difficulty": "medium" },
+        { "question": "The structured system of legal rules", "answers": ["jurisprudence","jurisdiction","judiciary"], "difficulty": "medium" },
+        { "question": "A reason given to support an action", "answers": ["justification","judgment","justness"], "difficulty": "medium" },
+        { "question": "An organized body with legal authority", "answers": ["judiciary","jurisdiction","jurisprudence"], "difficulty": "medium" },
+
+        { "question": "The philosophical study of law and justice", "answers": ["jurisprudence","jurisdiction","judiciary"], "difficulty": "hard" },
+        { "question": "The authority to apply and enforce laws", "answers": ["jurisdiction","judiciary","justice"], "difficulty": "hard" },
+        { "question": "The ethical evaluation of right and wrong", "answers": ["judgment","justice","justness"], "difficulty": "hard" },
+        { "question": "The rational defense of a moral position", "answers": ["justification","judiciousness","judgment"], "difficulty": "hard" },
+        { "question": "The institutional embodiment of legal power", "answers": ["judiciary","jurisdiction","jurisprudence"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "K",
+      "order": 11,
+      "questions": [
+        { "question": "The state of understanding a fact or idea", "answers": ["knowledge","knowing","ken"], "difficulty": "easy" },
+        { "question": "Practical awareness gained through experience", "answers": ["knowhow","knowledge","knack"], "difficulty": "easy" },
+        { "question": "A natural skill for doing something well", "answers": ["knack","keenness","kinesthetic"], "difficulty": "easy" },
+        { "question": "Eagerness or sharp interest", "answers": ["keenness","kindling","kickstart"], "difficulty": "easy" },
+        { "question": "The act of starting momentum", "answers": ["kickstart","kindling","keenness"], "difficulty": "easy" },
+
+        { "question": "The organized body of what is known", "answers": ["knowledge","knowing","knowhow"], "difficulty": "medium" },
+        { "question": "A person’s scope of understanding", "answers": ["ken","knowledge","knowing"], "difficulty": "medium" },
+        { "question": "Skill developed through repeated practice", "answers": ["knack","knowhow","keenness"], "difficulty": "medium" },
+        { "question": "The ignition of interest or motivation", "answers": ["kindling","kickstart","keenness"], "difficulty": "medium" },
+        { "question": "The practical application of expertise", "answers": ["knowhow","knowledge","knack"], "difficulty": "medium" },
+
+        { "question": "The epistemic foundation of understanding", "answers": ["knowledge","knowing","ken"], "difficulty": "hard" },
+        { "question": "The intuitive mastery of a complex skill", "answers": ["knack","knowhow","keenness"], "difficulty": "hard" },
+        { "question": "The deliberate initiation of systemic change", "answers": ["kickstart","kindling","keenness"], "difficulty": "hard" },
+        { "question": "The conscious awareness of comprehension", "answers": ["knowing","knowledge","ken"], "difficulty": "hard" },
+        { "question": "The motivational spark behind sustained effort", "answers": ["kindling","keenness","kickstart"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "L",
+      "order": 12,
+      "questions": [
+        { "question": "The ability to guide or influence others", "answers": ["leadership","leverage","leading"], "difficulty": "easy" },
+        { "question": "The freedom to act without restriction", "answers": ["liberty","latitude","license"], "difficulty": "easy" },
+        { "question": "A guiding rule or general principle", "answers": ["law","logic","line"], "difficulty": "easy" },
+        { "question": "The act of acquiring new understanding", "answers": ["learning","literacy","lesson"], "difficulty": "easy" },
+        { "question": "A strong connection or relationship", "answers": ["link","liaison","lineage"], "difficulty": "easy" },
+
+        { "question": "The organized system of rules in society", "answers": ["law","legislation","legality"], "difficulty": "medium" },
+        { "question": "The process of gaining knowledge and skills", "answers": ["learning","literacy","lesson"], "difficulty": "medium" },
+        { "question": "The ability to influence outcomes strategically", "answers": ["leverage","leadership","latitude"], "difficulty": "medium" },
+        { "question": "The structured reasoning behind conclusions", "answers": ["logic","linearity","linkage"], "difficulty": "medium" },
+        { "question": "The degree of freedom within limits", "answers": ["latitude","liberty","leeway"], "difficulty": "medium" },
+
+        { "question": "The theoretical foundation of rational thought", "answers": ["logic","linearity","linkage"], "difficulty": "hard" },
+        { "question": "The institutional framework of legal order", "answers": ["legislation","legality","law"], "difficulty": "hard" },
+        { "question": "The strategic use of advantage to create impact", "answers": ["leverage","leadership","latitude"], "difficulty": "hard" },
+        { "question": "The systematic development of understanding", "answers": ["learning","literacy","lesson"], "difficulty": "hard" },
+        { "question": "The exercised authority to direct collective action", "answers": ["leadership","leverage","leading"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "M",
+      "order": 13,
+      "questions": [
+        { "question": "A reason for acting or behaving in a certain way", "answers": ["motive","motivation","meaning"], "difficulty": "easy" },
+        { "question": "The importance or significance of something", "answers": ["meaning","magnitude","merit"], "difficulty": "easy" },
+        { "question": "A strong desire to achieve a goal", "answers": ["motivation","momentum","mindset"], "difficulty": "easy" },
+        { "question": "A way of thinking or attitude", "answers": ["mindset","mentality","mode"], "difficulty": "easy" },
+        { "question": "The ability to remember information", "answers": ["memory","mind","mnemonics"], "difficulty": "easy" },
+        { "question": "A fair quality deserving praise", "answers": ["merit","morality","measure"], "difficulty": "easy" },
+        { "question": "A general way something is done", "answers": ["method","manner","model"], "difficulty": "easy" },
+        { "question": "A quantity used for comparison", "answers": ["measure","magnitude","metric"], "difficulty": "easy" },
+        { "question": "A pattern used as an example", "answers": ["model","matrix","mold"], "difficulty": "easy" },
+        { "question": "Forward movement toward progress", "answers": ["momentum","movement","motion"], "difficulty": "easy" },
+
+        { "question": "The structured way to perform a task", "answers": ["methodology","method","mechanism"], "difficulty": "medium" },
+        { "question": "The ethical principles guiding behavior", "answers": ["morality","moralism","mores"], "difficulty": "medium" },
+        { "question": "A system that produces a result", "answers": ["mechanism","machinery","model"], "difficulty": "medium" },
+        { "question": "The force that sustains progress", "answers": ["momentum","motivation","movement"], "difficulty": "medium" },
+        { "question": "A framework for understanding reality", "answers": ["metaphor","model","matrix"], "difficulty": "medium" },
+        { "question": "The way parts interact to function", "answers": ["mechanics","mechanism","methodology"], "difficulty": "medium" },
+        { "question": "A set of standards for judgment", "answers": ["measure","metric","benchmark"], "difficulty": "medium" },
+        { "question": "A prevailing way of thinking in a group", "answers": ["mentality","mindset","mood"], "difficulty": "medium" },
+        { "question": "A guiding representation of reality", "answers": ["model","map","metaphor"], "difficulty": "medium" },
+        { "question": "The organized movement of elements", "answers": ["motion","mobility","movement"], "difficulty": "medium" },
+
+        { "question": "The philosophical interpretation of meaning", "answers": ["metaphysics","meaning","metatheory"], "difficulty": "hard" },
+        { "question": "The underlying structure enabling function", "answers": ["mechanism","matrix","machinery"], "difficulty": "hard" },
+        { "question": "The abstract framework shaping thought", "answers": ["metatheory","model","metaphor"], "difficulty": "hard" },
+        { "question": "The ethical foundation of conduct", "answers": ["morality","moralism","mores"], "difficulty": "hard" },
+        { "question": "The sustained force driving systems forward", "answers": ["momentum","motivation","movement"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "N",
+      "order": 14,
+      "questions": [
+        { "question": "A requirement that must be met", "answers": ["need","necessity","norm"], "difficulty": "easy" },
+        { "question": "A rule or standard of behavior", "answers": ["norm","notion","name"], "difficulty": "easy" },
+        { "question": "An idea or belief", "answers": ["notion","narrative","name"], "difficulty": "easy" },
+        { "question": "A story that explains events", "answers": ["narrative","novelty","news"], "difficulty": "easy" },
+        { "question": "Something new or unusual", "answers": ["novelty","newness","nuance"], "difficulty": "easy" },
+        { "question": "A subtle difference in meaning", "answers": ["nuance","note","notion"], "difficulty": "easy" },
+        { "question": "The absence of bias", "answers": ["neutrality","neutralism","nonpartisanship"], "difficulty": "easy" },
+        { "question": "A classification or label", "answers": ["name","nomenclature","notion"], "difficulty": "easy" },
+        { "question": "Information reported to the public", "answers": ["news","notice","narrative"], "difficulty": "easy" },
+        { "question": "A basic condition for existence", "answers": ["need","necessity","nature"], "difficulty": "easy" },
+
+        { "question": "The state of being required", "answers": ["necessity","need","normativity"], "difficulty": "medium" },
+        { "question": "A commonly accepted standard", "answers": ["norm","normativity","notion"], "difficulty": "medium" },
+        { "question": "The interpretive frame of a story", "answers": ["narrative","notion","network"], "difficulty": "medium" },
+        { "question": "The lack of alignment with sides", "answers": ["neutrality","nonalignment","neutralism"], "difficulty": "medium" },
+        { "question": "A system of naming concepts", "answers": ["nomenclature","naming","notation"], "difficulty": "medium" },
+        { "question": "The web of connected elements", "answers": ["network","nexus","node"], "difficulty": "medium" },
+        { "question": "A slight but important distinction", "answers": ["nuance","note","notability"], "difficulty": "medium" },
+        { "question": "The inherent qualities of something", "answers": ["nature","nurture","normality"], "difficulty": "medium" },
+        { "question": "Public awareness of information", "answers": ["notice","news","notification"], "difficulty": "medium" },
+        { "question": "A shared expectation of behavior", "answers": ["norm","normativity","normalcy"], "difficulty": "medium" },
+
+        { "question": "The philosophical status of obligation", "answers": ["normativity","necessity","neutrality"], "difficulty": "hard" },
+        { "question": "The interconnected core of a system", "answers": ["nexus","network","node"], "difficulty": "hard" },
+        { "question": "The interpretive structure shaping meaning", "answers": ["narrative","notion","normativity"], "difficulty": "hard" },
+        { "question": "The principle of unbiased evaluation", "answers": ["neutrality","neutralism","nonalignment"], "difficulty": "hard" },
+        { "question": "The essential character of existence", "answers": ["nature","necessity","normality"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "O",
+      "order": 15,
+      "questions": [
+        { "question": "The ability to choose between alternatives", "answers": ["option","opportunity","outcome"], "difficulty": "easy" },
+        { "question": "A favorable set of circumstances", "answers": ["opportunity","opening","option"], "difficulty": "easy" },
+        { "question": "The result of an action", "answers": ["outcome","output","offshoot"], "difficulty": "easy" },
+        { "question": "A personal viewpoint", "answers": ["opinion","outlook","orientation"], "difficulty": "easy" },
+        { "question": "The act of arranging parts", "answers": ["organization","ordering","orchestration"], "difficulty": "easy" },
+        { "question": "A visible event or happening", "answers": ["occurrence","outbreak","occasion"], "difficulty": "easy" },
+        { "question": "A general direction or focus", "answers": ["orientation","outlook","objective"], "difficulty": "easy" },
+        { "question": "A goal to be achieved", "answers": ["objective","outcome","obligation"], "difficulty": "easy" },
+        { "question": "A situation that allows entry", "answers": ["opening","opportunity","option"], "difficulty": "easy" },
+        { "question": "The state of being arranged", "answers": ["order","organization","ordination"], "difficulty": "easy" },
+
+        { "question": "The structured coordination of elements", "answers": ["organization","orchestration","ordering"], "difficulty": "medium" },
+        { "question": "A reasoned personal judgment", "answers": ["opinion","outlook","orientation"], "difficulty": "medium" },
+        { "question": "The direction of attention or effort", "answers": ["orientation","objective","outlook"], "difficulty": "medium" },
+        { "question": "The measurable result of a process", "answers": ["output","outcome","offering"], "difficulty": "medium" },
+        { "question": "A chance arising from conditions", "answers": ["opportunity","opening","option"], "difficulty": "medium" },
+        { "question": "A notable event within a sequence", "answers": ["occurrence","occasion","outbreak"], "difficulty": "medium" },
+        { "question": "A structured system with hierarchy", "answers": ["organization","order","organism"], "difficulty": "medium" },
+        { "question": "A guiding aim for action", "answers": ["objective","orientation","outcome"], "difficulty": "medium" },
+        { "question": "A viewpoint shaped by experience", "answers": ["outlook","opinion","orientation"], "difficulty": "medium" },
+        { "question": "The placement within a system", "answers": ["order","ordination","organization"], "difficulty": "medium" },
+
+        { "question": "The theoretical alignment of goals and means", "answers": ["orientation","objective","orchestration"], "difficulty": "hard" },
+        { "question": "The systemic coordination of complex parts", "answers": ["orchestration","organization","ordering"], "difficulty": "hard" },
+        { "question": "The evaluative stance toward reality", "answers": ["outlook","opinion","orientation"], "difficulty": "hard" },
+        { "question": "The consequential result of systemic action", "answers": ["outcome","output","offshoot"], "difficulty": "hard" },
+        { "question": "The formal arrangement defining structure", "answers": ["order","ordination","organization"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "P",
+      "order": 16,
+      "questions": [
+        { "question": "A clear intention to achieve a specific result", "answers": ["purpose","plan","priority"], "difficulty": "easy" },
+        { "question": "A detailed method for accomplishing a task", "answers": ["procedure","process","program"], "difficulty": "easy" },
+        { "question": "The ability to influence outcomes positively", "answers": ["power","potential","persuasion"], "difficulty": "easy" },
+        { "question": "A structured course of future actions", "answers": ["plan","projection","preparation"], "difficulty": "easy" },
+        { "question": "A benefit gained from an action", "answers": ["profit","payoff","prize"], "difficulty": "easy" },
+
+        { "question": "The organized series of actions in a system", "answers": ["process","procedure","progression"], "difficulty": "medium" },
+        { "question": "The likelihood of future success or growth", "answers": ["potential","prospect","possibility"], "difficulty": "medium" },
+        { "question": "The importance assigned before other concerns", "answers": ["priority","precedence","preference"], "difficulty": "medium" },
+        { "question": "The deliberate effort to convince others", "answers": ["persuasion","promotion","presentation"], "difficulty": "medium" },
+        { "question": "The forward movement toward completion", "answers": ["progress","process","propulsion"], "difficulty": "medium" },
+
+        { "question": "The underlying intention shaping long term action", "answers": ["purpose","principle","policy"], "difficulty": "hard" },
+        { "question": "The structured anticipation of future conditions", "answers": ["projection","prediction","prospection"], "difficulty": "hard" },
+        { "question": "The capacity for latent development within a system", "answers": ["potential","plasticity","possibility"], "difficulty": "hard" },
+        { "question": "The formal rule guiding consistent decisions", "answers": ["principle","policy","protocol"], "difficulty": "hard" },
+        { "question": "The strategic alignment of means and goals", "answers": ["planning","prioritization","programming"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Q",
+      "order": 17,
+      "questions": [
+        { "question": "The standard of excellence of something", "answers": ["quality","qualification","quintessence"], "difficulty": "easy" },
+        { "question": "An essential characteristic", "answers": ["quality","quintessence","quirk"], "difficulty": "easy" },
+        { "question": "A formal requirement for eligibility", "answers": ["qualification","quota","question"], "difficulty": "easy" },
+        { "question": "A fixed share or portion", "answers": ["quota","quantity","quotient"], "difficulty": "easy" },
+        { "question": "An amount that can be measured", "answers": ["quantity","quotient","quantum"], "difficulty": "easy" },
+
+        { "question": "The degree of excellence measured objectively", "answers": ["quality","quantification","qualification"], "difficulty": "medium" },
+        { "question": "The act of measuring or expressing numerically", "answers": ["quantification","quantizing","quantum"], "difficulty": "medium" },
+        { "question": "The minimum required share or limit", "answers": ["quota","qualification","quantity"], "difficulty": "medium" },
+        { "question": "The core or purest form of something", "answers": ["quintessence","quality","quantum"], "difficulty": "medium" },
+        { "question": "A calculated result of division", "answers": ["quotient","quantity","quota"], "difficulty": "medium" },
+
+        { "question": "The fundamental measurable unit of change", "answers": ["quantum","quantity","quintessence"], "difficulty": "hard" },
+        { "question": "The systematic conversion of qualities into numbers", "answers": ["quantification","quantizing","qualification"], "difficulty": "hard" },
+        { "question": "The defining excellence that captures true nature", "answers": ["quintessence","quality","quantum"], "difficulty": "hard" },
+        { "question": "The formal validation of competence", "answers": ["qualification","quality","quota"], "difficulty": "hard" },
+        { "question": "The abstract assessment of measurable attributes", "answers": ["quality","quantity","quantification"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "R",
+      "order": 18,
+      "questions": [
+        { "question": "The ability to recover from difficulty", "answers": ["resilience","recovery","robustness"], "difficulty": "easy" },
+        { "question": "A logical explanation for an action", "answers": ["reason","rationale","reasoning"], "difficulty": "easy" },
+        { "question": "The act of guiding or managing direction", "answers": ["regulation","routing","rulemaking"], "difficulty": "easy" },
+        { "question": "A consistent pattern of action", "answers": ["routine","rhythm","regularity"], "difficulty": "easy" },
+        { "question": "A positive effect produced by effort", "answers": ["result","reward","return"], "difficulty": "easy" },
+
+        { "question": "The organized control of systems or behavior", "answers": ["regulation","regimen","rulemaking"], "difficulty": "medium" },
+        { "question": "The structured justification behind decisions", "answers": ["rationale","reasoning","rationality"], "difficulty": "medium" },
+        { "question": "The capacity to withstand stress over time", "answers": ["resilience","robustness","reliability"], "difficulty": "medium" },
+        { "question": "A predictable sequence of actions", "answers": ["routine","regularity","rhythm"], "difficulty": "medium" },
+        { "question": "The outcome generated by a system", "answers": ["result","return","response"], "difficulty": "medium" },
+
+        { "question": "The cognitive process of logical evaluation", "answers": ["reasoning","rationality","reflection"], "difficulty": "hard" },
+        { "question": "The systemic capacity for long term stability", "answers": ["resilience","robustness","reliability"], "difficulty": "hard" },
+        { "question": "The theoretical justification of action frameworks", "answers": ["rationale","rationality","reasoning"], "difficulty": "hard" },
+        { "question": "The governing structure enforcing standards", "answers": ["regulation","regime","rulemaking"], "difficulty": "hard" },
+        { "question": "The sustained pattern that ensures continuity", "answers": ["regularity","rhythm","routine"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "S",
+      "order": 19,
+      "questions": [
+        { "question": "A stable condition that allows continuity", "answers": ["stability","steadiness","sustainability"], "difficulty": "easy" },
+        { "question": "A planned approach to reach a goal", "answers": ["strategy","scheme","schedule"], "difficulty": "easy" },
+        { "question": "The act of helping or supporting", "answers": ["support","service","succor"], "difficulty": "easy" },
+        { "question": "A structured set of connected elements", "answers": ["system","structure","setup"], "difficulty": "easy" },
+        { "question": "A feeling of confidence and calm", "answers": ["security","serenity","sureness"], "difficulty": "easy" },
+
+        { "question": "The coordinated functioning of parts", "answers": ["synergy","synchrony","systematics"], "difficulty": "medium" },
+        { "question": "The capacity to endure over time", "answers": ["sustainability","stamina","solidity"], "difficulty": "medium" },
+        { "question": "An ordered method for achieving results", "answers": ["strategy","sequencing","structuring"], "difficulty": "medium" },
+        { "question": "The overall condition of a system", "answers": ["status","state","standing"], "difficulty": "medium" },
+        { "question": "The regulation of behavior by rules", "answers": ["standardization","supervision","stewardship"], "difficulty": "medium" },
+
+        { "question": "The long term viability of organized systems", "answers": ["sustainability","stability","survivability"], "difficulty": "hard" },
+        { "question": "The emergent effect of coordinated interaction", "answers": ["synergy","synchronization","systemicity"], "difficulty": "hard" },
+        { "question": "The formal alignment of means toward objectives", "answers": ["strategy","structuration","systematization"], "difficulty": "hard" },
+        { "question": "The comprehensive arrangement of components", "answers": ["systematization","structuring","schematization"], "difficulty": "hard" },
+        { "question": "The enduring equilibrium of complex operations", "answers": ["stability","steadiness","selfregulation"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "T",
+      "order": 20,
+      "questions": [
+        { "question": "A clear aim to be achieved", "answers": ["target","task","trajectory"], "difficulty": "easy" },
+        { "question": "The act of thinking carefully", "answers": ["thought","thinking","thoughtfulness"], "difficulty": "easy" },
+        { "question": "A dependable sequence of actions", "answers": ["tradition","track","timetable"], "difficulty": "easy" },
+        { "question": "The condition of being accurate and exact", "answers": ["truth","trustworthiness","transparency"], "difficulty": "easy" },
+        { "question": "A period of continued existence", "answers": ["time","tenure","timespan"], "difficulty": "easy" },
+
+        { "question": "The internal consistency of ideas", "answers": ["theory","tenability","truthfulness"], "difficulty": "medium" },
+        { "question": "A methodical arrangement of actions", "answers": ["technique","tactic","tooling"], "difficulty": "medium" },
+        { "question": "The open availability of information", "answers": ["transparency","traceability","trust"], "difficulty": "medium" },
+        { "question": "The measured progression toward an outcome", "answers": ["trajectory","transition","throughput"], "difficulty": "medium" },
+        { "question": "The dependable performance of a system", "answers": ["trustworthiness","tenacity","tolerance"], "difficulty": "medium" },
+
+        { "question": "The abstract framework explaining phenomena", "answers": ["theory","theorization","typology"], "difficulty": "hard" },
+        { "question": "The systematic application of means to ends", "answers": ["tactics","technique","toolchain"], "difficulty": "hard" },
+        { "question": "The principled openness of processes", "answers": ["transparency","traceability","trustworthiness"], "difficulty": "hard" },
+        { "question": "The sustained reliability under stress", "answers": ["tenacity","toughness","tolerance"], "difficulty": "hard" },
+        { "question": "The coherent flow across stages of change", "answers": ["transition","trajectory","transformation"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "U",
+      "order": 21,
+      "questions": [
+        { "question": "The ability to work together effectively", "answers": ["unity","uniformity","union"], "difficulty": "easy" },
+        { "question": "The practical value of something", "answers": ["usefulness","utility","usability"], "difficulty": "easy" },
+        { "question": "A state of agreement or harmony", "answers": ["understanding","unity","unison"], "difficulty": "easy" },
+        { "question": "The act of making something work", "answers": ["usage","utilization","uptake"], "difficulty": "easy" },
+        { "question": "Freedom from unnecessary limits", "answers": ["unconstraint","unfetteredness","unrestrictedness"], "difficulty": "easy" },
+
+        { "question": "The effectiveness of a tool or process", "answers": ["utility","usability","usefulness"], "difficulty": "medium" },
+        { "question": "The coordinated alignment of elements", "answers": ["unification","uniformity","unity"], "difficulty": "medium" },
+        { "question": "The process of putting resources to work", "answers": ["utilization","usage","uptake"], "difficulty": "medium" },
+        { "question": "Shared comprehension among parties", "answers": ["understanding","unison","unity"], "difficulty": "medium" },
+        { "question": "The state of being applicable across cases", "answers": ["universality","ubiquity","uniformity"], "difficulty": "medium" },
+
+        { "question": "The principle of broad applicability", "answers": ["universality","uniformity","ubiquity"], "difficulty": "hard" },
+        { "question": "The systemic integration of diverse parts", "answers": ["unification","unity","uniformization"], "difficulty": "hard" },
+        { "question": "The optimization of resource application", "answers": ["utilization","useefficiency","uptake"], "difficulty": "hard" },
+        { "question": "The sustained cohesion of collective action", "answers": ["unity","unison","uniformity"], "difficulty": "hard" },
+        { "question": "The consistent usefulness across contexts", "answers": ["utility","universality","usability"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "V",
+      "order": 22,
+      "questions": [
+        { "question": "The ability to continue effectively over time", "answers": ["viability","vigor","vitality"], "difficulty": "easy" },
+        { "question": "A strongly held moral or ethical stance", "answers": ["virtue","values","veracity"], "difficulty": "easy" },
+        { "question": "The condition of being alive and active", "answers": ["vitality","vigor","vivacity"], "difficulty": "easy" },
+        { "question": "The usefulness or importance of something", "answers": ["value","validity","virtue"], "difficulty": "easy" },
+        { "question": "The state of being accurate and sound", "answers": ["validity","veracity","verifiability"], "difficulty": "easy" },
+
+        { "question": "The capacity to succeed or function effectively", "answers": ["viability","validity","vigor"], "difficulty": "medium" },
+        { "question": "The strength and energy of action", "answers": ["vigor","vitality","volition"], "difficulty": "medium" },
+        { "question": "The quality of being truthful", "answers": ["veracity","validity","verifiability"], "difficulty": "medium" },
+        { "question": "A deliberate act of will", "answers": ["volition","voluntarism","voluntary"], "difficulty": "medium" },
+        { "question": "The moral excellence of character", "answers": ["virtue","values","veracity"], "difficulty": "medium" },
+
+        { "question": "The long term feasibility of complex systems", "answers": ["viability","validity","vitality"], "difficulty": "hard" },
+        { "question": "The philosophical commitment to chosen action", "answers": ["volition","voluntarism","voluntary"], "difficulty": "hard" },
+        { "question": "The epistemic condition of being well founded", "answers": ["validity","verifiability","veracity"], "difficulty": "hard" },
+        { "question": "The enduring moral strength of conduct", "answers": ["virtue","values","veracity"], "difficulty": "hard" },
+        { "question": "The sustained force driving purposeful activity", "answers": ["vigor","vitality","volition"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "W",
+      "order": 23,
+      "questions": [
+        { "question": "The ability to make sound decisions", "answers": ["wisdom","wit","wiseness"], "difficulty": "easy" },
+        { "question": "A method or manner of doing something", "answers": ["way","workflow","workstyle"], "difficulty": "easy" },
+        { "question": "The effort applied to achieve results", "answers": ["work","willpower","will"], "difficulty": "easy" },
+        { "question": "A strong desire or intention", "answers": ["will","wish","willingness"], "difficulty": "easy" },
+        { "question": "The act of cooperating productively", "answers": ["workmanship","workflow","working"], "difficulty": "easy" },
+
+        { "question": "The capacity to persist toward goals", "answers": ["willpower","will","willingness"], "difficulty": "medium" },
+        { "question": "The practical organization of tasks", "answers": ["workflow","workplan","workstream"], "difficulty": "medium" },
+        { "question": "The quality of skilled effort", "answers": ["workmanship","workquality","workcraft"], "difficulty": "medium" },
+        { "question": "Sound judgment shaped by experience", "answers": ["wisdom","wiseness","worldliness"], "difficulty": "medium" },
+        { "question": "A structured approach to accomplishing work", "answers": ["wayfinding","workflow","workmethod"], "difficulty": "medium" },
+
+        { "question": "The reflective capacity to judge deeply", "answers": ["wisdom","wiseness","worldliness"], "difficulty": "hard" },
+        { "question": "The disciplined application of sustained effort", "answers": ["willpower","work","willingness"], "difficulty": "hard" },
+        { "question": "The systemic coordination of labor processes", "answers": ["workflow","workstream","workplan"], "difficulty": "hard" },
+        { "question": "The refined quality of expert creation", "answers": ["workmanship","workcraft","workquality"], "difficulty": "hard" },
+        { "question": "The intentional direction of action", "answers": ["will","willpower","willingness"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "X",
+      "order": 24,
+      "questions": [
+        { "question": "Friendly behavior toward strangers", "answers": ["xenial","xenodochial","xenophilic"], "difficulty": "easy" },
+        { "question": "An object that produces musical tones when struck", "answers": ["xylophone","xylophonist","xylophonic"], "difficulty": "easy" },
+        { "question": "A chemical element used in lighting", "answers": ["xenon","xenic","xenogenous"], "difficulty": "easy" },
+        { "question": "Dry environmental conditions", "answers": ["xeric","xerotic","xerophytic"], "difficulty": "easy" },
+        { "question": "Plant tissue that conducts water", "answers": ["xylem","xylary","xylous"], "difficulty": "easy" },
+
+        { "question": "Fear or distrust of foreigners", "answers": ["xenophobia","xenophobic","xenophobe"], "difficulty": "medium" },
+        { "question": "A tendency to thrive in dry habitats", "answers": ["xerophytic","xeric","xerophilous"], "difficulty": "medium" },
+        { "question": "The biological origin of a tissue type", "answers": ["xylem","xylary","xylous"], "difficulty": "medium" },
+        { "question": "An attitude of hospitality toward outsiders", "answers": ["xenial","xenophilic","xenodochial"], "difficulty": "medium" },
+        { "question": "A noble gas with low reactivity", "answers": ["xenon","xenic","xenogenous"], "difficulty": "medium" },
+
+        { "question": "The social phenomenon of fear toward outsiders", "answers": ["xenophobia","xenophobic","xenophobe"], "difficulty": "hard" },
+        { "question": "Adaptation to extreme dryness in organisms", "answers": ["xerophytic","xerophilous","xeric"], "difficulty": "hard" },
+        { "question": "The vascular structure enabling plant hydration", "answers": ["xylem","xylary","xylous"], "difficulty": "hard" },
+        { "question": "The chemical behavior of noble gases", "answers": ["xenon","xenic","xenogenous"], "difficulty": "hard" },
+        { "question": "The cultural practice of welcoming strangers", "answers": ["xenial","xenodochial","xenophilic"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "V",
+      "order": 22,
+      "questions": [
+        { "question": "The ability to continue effectively over time", "answers": ["viability","vigor","vitality"], "difficulty": "easy" },
+        { "question": "A strongly held moral or ethical stance", "answers": ["virtue","values","veracity"], "difficulty": "easy" },
+        { "question": "The condition of being alive and active", "answers": ["vitality","vigor","vivacity"], "difficulty": "easy" },
+        { "question": "The usefulness or importance of something", "answers": ["value","validity","virtue"], "difficulty": "easy" },
+        { "question": "The state of being accurate and sound", "answers": ["validity","veracity","verifiability"], "difficulty": "easy" },
+
+        { "question": "The capacity to succeed or function effectively", "answers": ["viability","validity","vigor"], "difficulty": "medium" },
+        { "question": "The strength and energy of action", "answers": ["vigor","vitality","volition"], "difficulty": "medium" },
+        { "question": "The quality of being truthful", "answers": ["veracity","validity","verifiability"], "difficulty": "medium" },
+        { "question": "A deliberate act of will", "answers": ["volition","voluntarism","voluntary"], "difficulty": "medium" },
+        { "question": "The moral excellence of character", "answers": ["virtue","values","veracity"], "difficulty": "medium" },
+
+        { "question": "The long term feasibility of complex systems", "answers": ["viability","validity","vitality"], "difficulty": "hard" },
+        { "question": "The philosophical commitment to chosen action", "answers": ["volition","voluntarism","voluntary"], "difficulty": "hard" },
+        { "question": "The epistemic condition of being well founded", "answers": ["validity","verifiability","veracity"], "difficulty": "hard" },
+        { "question": "The enduring moral strength of conduct", "answers": ["virtue","values","veracity"], "difficulty": "hard" },
+        { "question": "The sustained force driving purposeful activity", "answers": ["vigor","vitality","volition"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "W",
+      "order": 23,
+      "questions": [
+        { "question": "The ability to make sound decisions", "answers": ["wisdom","wit","wiseness"], "difficulty": "easy" },
+        { "question": "A method or manner of doing something", "answers": ["way","workflow","workstyle"], "difficulty": "easy" },
+        { "question": "The effort applied to achieve results", "answers": ["work","willpower","will"], "difficulty": "easy" },
+        { "question": "A strong desire or intention", "answers": ["will","wish","willingness"], "difficulty": "easy" },
+        { "question": "The act of cooperating productively", "answers": ["workmanship","workflow","working"], "difficulty": "easy" },
+
+        { "question": "The capacity to persist toward goals", "answers": ["willpower","will","willingness"], "difficulty": "medium" },
+        { "question": "The practical organization of tasks", "answers": ["workflow","workplan","workstream"], "difficulty": "medium" },
+        { "question": "The quality of skilled effort", "answers": ["workmanship","workquality","workcraft"], "difficulty": "medium" },
+        { "question": "Sound judgment shaped by experience", "answers": ["wisdom","wiseness","worldliness"], "difficulty": "medium" },
+        { "question": "A structured approach to accomplishing work", "answers": ["wayfinding","workflow","workmethod"], "difficulty": "medium" },
+
+        { "question": "The reflective capacity to judge deeply", "answers": ["wisdom","wiseness","worldliness"], "difficulty": "hard" },
+        { "question": "The disciplined application of sustained effort", "answers": ["willpower","work","willingness"], "difficulty": "hard" },
+        { "question": "The systemic coordination of labor processes", "answers": ["workflow","workstream","workplan"], "difficulty": "hard" },
+        { "question": "The refined quality of expert creation", "answers": ["workmanship","workcraft","workquality"], "difficulty": "hard" },
+        { "question": "The intentional direction of action", "answers": ["will","willpower","willingness"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "X",
+      "order": 24,
+      "questions": [
+        { "question": "Friendly behavior toward strangers", "answers": ["xenial","xenodochial","xenophilic"], "difficulty": "easy" },
+        { "question": "An object that produces musical tones when struck", "answers": ["xylophone","xylophonist","xylophonic"], "difficulty": "easy" },
+        { "question": "A chemical element used in lighting", "answers": ["xenon","xenic","xenogenous"], "difficulty": "easy" },
+        { "question": "Dry environmental conditions", "answers": ["xeric","xerotic","xerophytic"], "difficulty": "easy" },
+        { "question": "Plant tissue that conducts water", "answers": ["xylem","xylary","xylous"], "difficulty": "easy" },
+
+        { "question": "Fear or distrust of foreigners", "answers": ["xenophobia","xenophobic","xenophobe"], "difficulty": "medium" },
+        { "question": "A tendency to thrive in dry habitats", "answers": ["xerophytic","xeric","xerophilous"], "difficulty": "medium" },
+        { "question": "The biological origin of a tissue type", "answers": ["xylem","xylary","xylous"], "difficulty": "medium" },
+        { "question": "An attitude of hospitality toward outsiders", "answers": ["xenial","xenophilic","xenodochial"], "difficulty": "medium" },
+        { "question": "A noble gas with low reactivity", "answers": ["xenon","xenic","xenogenous"], "difficulty": "medium" },
+
+        { "question": "The social phenomenon of fear toward outsiders", "answers": ["xenophobia","xenophobic","xenophobe"], "difficulty": "hard" },
+        { "question": "Adaptation to extreme dryness in organisms", "answers": ["xerophytic","xerophilous","xeric"], "difficulty": "hard" },
+        { "question": "The vascular structure enabling plant hydration", "answers": ["xylem","xylary","xylous"], "difficulty": "hard" },
+        { "question": "The chemical behavior of noble gases", "answers": ["xenon","xenic","xenogenous"], "difficulty": "hard" },
+        { "question": "The cultural practice of welcoming strangers", "answers": ["xenial","xenodochial","xenophilic"], "difficulty": "hard" }
+      ]
+    }
+  ]
+}

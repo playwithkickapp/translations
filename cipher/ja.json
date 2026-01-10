@@ -1,0 +1,1008 @@
+{
+  "lang": "ja",
+  "letters": [
+    {
+      "letter": "あ",
+      "order": 1,
+      "questions": [
+        { "question": "物事を成し遂げようとする内面的な力", "answers": ["意欲","意志","熱意"], "difficulty": "easy" },
+        { "question": "物事を正しく理解する力", "answers": ["理解","把握","認識"], "difficulty": "easy" },
+        { "question": "人に対する好意的な態度", "answers": ["愛情","厚意","親愛"], "difficulty": "easy" },
+        { "question": "落ち着いて穏やかな状態", "answers": ["安定","安心","安堵"], "difficulty": "easy" },
+        { "question": "新しい考えや発想", "answers": ["案","発想","着想"], "difficulty": "easy" },
+        { "question": "行動を起こすための心の準備", "answers": ["意志","覚悟","決意"], "difficulty": "easy" },
+        { "question": "人や物への強い結びつき", "answers": ["愛着","執着","親近"], "difficulty": "easy" },
+        { "question": "秩序だった状態", "answers": ["安定","整然","安寧"], "difficulty": "easy" },
+        { "question": "物事の始まりとなる考え", "answers": ["案","構想","企画"], "difficulty": "easy" },
+        { "question": "危険がなく落ち着いている状態", "answers": ["安全","安心","安泰"], "difficulty": "easy" },
+
+        { "question": "主体的に行動を選択する力", "answers": ["意志","主体性","自発性"], "difficulty": "medium" },
+        { "question": "状況を正確に読み取る能力", "answers": ["理解","洞察","把握"], "difficulty": "medium" },
+        { "question": "人間関係を円滑にする感情", "answers": ["愛情","共感","好意"], "difficulty": "medium" },
+        { "question": "長期的に維持される落ち着き", "answers": ["安定","持続","恒常"], "difficulty": "medium" },
+        { "question": "目的達成のための考えの枠組み", "answers": ["案","構想","設計"], "difficulty": "medium" },
+        { "question": "困難に立ち向かう精神状態", "answers": ["意欲","闘志","気概"], "difficulty": "medium" },
+        { "question": "信頼関係の基盤となる感情", "answers": ["愛着","信愛","親和"], "difficulty": "medium" },
+        { "question": "社会や組織の安定した状態", "answers": ["安定","秩序","安寧"], "difficulty": "medium" },
+        { "question": "計画の初期段階の発想", "answers": ["案","発想","構想"], "difficulty": "medium" },
+        { "question": "危機が排除された状態", "answers": ["安全","安定","安泰"], "difficulty": "medium" },
+
+        { "question": "価値判断を伴う主体的決断力", "answers": ["意志","決断","覚悟"], "difficulty": "hard" },
+        { "question": "複雑な事象を統合的に把握する力", "answers": ["理解","洞察","認識"], "difficulty": "hard" },
+        { "question": "利他的行動を支える感情基盤", "answers": ["愛情","慈愛","博愛"], "difficulty": "hard" },
+        { "question": "長期的視点で保たれる均衡状態", "answers": ["安定","均衡","恒常"], "difficulty": "hard" },
+        { "question": "戦略的意思決定の出発点となる思考", "answers": ["案","構想","設計"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "い",
+      "order": 2,
+      "questions": [
+        { "question": "自分自身を正しく認識すること", "answers": ["意識","自覚","認知"], "difficulty": "easy" },
+        { "question": "人と人とのつながり", "answers": ["縁","関係","結び"], "difficulty": "easy" },
+        { "question": "強い心の力", "answers": ["意志","意力","気力"], "difficulty": "easy" },
+        { "question": "物事の意味や価値", "answers": ["意味","意義","価値"], "difficulty": "easy" },
+        { "question": "人の内面にある感情", "answers": ["感情","意情","情緒"], "difficulty": "easy" },
+        { "question": "注意を向けている状態", "answers": ["意識","集中","注視"], "difficulty": "easy" },
+        { "question": "人との関係性の深さ", "answers": ["縁","親交","交流"], "difficulty": "easy" },
+        { "question": "行動を支える精神的な力", "answers": ["意力","気力","活力"], "difficulty": "easy" },
+        { "question": "言葉や行為に込められた内容", "answers": ["意味","真意","趣旨"], "difficulty": "easy" },
+        { "question": "感覚や気分の動き", "answers": ["感情","情緒","心情"], "difficulty": "easy" },
+
+        { "question": "自己を客観的に捉える能力", "answers": ["意識","自覚","内省"], "difficulty": "medium" },
+        { "question": "社会的なつながりの形成", "answers": ["縁","関係","連帯"], "difficulty": "medium" },
+        { "question": "困難に耐える精神力", "answers": ["意力","忍耐","持久"], "difficulty": "medium" },
+        { "question": "行為が持つ社会的価値", "answers": ["意義","意味","価値"], "difficulty": "medium" },
+        { "question": "感情を安定させる心の働き", "answers": ["意識","調整","自制"], "difficulty": "medium" },
+        { "question": "人間関係を維持する結びつき", "answers": ["縁","信頼","親和"], "difficulty": "medium" },
+        { "question": "内面から湧き出る行動力", "answers": ["意力","活力","原動"], "difficulty": "medium" },
+        { "question": "言動の背後にある目的", "answers": ["意図","真意","趣旨"], "difficulty": "medium" },
+        { "question": "心の状態の変化", "answers": ["感情","情動","心情"], "difficulty": "medium" },
+        { "question": "注意と判断を統合した状態", "answers": ["意識","認知","理解"], "difficulty": "medium" },
+
+        { "question": "自己認識を基盤とした行動制御", "answers": ["意識","自覚","内省"], "difficulty": "hard" },
+        { "question": "社会的文脈における人間関係網", "answers": ["縁","関係","連関"], "difficulty": "hard" },
+        { "question": "長期的努力を支える精神基盤", "answers": ["意力","持久","忍耐"], "difficulty": "hard" },
+        { "question": "行為が社会に与える本質的価値", "answers": ["意義","価値","本質"], "difficulty": "hard" },
+        { "question": "感情を客観視し統御する能力", "answers": ["意識","自制","調整"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "う",
+      "order": 3,
+      "questions": [
+        { "question": "物事を成し遂げるための力", "answers": ["運","能力","腕前"], "difficulty": "easy" },
+        { "question": "人に与えられる良い巡り合わせ", "answers": ["運","幸運","好機"], "difficulty": "easy" },
+        { "question": "優れた技能", "answers": ["腕前","技能","技量"], "difficulty": "easy" },
+        { "question": "内側から湧く力", "answers": ["活力","原動","気力"], "difficulty": "easy" },
+        { "question": "価値ある出来事に出会うこと", "answers": ["運","機会","好機"], "difficulty": "easy" },
+        { "question": "努力によって培われた力", "answers": ["腕前","実力","技能"], "difficulty": "easy" },
+        { "question": "生命活動を支える力", "answers": ["活力","生命","元気"], "difficulty": "easy" },
+        { "question": "状況を有利に進める巡り", "answers": ["運","流れ","趨勢"], "difficulty": "easy" },
+        { "question": "熟練による技の高さ", "answers": ["腕前","技量","熟達"], "difficulty": "easy" },
+        { "question": "行動を促す内的エネルギー", "answers": ["活力","原動","推進"], "difficulty": "easy" },
+
+        { "question": "状況を左右する偶然的要素", "answers": ["運","偶然","巡り"], "difficulty": "medium" },
+        { "question": "専門分野で発揮される技能", "answers": ["腕前","技能","専門"], "difficulty": "medium" },
+        { "question": "持続的な行動を可能にする力", "answers": ["活力","持久","耐力"], "difficulty": "medium" },
+        { "question": "好ましい機会を見極めること", "answers": ["運","好機","機会"], "difficulty": "medium" },
+        { "question": "経験によって高められた実力", "answers": ["腕前","実力","熟達"], "difficulty": "medium" },
+        { "question": "生命活動を維持する内的資源", "answers": ["活力","生命","活性"], "difficulty": "medium" },
+        { "question": "状況変化の方向性", "answers": ["運","流れ","趨勢"], "difficulty": "medium" },
+        { "question": "高度な技術的能力", "answers": ["腕前","技量","技能"], "difficulty": "medium" },
+        { "question": "行動を継続させる原動力", "answers": ["活力","推進","原動"], "difficulty": "medium" },
+        { "question": "結果に影響を与える巡り合わせ", "answers": ["運","偶然","機縁"], "difficulty": "medium" },
+
+        { "question": "不確実性を含む成功要因", "answers": ["運","偶然","巡り"], "difficulty": "hard" },
+        { "question": "体系的訓練によって形成された技能", "answers": ["腕前","技能","熟達"], "difficulty": "hard" },
+        { "question": "長期的活動を支える生命エネルギー", "answers": ["活力","耐力","持久"], "difficulty": "hard" },
+        { "question": "戦略的判断に影響する好機", "answers": ["運","機会","好機"], "difficulty": "hard" },
+        { "question": "高度な専門性を示す実践能力", "answers": ["腕前","実力","技量"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "え",
+      "order": 4,
+      "questions": [
+        { "question": "物事を成し遂げるための力や能力", "answers": ["影響力","営業力","演算力"], "difficulty": "easy" },
+        { "question": "学びや経験によって得られる知識", "answers": ["英知","叡智","縁知"], "difficulty": "easy" },
+        { "question": "外部から与えられる作用", "answers": ["影響","援助","演出"], "difficulty": "easy" },
+        { "question": "人や物を支える行為", "answers": ["援助","援護","援護力"], "difficulty": "easy" },
+        { "question": "出来事を分かりやすく見せる工夫", "answers": ["演出","演技","演示"], "difficulty": "easy" },
+
+        { "question": "状況や判断に及ぶ作用", "answers": ["影響","影響力","影響圏"], "difficulty": "medium" },
+        { "question": "深い理解に基づく知恵", "answers": ["英知","叡智","英断"], "difficulty": "medium" },
+        { "question": "困難な状況での支援", "answers": ["援助","援護","援軍"], "difficulty": "medium" },
+        { "question": "価値を高めるための表現", "answers": ["演出","演技","演奏"], "difficulty": "medium" },
+        { "question": "一定の目的に沿った行為", "answers": ["営為","営業","営利"], "difficulty": "medium" },
+
+        { "question": "長期的に及ぶ影響の連鎖", "answers": ["影響","影響力","影響圏"], "difficulty": "hard" },
+        { "question": "意思決定を導く高度な知恵", "answers": ["英知","叡智","英断"], "difficulty": "hard" },
+        { "question": "体系的に行われる支援活動", "answers": ["援助","援護","援軍"], "difficulty": "hard" },
+        { "question": "意図的に構築された表現構造", "answers": ["演出","演技","演示"], "difficulty": "hard" },
+        { "question": "社会活動としての継続的行為", "answers": ["営為","営業","営利"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "お",
+      "order": 5,
+      "questions": [
+        { "question": "人に与える印象や評価", "answers": ["印象","影響","思い"], "difficulty": "easy" },
+        { "question": "物事を進める中心となる考え", "answers": ["方針","理念","思考"], "difficulty": "easy" },
+        { "question": "心に浮かぶ考え", "answers": ["思い","思考","想念"], "difficulty": "easy" },
+        { "question": "価値ある働きや役割", "answers": ["恩恵","恩徳","恩義"], "difficulty": "easy" },
+        { "question": "努力して成し遂げた結果", "answers": ["成果","偉業","業績"], "difficulty": "easy" },
+
+        { "question": "判断や行動に残る影", "answers": ["印象","影響","余韻"], "difficulty": "medium" },
+        { "question": "物事を導く基本的な考え", "answers": ["方針","思考","理念"], "difficulty": "medium" },
+        { "question": "内面に生じる感情的な考え", "answers": ["思い","想念","思索"], "difficulty": "medium" },
+        { "question": "受けた助けや利益", "answers": ["恩恵","恩義","恩徳"], "difficulty": "medium" },
+        { "question": "組織や個人の達成結果", "answers": ["成果","業績","偉業"], "difficulty": "medium" },
+
+        { "question": "社会的に残る強い印象", "answers": ["印象","影響","余韻"], "difficulty": "hard" },
+        { "question": "長期的視点に立つ指針", "answers": ["方針","理念","思考"], "difficulty": "hard" },
+        { "question": "内省によって深まる考え", "answers": ["思索","想念","思考"], "difficulty": "hard" },
+        { "question": "持続的に与えられる恩", "answers": ["恩恵","恩徳","恩義"], "difficulty": "hard" },
+        { "question": "歴史的価値を持つ達成", "answers": ["偉業","業績","成果"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "か",
+      "order": 6,
+      "questions": [
+        { "question": "物事を判断する力", "answers": ["判断力","感覚","勘"], "difficulty": "easy" },
+        { "question": "心や体の働き", "answers": ["活力","活性","活動"], "difficulty": "easy" },
+        { "question": "考えを形にする力", "answers": ["構想","計画","考案"], "difficulty": "easy" },
+        { "question": "困難に立ち向かう強さ", "answers": ["覚悟","敢闘","堅忍"], "difficulty": "easy" },
+        { "question": "物事を進めるための仕組み", "answers": ["過程","構造","過程力"], "difficulty": "easy" },
+
+        { "question": "状況を見極める能力", "answers": ["判断力","感覚","勘"], "difficulty": "medium" },
+        { "question": "継続的に働くエネルギー", "answers": ["活力","活性","活動"], "difficulty": "medium" },
+        { "question": "将来を見据えた考え", "answers": ["構想","計画","構図"], "difficulty": "medium" },
+        { "question": "困難を受け入れる決意", "answers": ["覚悟","堅忍","敢闘"], "difficulty": "medium" },
+        { "question": "成果に至る流れ", "answers": ["過程","過程論","過程性"], "difficulty": "medium" },
+
+        { "question": "複雑な状況での判断能力", "answers": ["判断力","洞察","勘"], "difficulty": "hard" },
+        { "question": "組織や個人を動かす原動力", "answers": ["活力","活性","活動"], "difficulty": "hard" },
+        { "question": "戦略的な将来設計", "answers": ["構想","計画","構図"], "difficulty": "hard" },
+        { "question": "長期的困難を受け止める心構え", "answers": ["覚悟","堅忍","忍耐"], "difficulty": "hard" },
+        { "question": "体系化された進行の仕組み", "answers": ["過程","構造","過程論"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "き",
+      "order": 7,
+      "questions": [
+        { "question": "困難に直面しても折れない心の強さ", "answers": ["気力","気概","気丈"], "difficulty": "easy" },
+        { "question": "物事を成し遂げようとする内面的な力", "answers": ["気力","気迫","気勢"], "difficulty": "easy" },
+        { "question": "落ち着いて安定した精神状態", "answers": ["気静","気穏","気安"], "difficulty": "easy" },
+        { "question": "物事の重要な要点", "answers": ["肝心","急所","核心"], "difficulty": "easy" },
+        { "question": "人に対する思いやりのある心", "answers": ["気遣","気配","気心"], "difficulty": "easy" },
+        { "question": "物事を判断するための感覚", "answers": ["勘","感覚","機知"], "difficulty": "easy" },
+        { "question": "その場の雰囲気や様子", "answers": ["気配","気色","気分"], "difficulty": "easy" },
+        { "question": "意欲が高まっている状態", "answers": ["気勢","気迫","気炎"], "difficulty": "easy" },
+        { "question": "安心して心が休まる状態", "answers": ["気安","気楽","気静"], "difficulty": "easy" },
+        { "question": "人との相性や心の通い", "answers": ["気心","気配","気分"], "difficulty": "easy" },
+
+        { "question": "継続的に行動を支える精神的エネルギー", "answers": ["気力","気概","気迫"], "difficulty": "medium" },
+        { "question": "周囲の状況を敏感に察する能力", "answers": ["機知","勘","感覚"], "difficulty": "medium" },
+        { "question": "集団や場に影響する精神的な流れ", "answers": ["気勢","気運","気流"], "difficulty": "medium" },
+        { "question": "人間関係における微妙な感情の動き", "answers": ["気配","気心","気分"], "difficulty": "medium" },
+        { "question": "重要な判断を左右する核心部分", "answers": ["肝心","核心","急所"], "difficulty": "medium" },
+        { "question": "内面の状態が表に現れた様子", "answers": ["気色","気分","気配"], "difficulty": "medium" },
+        { "question": "自信と意欲に満ちた精神状態", "answers": ["気概","気迫","気炎"], "difficulty": "medium" },
+        { "question": "無理なく自然体でいられる状態", "answers": ["気楽","気安","気静"], "difficulty": "medium" },
+        { "question": "場の雰囲気を左右する要素", "answers": ["気運","気流","気配"], "difficulty": "medium" },
+        { "question": "経験から培われた判断力", "answers": ["勘","機知","感覚"], "difficulty": "medium" },
+
+        { "question": "長期的な挑戦を支える精神的基盤", "answers": ["気力","気概","気丈"], "difficulty": "hard" },
+        { "question": "集団全体の行動を左右する精神的動向", "answers": ["気運","気流","気勢"], "difficulty": "hard" },
+        { "question": "本質的判断を可能にする中核要素", "answers": ["核心","肝心","急所"], "difficulty": "hard" },
+        { "question": "高度な状況認識に基づく即時判断力", "answers": ["機知","勘","感覚"], "difficulty": "hard" },
+        { "question": "人間関係の深層にある感情的結びつき", "answers": ["気心","気配","気分"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "く",
+      "order": 8,
+      "questions": [
+        { "question": "物事を理解し判断するための力", "answers": ["工夫","工知","工智"], "difficulty": "easy" },
+        { "question": "考えを組み立てて実行すること", "answers": ["工夫","工策","工法"], "difficulty": "easy" },
+        { "question": "努力によって磨かれた技", "answers": ["工芸","工技","工巧"], "difficulty": "easy" },
+        { "question": "状況に応じたやり方", "answers": ["工夫","工法","工策"], "difficulty": "easy" },
+        { "question": "手を加えて良くすること", "answers": ["工夫","改良","工整"], "difficulty": "easy" },
+        { "question": "目的達成のための方法", "answers": ["工策","工法","工夫"], "difficulty": "easy" },
+        { "question": "技術的な作業や技能", "answers": ["工技","工芸","工巧"], "difficulty": "easy" },
+        { "question": "考え抜かれた仕組み", "answers": ["工夫","構工","工策"], "difficulty": "easy" },
+        { "question": "物事をうまく進める知恵", "answers": ["工智","工知","工夫"], "difficulty": "easy" },
+        { "question": "作業を円滑に進める方法", "answers": ["工法","工策","工夫"], "difficulty": "easy" },
+
+        { "question": "限られた条件で成果を出す発想", "answers": ["工夫","工策","工知"], "difficulty": "medium" },
+        { "question": "経験から生まれる実践的な知恵", "answers": ["工智","工知","工夫"], "difficulty": "medium" },
+        { "question": "技術と美を備えた表現", "answers": ["工芸","工巧","工技"], "difficulty": "medium" },
+        { "question": "課題解決のための手段設計", "answers": ["工法","工策","工夫"], "difficulty": "medium" },
+        { "question": "作業工程を支える技術", "answers": ["工技","工法","工芸"], "difficulty": "medium" },
+        { "question": "目的に合わせた改善行為", "answers": ["工夫","改良","工策"], "difficulty": "medium" },
+        { "question": "成果を高めるための調整", "answers": ["工整","工夫","工策"], "difficulty": "medium" },
+        { "question": "複数要素を組み合わせる知恵", "answers": ["工知","工智","工夫"], "difficulty": "medium" },
+        { "question": "現実的制約を考慮した方法論", "answers": ["工法","工策","工知"], "difficulty": "medium" },
+        { "question": "技能に裏付けられた工夫", "answers": ["工巧","工技","工芸"], "difficulty": "medium" },
+
+        { "question": "制約下で最適解を導く思考", "answers": ["工智","工知","工策"], "difficulty": "hard" },
+        { "question": "高度な技能と創意の結合", "answers": ["工芸","工巧","工技"], "difficulty": "hard" },
+        { "question": "体系化された問題解決手法", "answers": ["工法","工策","工知"], "difficulty": "hard" },
+        { "question": "継続的改善を生む発想基盤", "answers": ["工夫","工智","工知"], "difficulty": "hard" },
+        { "question": "成果最大化を目的とした設計思想", "answers": ["工策","工法","工智"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "け",
+      "order": 9,
+      "questions": [
+        { "question": "物事を実際に体験して得られる知識や理解", "answers": ["けいけん","けんしき","けいれき"], "difficulty": "easy" },
+        { "question": "物事をやり抜こうとする強い意志", "answers": ["けつい","けんい","けいはく"], "difficulty": "easy" },
+        { "question": "心や体が健やかな状態", "answers": ["けんこう","けんぜん","けつじつ"], "difficulty": "easy" },
+        { "question": "人や物事を見抜く力", "answers": ["けんしき","けんかく","けんりょく"], "difficulty": "easy" },
+        { "question": "物事を判断するための考え方", "answers": ["けんとう","けんあん","けんめい"], "difficulty": "easy" },
+
+        { "question": "長い時間を通じて積み重ねられた体験", "answers": ["けいけん","けいれき","けんしょう"], "difficulty": "medium" },
+        { "question": "困難な状況でも揺るがない意思", "answers": ["けつい","けんじ","けんめい"], "difficulty": "medium" },
+        { "question": "心身の調和が取れた健全な状態", "answers": ["けんこう","けんぜん","けんちょう"], "difficulty": "medium" },
+        { "question": "本質を見極めるための観点", "answers": ["けんしき","けんとう","けんかい"], "difficulty": "medium" },
+        { "question": "問題を多角的に考える過程", "answers": ["けんとう","けんあん","けんきゅう"], "difficulty": "medium" },
+
+        { "question": "専門性に裏打ちされた深い経験", "answers": ["けいけん","けんしょう","けんち"], "difficulty": "hard" },
+        { "question": "長期的視点で貫かれる意思決定", "answers": ["けつい","けんい","けんじ"], "difficulty": "hard" },
+        { "question": "社会生活を支える健全な基盤", "answers": ["けんこう","けんぜん","けんちょう"], "difficulty": "hard" },
+        { "question": "複雑な事象を見抜く判断基準", "answers": ["けんしき","けんかく","けんりょく"], "difficulty": "hard" },
+        { "question": "最適解を導くための熟慮", "answers": ["けんとう","けんあん","けんきゅう"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "け",
+      "order": 9,
+      "questions": [
+        { "question": "物事を実際に体験して得られる知識や理解", "answers": ["けいけん","けんしき","けいれき"], "difficulty": "easy" },
+        { "question": "物事をやり抜こうとする強い意志", "answers": ["けつい","けんい","けいはく"], "difficulty": "easy" },
+        { "question": "心や体が健やかな状態", "answers": ["けんこう","けんぜん","けつじつ"], "difficulty": "easy" },
+        { "question": "人や物事を見抜く力", "answers": ["けんしき","けんかく","けんりょく"], "difficulty": "easy" },
+        { "question": "物事を判断するための考え方", "answers": ["けんとう","けんあん","けんめい"], "difficulty": "easy" },
+
+        { "question": "長い時間を通じて積み重ねられた体験", "answers": ["けいけん","けいれき","けんしょう"], "difficulty": "medium" },
+        { "question": "困難な状況でも揺るがない意思", "answers": ["けつい","けんじ","けんめい"], "difficulty": "medium" },
+        { "question": "心身の調和が取れた健全な状態", "answers": ["けんこう","けんぜん","けんちょう"], "difficulty": "medium" },
+        { "question": "本質を見極めるための観点", "answers": ["けんしき","けんとう","けんかい"], "difficulty": "medium" },
+        { "question": "問題を多角的に考える過程", "answers": ["けんとう","けんあん","けんきゅう"], "difficulty": "medium" },
+
+        { "question": "専門性に裏打ちされた深い経験", "answers": ["けいけん","けんしょう","けんち"], "difficulty": "hard" },
+        { "question": "長期的視点で貫かれる意思決定", "answers": ["けつい","けんい","けんじ"], "difficulty": "hard" },
+        { "question": "社会生活を支える健全な基盤", "answers": ["けんこう","けんぜん","けんちょう"], "difficulty": "hard" },
+        { "question": "複雑な事象を見抜く判断基準", "answers": ["けんしき","けんかく","けんりょく"], "difficulty": "hard" },
+        { "question": "最適解を導くための熟慮", "answers": ["けんとう","けんあん","けんきゅう"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "こ",
+      "order": 10,
+      "questions": [
+        { "question": "心が落ち着き穏やかな状態", "answers": ["こうせい","こうあん","こうわ"], "difficulty": "easy" },
+        { "question": "物事を計画的に進める考え", "answers": ["こうそう","こうあん","こうりゃく"], "difficulty": "easy" },
+        { "question": "社会や組織の仕組み", "answers": ["こうぞう","こうせい","こうかく"], "difficulty": "easy" },
+        { "question": "行動を起こすための動機", "answers": ["こうい","こうどう","こうき"], "difficulty": "easy" },
+        { "question": "安定して整った状態", "answers": ["こうせい","こうち","こうわ"], "difficulty": "easy" },
+        { "question": "計画を形にするための道筋", "answers": ["こうてい","こうそう","こうじゅん"], "difficulty": "easy" },
+        { "question": "人や物の配置のしかた", "answers": ["こうせい","こうぞう","こうれつ"], "difficulty": "easy" },
+        { "question": "社会の中での役割", "answers": ["こうい","こうぶん","こうせき"], "difficulty": "easy" },
+        { "question": "秩序だったまとまり", "answers": ["こうせい","こうち","こうれつ"], "difficulty": "easy" },
+        { "question": "目標に向かう進み方", "answers": ["こうどう","こうてい","こうろ"], "difficulty": "easy" },
+
+        { "question": "長期的に安定した統治の状態", "answers": ["こうせい","こうち","こうわ"], "difficulty": "medium" },
+        { "question": "戦略的に組み立てられた計画", "answers": ["こうそう","こうりゃく","こうあん"], "difficulty": "medium" },
+        { "question": "全体を支える枠組み", "answers": ["こうぞう","こうかく","こうせい"], "difficulty": "medium" },
+        { "question": "目的に沿った一連の行動", "answers": ["こうどう","こうてい","こうろ"], "difficulty": "medium" },
+        { "question": "社会的地位や立場", "answers": ["こうぶん","こうい","こうせき"], "difficulty": "medium" },
+        { "question": "計画が進む過程", "answers": ["こうてい","こうじゅん","こうどう"], "difficulty": "medium" },
+        { "question": "安定を保つための仕組み", "answers": ["こうち","こうせい","こうわ"], "difficulty": "medium" },
+        { "question": "全体を統合する配置", "answers": ["こうれつ","こうぞう","こうせい"], "difficulty": "medium" },
+        { "question": "目的達成に向けた筋道", "answers": ["こうろ","こうどう","こうてい"], "difficulty": "medium" },
+        { "question": "秩序を維持する役割", "answers": ["こうせき","こうぶん","こうい"], "difficulty": "medium" },
+
+        { "question": "国家や組織を支える安定原理", "answers": ["こうせい","こうち","こうわ"], "difficulty": "hard" },
+        { "question": "複雑な状況に対応する戦略設計", "answers": ["こうそう","こうりゃく","こうあん"], "difficulty": "hard" },
+        { "question": "全体最適を生む構造設計", "answers": ["こうぞう","こうかく","こうせい"], "difficulty": "hard" },
+        { "question": "計画から実行までの統合的過程", "answers": ["こうてい","こうどう","こうじゅん"], "difficulty": "hard" },
+        { "question": "社会秩序を支える制度的役割", "answers": ["こうぶん","こうせき","こうい"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "さ",
+      "order": 11,
+      "questions": [
+        { "question": "落ち着いて静かな状態", "answers": ["さち","さや","さび"], "difficulty": "easy" },
+        { "question": "物事を進めるための計画", "answers": ["さく","さくりゃく","さくせん"], "difficulty": "easy" },
+        { "question": "人に対する思いやり", "answers": ["さとし","さじん","さごろ"], "difficulty": "easy" },
+        { "question": "出来事の原因や理由", "answers": ["さだめ","さゆう","さこん"], "difficulty": "easy" },
+        { "question": "順序立てて進めること", "answers": ["さだめ","さくじゅん","さくてい"], "difficulty": "easy" },
+        { "question": "心が満たされた幸福", "answers": ["さち","さわ","さや"], "difficulty": "easy" },
+        { "question": "目的のための方法", "answers": ["さく","さくせん","さくりゃく"], "difficulty": "easy" },
+        { "question": "物事を決める行為", "answers": ["さだめ","さくてい","さだん"], "difficulty": "easy" },
+        { "question": "静かで控えめな美しさ", "answers": ["さび","さや","さち"], "difficulty": "easy" },
+        { "question": "状況を左右する要因", "answers": ["さゆう","さこん","さだめ"], "difficulty": "easy" },
+
+        { "question": "長期的に考えられた計画", "answers": ["さくりゃく","さくせん","さく"], "difficulty": "medium" },
+        { "question": "内面の静けさと安定", "answers": ["さび","さや","さち"], "difficulty": "medium" },
+        { "question": "判断に影響する条件", "answers": ["さゆう","さこん","さだめ"], "difficulty": "medium" },
+        { "question": "計画を実行に移す工程", "answers": ["さくてい","さくじゅん","さだめ"], "difficulty": "medium" },
+        { "question": "相手を思いやる心", "answers": ["さじん","さとし","さごろ"], "difficulty": "medium" },
+        { "question": "幸福がもたらす満足感", "answers": ["さち","さわ","さや"], "difficulty": "medium" },
+        { "question": "目的達成のための筋道", "answers": ["さくせん","さくりゃく","さく"], "difficulty": "medium" },
+        { "question": "決定がもたらす影響", "answers": ["さだめ","さだん","さくてい"], "difficulty": "medium" },
+        { "question": "静寂の中の美的価値", "answers": ["さび","さや","さち"], "difficulty": "medium" },
+        { "question": "条件による結果の違い", "answers": ["さゆう","さこん","さだめ"], "difficulty": "medium" },
+
+        { "question": "組織全体を導く戦略的構想", "answers": ["さくりゃく","さくせん","さく"], "difficulty": "hard" },
+        { "question": "精神的成熟が生む静けさ", "answers": ["さび","さや","さち"], "difficulty": "hard" },
+        { "question": "意思決定に影響する本質要因", "answers": ["さゆう","さこん","さだめ"], "difficulty": "hard" },
+        { "question": "計画立案から決定までの体系", "answers": ["さくてい","さくじゅん","さだめ"], "difficulty": "hard" },
+        { "question": "幸福を支える内面的価値", "answers": ["さち","さわ","さや"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "し",
+      "order": 12,
+      "questions": [
+        { "question": "心が穏やかで静かな状態", "answers": ["しずけさ","しんあん","しんせい"], "difficulty": "easy" },
+        { "question": "物事を理解し判断する力", "answers": ["しこう","しき","しんだん"], "difficulty": "easy" },
+        { "question": "人との関係を築く行為", "answers": ["しんこう","しんらい","しんせき"], "difficulty": "easy" },
+        { "question": "物事を進める方法", "answers": ["しゅだん","しほう","しき"], "difficulty": "easy" },
+        { "question": "安定して落ち着いた様子", "answers": ["しんせい","しずけさ","しんあん"], "difficulty": "easy" },
+        { "question": "考えを巡らせる行為", "answers": ["しこう","しさく","しんこう"], "difficulty": "easy" },
+        { "question": "人を信じる気持ち", "answers": ["しんらい","しんこう","しんせい"], "difficulty": "easy" },
+        { "question": "行動を選ぶ基準", "answers": ["しき","しんだん","しほう"], "difficulty": "easy" },
+        { "question": "心が清らかな状態", "answers": ["しんせい","しんあん","しずけさ"], "difficulty": "easy" },
+        { "question": "物事を決める行為", "answers": ["しんだん","しき","しほう"], "difficulty": "easy" },
+
+        { "question": "継続的に思考を深める過程", "answers": ["しこう","しさく","しんこう"], "difficulty": "medium" },
+        { "question": "他者との安定した信頼関係", "answers": ["しんらい","しんこう","しんせき"], "difficulty": "medium" },
+        { "question": "冷静で落ち着いた精神状態", "answers": ["しずけさ","しんあん","しんせい"], "difficulty": "medium" },
+        { "question": "判断に用いられる基準", "answers": ["しき","しんだん","しほう"], "difficulty": "medium" },
+        { "question": "目的達成のための方法選択", "answers": ["しゅだん","しほう","しき"], "difficulty": "medium" },
+        { "question": "思考を整理する行為", "answers": ["しさく","しこう","しんこう"], "difficulty": "medium" },
+        { "question": "人との結びつきを強める信念", "answers": ["しんらい","しんこう","しんせき"], "difficulty": "medium" },
+        { "question": "清らかさが保たれた心境", "answers": ["しんせい","しんあん","しずけさ"], "difficulty": "medium" },
+        { "question": "意思決定を支える判断力", "answers": ["しんだん","しき","しほう"], "difficulty": "medium" },
+        { "question": "状況に応じた方法の選定", "answers": ["しゅだん","しほう","しき"], "difficulty": "medium" },
+
+        { "question": "複雑な問題に対する深い思考", "answers": ["しこう","しさく","しんこう"], "difficulty": "hard" },
+        { "question": "社会的関係を支える信頼基盤", "answers": ["しんらい","しんこう","しんせき"], "difficulty": "hard" },
+        { "question": "長期的に維持される精神的静穏", "answers": ["しんあん","しんせい","しずけさ"], "difficulty": "hard" },
+        { "question": "高度な判断を可能にする基準", "answers": ["しき","しんだん","しほう"], "difficulty": "hard" },
+        { "question": "目的最適化のための方法論", "answers": ["しゅだん","しほう","しき"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "す",
+      "order": 13,
+      "questions": [
+        { "question": "落ち着いて澄んだ心の状態", "answers": ["すがすがしさ","すなお","すっきり"], "difficulty": "easy" },
+        { "question": "物事が円滑に進むこと", "answers": ["すいちょく","すいこう","すいじゅん"], "difficulty": "easy" },
+        { "question": "はっきりと理解できること", "answers": ["すいり","すいち","すいかい"], "difficulty": "easy" },
+        { "question": "無理がなく自然な様子", "answers": ["すなお","すっきり","すっぽり"], "difficulty": "easy" },
+        { "question": "物事の進み具合", "answers": ["すすみ","すいこう","すいじょう"], "difficulty": "easy" },
+        { "question": "混乱がなく整理された状態", "answers": ["すっきり","すいり","すいせい"], "difficulty": "easy" },
+        { "question": "妨げがなく通ること", "answers": ["すいこう","すいちょく","すいどう"], "difficulty": "easy" },
+        { "question": "理解が早いこと", "answers": ["すいり","すいち","すいかい"], "difficulty": "easy" },
+        { "question": "気持ちが晴れること", "answers": ["すがすがしさ","すっきり","すなお"], "difficulty": "easy" },
+        { "question": "物事が正しく進行すること", "answers": ["すいこう","すすみ","すいじょう"], "difficulty": "easy" },
+
+        { "question": "論理的に理解する過程", "answers": ["すいり","すいろん","すいかい"], "difficulty": "medium" },
+        { "question": "停滞なく進む仕組み", "answers": ["すいこう","すいどう","すいじょう"], "difficulty": "medium" },
+        { "question": "心の透明さが保たれた状態", "answers": ["すなお","すがすがしさ","すいせい"], "difficulty": "medium" },
+        { "question": "整理され無駄のない状態", "answers": ["すっきり","すいり","すいせい"], "difficulty": "medium" },
+        { "question": "物事の進行度合い", "answers": ["すすみ","すいこう","すいじょう"], "difficulty": "medium" },
+        { "question": "理解が深まり納得すること", "answers": ["すいかい","すいり","すいろん"], "difficulty": "medium" },
+        { "question": "障害なく通過できる状態", "answers": ["すいこう","すいどう","すいちょく"], "difficulty": "medium" },
+        { "question": "心身が軽快な状態", "answers": ["すっきり","すがすがしさ","すなお"], "difficulty": "medium" },
+        { "question": "計画が順調に運ぶこと", "answers": ["すいこう","すすみ","すいじょう"], "difficulty": "medium" },
+        { "question": "論理が明確になること", "answers": ["すいり","すいろん","すいかい"], "difficulty": "medium" },
+
+        { "question": "高度な論理展開による理解", "answers": ["すいろん","すいり","すいかい"], "difficulty": "hard" },
+        { "question": "複雑な事柄が滞りなく進む構造", "answers": ["すいこう","すいじょう","すいどう"], "difficulty": "hard" },
+        { "question": "内面の透明性が長期的に保たれる状態", "answers": ["すなお","すいせい","すがすがしさ"], "difficulty": "hard" },
+        { "question": "全体が整然と最適化された状態", "answers": ["すいせい","すっきり","すいり"], "difficulty": "hard" },
+        { "question": "思考と理解が完全に一致する段階", "answers": ["すいかい","すいろん","すいり"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "せ",
+      "order": 14,
+      "questions": [
+        { "question": "心が静かで落ち着いている状態", "answers": ["せいじゃく","せいあん","せいおん"], "difficulty": "easy" },
+        { "question": "整って正しい様子", "answers": ["せいとう","せいせい","せいじゅん"], "difficulty": "easy" },
+        { "question": "人との関係が円満であること", "answers": ["せいわ","せいこう","せいえん"], "difficulty": "easy" },
+        { "question": "澄んでいて濁りがないこと", "answers": ["せいじゅん","せいせい","せいめい"], "difficulty": "easy" },
+        { "question": "秩序が保たれた状態", "answers": ["せいり","せいとん","せいび"], "difficulty": "easy" },
+        { "question": "落ち着いた音のない状態", "answers": ["せいおん","せいじゃく","せいあん"], "difficulty": "easy" },
+        { "question": "正しく整えられていること", "answers": ["せいび","せいり","せいとん"], "difficulty": "easy" },
+        { "question": "人間関係が穏やかなこと", "answers": ["せいわ","せいえん","せいこう"], "difficulty": "easy" },
+        { "question": "清らかで正しい性質", "answers": ["せいじゅん","せいせい","せいとう"], "difficulty": "easy" },
+        { "question": "物事が整理されていること", "answers": ["せいり","せいとん","せいび"], "difficulty": "easy" },
+
+        { "question": "精神的に安定した静けさ", "answers": ["せいじゃく","せいあん","せいおん"], "difficulty": "medium" },
+        { "question": "正確で誤りのない状態", "answers": ["せいとう","せいせい","せいじゅん"], "difficulty": "medium" },
+        { "question": "秩序立ててまとめる行為", "answers": ["せいり","せいとん","せいび"], "difficulty": "medium" },
+        { "question": "人間関係における調和", "answers": ["せいわ","せいえん","せいこう"], "difficulty": "medium" },
+        { "question": "精神や状態が澄み切ること", "answers": ["せいせい","せいじゅん","せいめい"], "difficulty": "medium" },
+        { "question": "静かな環境が保たれること", "answers": ["せいおん","せいじゃく","せいあん"], "difficulty": "medium" },
+        { "question": "正しい状態に整えること", "answers": ["せいび","せいり","せいとん"], "difficulty": "medium" },
+        { "question": "円滑で穏やかな関係性", "answers": ["せいわ","せいえん","せいこう"], "difficulty": "medium" },
+        { "question": "純粋さが際立つ性質", "answers": ["せいじゅん","せいせい","せいとう"], "difficulty": "medium" },
+        { "question": "全体が秩序立っている状態", "answers": ["せいり","せいとん","せいび"], "difficulty": "medium" },
+
+        { "question": "長期的に維持される精神的静寂", "answers": ["せいじゃく","せいあん","せいおん"], "difficulty": "hard" },
+        { "question": "制度や構造が正しく整った状態", "answers": ["せいとう","せいび","せいせい"], "difficulty": "hard" },
+        { "question": "高度な秩序性を伴う整理状態", "answers": ["せいり","せいとん","せいび"], "difficulty": "hard" },
+        { "question": "社会的関係における持続的調和", "answers": ["せいわ","せいえん","せいこう"], "difficulty": "hard" },
+        { "question": "本質的な純粋性が保たれた状態", "answers": ["せいじゅん","せいせい","せいめい"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "そ",
+      "order": 15,
+      "questions": [
+        { "question": "全体をまとめる中心的な考え", "answers": ["そうし","そうい","そうこう"], "difficulty": "easy" },
+        { "question": "物事が一体となること", "answers": ["そうごう","そういつ","そうけつ"], "difficulty": "easy" },
+        { "question": "計画や構想の骨組み", "answers": ["そうあん","そうそう","そうけい"], "difficulty": "easy" },
+        { "question": "全体を見渡す考え方", "answers": ["そうかん","そうろん","そうい"], "difficulty": "easy" },
+        { "question": "要素を集めて一つにすること", "answers": ["そうごう","そうしゅう","そうけつ"], "difficulty": "easy" },
+        { "question": "物事を進めるための考え", "answers": ["そうあん","そうこう","そうそう"], "difficulty": "easy" },
+        { "question": "全体像を把握すること", "answers": ["そうかん","そうろん","そうい"], "difficulty": "easy" },
+        { "question": "複数の要素を結びつけること", "answers": ["そうごう","そうけつ","そういつ"], "difficulty": "easy" },
+        { "question": "計画の出発点となる考え", "answers": ["そうあん","そうそう","そうけい"], "difficulty": "easy" },
+        { "question": "全体を統一する考え", "answers": ["そうし","そうい","そうこう"], "difficulty": "easy" },
+
+        { "question": "多様な要素を統合する行為", "answers": ["そうごう","そうしゅう","そうけつ"], "difficulty": "medium" },
+        { "question": "全体的な視点からの判断", "answers": ["そうかん","そうろん","そうい"], "difficulty": "medium" },
+        { "question": "構想を体系化する段階", "answers": ["そうあん","そうけい","そうそう"], "difficulty": "medium" },
+        { "question": "中心思想としての考え", "answers": ["そうし","そうこう","そうい"], "difficulty": "medium" },
+        { "question": "全体像を踏まえた計画", "answers": ["そうそう","そうあん","そうけい"], "difficulty": "medium" },
+        { "question": "複数要素の結合による成果", "answers": ["そうごう","そうけつ","そういつ"], "difficulty": "medium" },
+        { "question": "広い視野に立った見解", "answers": ["そうろん","そうかん","そうい"], "difficulty": "medium" },
+        { "question": "計画の基盤となる構想", "answers": ["そうあん","そうけい","そうそう"], "difficulty": "medium" },
+        { "question": "全体をまとめ上げる働き", "answers": ["そうし","そうこう","そうごう"], "difficulty": "medium" },
+        { "question": "要素を集約して形にすること", "answers": ["そうしゅう","そうけつ","そうごう"], "difficulty": "medium" },
+
+        { "question": "複雑な要素を体系的に統合する能力", "answers": ["そうごう","そうけつ","そうしゅう"], "difficulty": "hard" },
+        { "question": "戦略的意思決定を導く全体観", "answers": ["そうかん","そうろん","そうい"], "difficulty": "hard" },
+        { "question": "高度に整理された構想設計", "answers": ["そうけい","そうあん","そうそう"], "difficulty": "hard" },
+        { "question": "組織や思想を束ねる中核概念", "answers": ["そうし","そうこう","そうい"], "difficulty": "hard" },
+        { "question": "全体最適を生む統合的枠組み", "answers": ["そうごう","そうけつ","そういつ"], "difficulty": "hard" }
+      ]
+    },
+     {
+      "letter": "た",
+      "order": 16,
+      "questions": [
+        { "question": "目的に向かって行動するための考え", "answers": ["たくらみ","たて","たくら"], "difficulty": "easy" },
+        { "question": "物事を進めるための方法", "answers": ["たちまわり","たてかた","たぐい"], "difficulty": "easy" },
+        { "question": "精神的に落ち着いた状態", "answers": ["たいら","たおやか","たんせい"], "difficulty": "easy" },
+        { "question": "積み重ねて得られる成果", "answers": ["たくわえ","たし","たね"], "difficulty": "easy" },
+        { "question": "ある物事の方向性", "answers": ["たて","たぐい","たち"], "difficulty": "easy" },
+
+        { "question": "長期的に考えられた進め方", "answers": ["たくらみ","たて","たちまわり"], "difficulty": "medium" },
+        { "question": "安定して整った様子", "answers": ["たいら","たんせい","たおやか"], "difficulty": "medium" },
+        { "question": "結果につながる準備要素", "answers": ["たね","たくわえ","たし"], "difficulty": "medium" },
+        { "question": "行動全体の型や方向", "answers": ["たて","たち","たぐい"], "difficulty": "medium" },
+        { "question": "工夫された行動様式", "answers": ["たちまわり","たくらみ","たてかた"], "difficulty": "medium" },
+
+        { "question": "全体を見据えた計画的思考", "answers": ["たくらみ","たて","たちまわり"], "difficulty": "hard" },
+        { "question": "精神と行動の均衡状態", "answers": ["たいら","たんせい","たおやか"], "difficulty": "hard" },
+        { "question": "成果を生む基盤的要素", "answers": ["たね","たくわえ","たし"], "difficulty": "hard" },
+        { "question": "構造的に整理された方向性", "answers": ["たて","たち","たぐい"], "difficulty": "hard" },
+        { "question": "状況対応力を含む行動設計", "answers": ["たちまわり","たてかた","たくらみ"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ち",
+      "order": 17,
+      "questions": [
+        { "question": "知識や経験による理解力", "answers": ["ちえ","ちしき","ちから"], "difficulty": "easy" },
+        { "question": "人の内面的な力", "answers": ["ちから","ちりょく","ちせい"], "difficulty": "easy" },
+        { "question": "考えを働かせる能力", "answers": ["ちえ","ちりょく","ちしき"], "difficulty": "easy" },
+        { "question": "感情を抑える心の働き", "answers": ["ちせい","ちから","ちりょく"], "difficulty": "easy" },
+        { "question": "積み上げられた知の量", "answers": ["ちしき","ちえ","ちりょく"], "difficulty": "easy" },
+
+        { "question": "経験に基づく判断能力", "answers": ["ちえ","ちりょく","ちしき"], "difficulty": "medium" },
+        { "question": "精神的に物事を支える力", "answers": ["ちから","ちせい","ちりょく"], "difficulty": "medium" },
+        { "question": "理性的に考える働き", "answers": ["ちせい","ちえ","ちりょく"], "difficulty": "medium" },
+        { "question": "体系化された知の蓄積", "answers": ["ちしき","ちえ","ちりょく"], "difficulty": "medium" },
+        { "question": "行動を導く内面的資源", "answers": ["ちから","ちえ","ちせい"], "difficulty": "medium" },
+
+        { "question": "複雑な状況を見極める知的能力", "answers": ["ちえ","ちりょく","ちせい"], "difficulty": "hard" },
+        { "question": "精神と理性を統合する力", "answers": ["ちせい","ちから","ちりょく"], "difficulty": "hard" },
+        { "question": "高度に体系化された理解力", "answers": ["ちしき","ちえ","ちりょく"], "difficulty": "hard" },
+        { "question": "判断と行動を支える基盤", "answers": ["ちから","ちえ","ちせい"], "difficulty": "hard" },
+        { "question": "長期的思考を可能にする知的資源", "answers": ["ちりょく","ちしき","ちえ"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "つ",
+      "order": 18,
+      "questions": [
+        { "question": "物事が続いていく様子", "answers": ["つづき","つながり","つらなり"], "difficulty": "easy" },
+        { "question": "人や物の結びつき", "answers": ["つながり","つながり","つきあい"], "difficulty": "easy" },
+        { "question": "一連の流れ", "answers": ["つらなり","つづき","つながり"], "difficulty": "easy" },
+        { "question": "人との関係性", "answers": ["つきあい","つながり","つながり"], "difficulty": "easy" },
+        { "question": "時間的な継続", "answers": ["つづき","つらなり","つながり"], "difficulty": "easy" },
+
+        { "question": "要素同士が結びつく構造", "answers": ["つながり","つらなり","つづき"], "difficulty": "medium" },
+        { "question": "関係が維持される状態", "answers": ["つきあい","つながり","つづき"], "difficulty": "medium" },
+        { "question": "途切れない進行", "answers": ["つづき","つらなり","つながり"], "difficulty": "medium" },
+        { "question": "相互に影響し合う関係", "answers": ["つながり","つきあい","つらなり"], "difficulty": "medium" },
+        { "question": "流れとしての一体性", "answers": ["つらなり","つづき","つながり"], "difficulty": "medium" },
+
+        { "question": "体系的に連結された全体構造", "answers": ["つながり","つらなり","つづき"], "difficulty": "hard" },
+        { "question": "長期的に維持される関係性", "answers": ["つきあい","つながり","つづき"], "difficulty": "hard" },
+        { "question": "切れ目のない進行概念", "answers": ["つづき","つらなり","つながり"], "difficulty": "hard" },
+        { "question": "相互依存的な連関", "answers": ["つながり","つらなり","つきあい"], "difficulty": "hard" },
+        { "question": "全体を貫く連続性", "answers": ["つらなり","つづき","つながり"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "て",
+      "order": 19,
+      "questions": [
+        { "question": "物事を行うための方法", "answers": ["てだて","てくび","てじゅん"], "difficulty": "easy" },
+        { "question": "実行するための段取り", "answers": ["てじゅん","てだて","てほどき"], "difficulty": "easy" },
+        { "question": "人が行う働き", "answers": ["て","てわざ","てぎわ"], "difficulty": "easy" },
+        { "question": "作業のうまさ", "answers": ["てぎわ","てわざ","てならい"], "difficulty": "easy" },
+        { "question": "問題解決の方法", "answers": ["てだて","てじゅん","てほどき"], "difficulty": "easy" },
+
+        { "question": "計画的に組まれた実行手順", "answers": ["てじゅん","てだて","てほどき"], "difficulty": "medium" },
+        { "question": "熟練による作業能力", "answers": ["てぎわ","てわざ","てならい"], "difficulty": "medium" },
+        { "question": "目的達成のための工夫", "answers": ["てだて","てほどき","てじゅん"], "difficulty": "medium" },
+        { "question": "行為を支える技術", "answers": ["てわざ","てぎわ","てならい"], "difficulty": "medium" },
+        { "question": "効率的な進め方", "answers": ["てぎわ","てじゅん","てだて"], "difficulty": "medium" },
+
+        { "question": "体系化された実行方法論", "answers": ["てじゅん","てだて","てほどき"], "difficulty": "hard" },
+        { "question": "高度な熟練技能", "answers": ["てわざ","てぎわ","てならい"], "difficulty": "hard" },
+        { "question": "複雑な問題への対処法", "answers": ["てだて","てほどき","てじゅん"], "difficulty": "hard" },
+        { "question": "行為全体を支える技術基盤", "answers": ["てわざ","てぎわ","てならい"], "difficulty": "hard" },
+        { "question": "最適化された作業手法", "answers": ["てぎわ","てじゅん","てだて"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "な",
+      "order": 20,
+      "questions": [
+        { "question": "物事の本質や中身", "answers": ["ないよう","なかみ","なり"], "difficulty": "easy" },
+        { "question": "出来事が起こる理由", "answers": ["なぞ","なりゆき","なにゆえ"], "difficulty": "easy" },
+        { "question": "自然で無理のない様子", "answers": ["なだらか","なごやか","なめらか"], "difficulty": "easy" },
+        { "question": "物事の流れや成り行き", "answers": ["なりゆき","ながれ","なり"], "difficulty": "easy" },
+        { "question": "穏やかで争いのない状態", "answers": ["なごやか","なだらか","なごみ"], "difficulty": "easy" },
+
+        { "question": "事柄の中心的な意味", "answers": ["ないよう","なかみ","なり"], "difficulty": "medium" },
+        { "question": "予測しにくい展開", "answers": ["なりゆき","なぞ","ながれ"], "difficulty": "medium" },
+        { "question": "感情が落ち着いた状態", "answers": ["なごやか","なごみ","なだらか"], "difficulty": "medium" },
+        { "question": "自然に続く変化", "answers": ["ながれ","なりゆき","なり"], "difficulty": "medium" },
+        { "question": "対立がなく調和した関係", "answers": ["なごやか","なごみ","なだらか"], "difficulty": "medium" },
+
+        { "question": "事象の核心を示す概念", "answers": ["ないよう","なり","なかみ"], "difficulty": "hard" },
+        { "question": "因果が絡み合った進展", "answers": ["なりゆき","ながれ","なぞ"], "difficulty": "hard" },
+        { "question": "長期的に保たれる平穏", "answers": ["なごみ","なごやか","なだらか"], "difficulty": "hard" },
+        { "question": "必然性を含む変化過程", "answers": ["なり","ながれ","なりゆき"], "difficulty": "hard" },
+        { "question": "衝突のない関係性の成熟", "answers": ["なごみ","なごやか","なだらか"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "に",
+      "order": 21,
+      "questions": [
+        { "question": "二つ以上のものの結びつき", "answers": ["にあい","にくしみ","により"], "difficulty": "easy" },
+        { "question": "状況に合っていること", "answers": ["にあい","にあう","にあわせ"], "difficulty": "easy" },
+        { "question": "感情が心に生じること", "answers": ["にくしみ","にがて","にがみ"], "difficulty": "easy" },
+        { "question": "物事が及ぼす影響", "answers": ["により","にじ","にじみ"], "difficulty": "easy" },
+        { "question": "性質が表に現れること", "answers": ["にじみ","にじ","におい"], "difficulty": "easy" },
+
+        { "question": "調和が取れている状態", "answers": ["にあい","にあわせ","にあう"], "difficulty": "medium" },
+        { "question": "感情が強く心に残ること", "answers": ["にくしみ","にがみ","にがて"], "difficulty": "medium" },
+        { "question": "影響が徐々に広がる様子", "answers": ["にじみ","にじ","により"], "difficulty": "medium" },
+        { "question": "内面の性質が現れること", "answers": ["にじみ","におい","にじ"], "difficulty": "medium" },
+        { "question": "条件によって生じる結果", "answers": ["により","にじ","にあい"], "difficulty": "medium" },
+
+        { "question": "関係性の中で生まれる適合", "answers": ["にあい","にあわせ","にあう"], "difficulty": "hard" },
+        { "question": "感情の深層に残る否定的感覚", "answers": ["にくしみ","にがみ","にがて"], "difficulty": "hard" },
+        { "question": "本質が無意識に表出する現象", "answers": ["にじみ","におい","にじ"], "difficulty": "hard" },
+        { "question": "要因が結果に及ぼす作用", "answers": ["により","にじ","にあい"], "difficulty": "hard" },
+        { "question": "感覚的に伝わる内面の性格", "answers": ["におい","にじみ","にじ"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ぬ",
+      "order": 22,
+      "questions": [
+        { "question": "抜け落ちている部分", "answers": ["ぬけ","ぬかり","ぬけめ"], "difficulty": "easy" },
+        { "question": "注意が足りないこと", "answers": ["ぬかり","ぬけ","ぬけめ"], "difficulty": "easy" },
+        { "question": "物事が抜けている状態", "answers": ["ぬけ","ぬけめ","ぬかり"], "difficulty": "easy" },
+        { "question": "油断や不注意", "answers": ["ぬかり","ぬけ","ぬけめ"], "difficulty": "easy" },
+        { "question": "完全でない様子", "answers": ["ぬけ","ぬけめ","ぬかり"], "difficulty": "easy" },
+
+        { "question": "計画や準備の不足", "answers": ["ぬかり","ぬけ","ぬけめ"], "difficulty": "medium" },
+        { "question": "意識されない欠落部分", "answers": ["ぬけ","ぬけめ","ぬかり"], "difficulty": "medium" },
+        { "question": "注意不足から生じる問題", "answers": ["ぬかり","ぬけ","ぬけめ"], "difficulty": "medium" },
+        { "question": "構造的に欠けている要素", "answers": ["ぬけ","ぬけめ","ぬかり"], "difficulty": "medium" },
+        { "question": "見落とされがちな弱点", "answers": ["ぬけめ","ぬけ","ぬかり"], "difficulty": "medium" },
+
+        { "question": "体系の中に存在する欠陥点", "answers": ["ぬけめ","ぬけ","ぬかり"], "difficulty": "hard" },
+        { "question": "注意管理の失敗による空白", "answers": ["ぬかり","ぬけ","ぬけめ"], "difficulty": "hard" },
+        { "question": "完全性を損なう要因", "answers": ["ぬけ","ぬけめ","ぬかり"], "difficulty": "hard" },
+        { "question": "戦略上の見落とし部分", "answers": ["ぬけめ","ぬかり","ぬけ"], "difficulty": "hard" },
+        { "question": "全体最適を崩す微細な欠如", "answers": ["ぬけめ","ぬけ","ぬかり"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ね",
+      "order": 23,
+      "questions": [
+        { "question": "物事の根本や基盤となる部分", "answers": ["ねもと","ねっこ","ねざし"], "difficulty": "easy" },
+        { "question": "人や物への基本的な愛着", "answers": ["ねごころ","ねんちゃく","ねづよさ"], "difficulty": "easy" },
+        { "question": "継続的に保たれる考えや思い", "answers": ["ねん","ねがい","ねらい"], "difficulty": "easy" },
+
+        { "question": "長期的に維持される基礎的要素", "answers": ["ねもと","ねざし","ねっこ"], "difficulty": "medium" },
+        { "question": "内面に定着した感情や姿勢", "answers": ["ねん","ねごころ","ねんちゃく"], "difficulty": "medium" },
+
+        { "question": "思想や行動を支える根源的構造", "answers": ["ねもと","ねざし","ねっこ"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "の",
+      "order": 24,
+      "questions": [
+        { "question": "物事が本来持っている性質", "answers": ["のうりょく","のうり","のうせい"], "difficulty": "easy" },
+        { "question": "自然に備わった働き", "answers": ["のうりょく","のうり","のうせい"], "difficulty": "easy" },
+        { "question": "人が持つ内在的な力", "answers": ["のうりょく","のうり","のうせい"], "difficulty": "easy" },
+
+        { "question": "発揮される潜在的な資質", "answers": ["のうりょく","のうり","のうせい"], "difficulty": "medium" },
+        { "question": "生まれ持った特性の総体", "answers": ["のうせい","のうり","のうりょく"], "difficulty": "medium" },
+
+        { "question": "体系的に評価される内的能力", "answers": ["のうりょく","のうせい","のうり"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "は",
+      "order": 25,
+      "questions": [
+        { "question": "物事の始まりとなる行動", "answers": ["はじめ","はっしん","はつどう"], "difficulty": "easy" },
+        { "question": "外に向かって広がる動き", "answers": ["はどう","はんい","はっさん"], "difficulty": "easy" },
+        { "question": "明るく積極的な感情状態", "answers": ["はつらつ","はれ","はなやぎ"], "difficulty": "easy" },
+
+        { "question": "活動を引き起こす初期段階", "answers": ["はっしん","はつどう","はじめ"], "difficulty": "medium" },
+        { "question": "影響が周囲へ広がる現象", "answers": ["はどう","はんい","はっさん"], "difficulty": "medium" },
+
+        { "question": "変化や行動を生み出す起点", "answers": ["はっしん","はつどう","はじめ"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ひ",
+      "order": 26,
+      "questions": [
+        { "question": "物事を理解し判断するための知的な力", "answers": ["ひらめき","ひはん","ひょうか"], "difficulty": "easy" },
+        { "question": "物事を正しく見極める行為", "answers": ["ひはん","ひょうか","ひてい"], "difficulty": "easy" },
+        { "question": "瞬間的に浮かぶ発想", "answers": ["ひらめき","ひらめ","ひらき"], "difficulty": "easy" },
+
+        { "question": "価値や意味を見定める思考過程", "answers": ["ひょうか","ひはん","ひかく"], "difficulty": "medium" },
+        { "question": "直感的に生まれる創造的思考", "answers": ["ひらめき","ひらめ","ひらき"], "difficulty": "medium" },
+
+        { "question": "理性的分析に基づく判断能力", "answers": ["ひはん","ひょうか","ひかく"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ふ",
+      "order": 27,
+      "questions": [
+        { "question": "物事が不完全な状態", "answers": ["ふそく","ふかん","ふび"], "difficulty": "easy" },
+        { "question": "一定の条件に合わないこと", "answers": ["ふてき","ふごう","ふいち"], "difficulty": "easy" },
+        { "question": "安定せず揺れ動く様子", "answers": ["ふあん","ふてい","ふあい"], "difficulty": "easy" },
+
+        { "question": "必要な要素が満たされていない状態", "answers": ["ふそく","ふび","ふかん"], "difficulty": "medium" },
+        { "question": "基準や期待から外れる性質", "answers": ["ふてき","ふごう","ふいち"], "difficulty": "medium" },
+
+        { "question": "構造的に欠陥を含む状態", "answers": ["ふび","ふそく","ふかん"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "へ",
+      "order": 28,
+      "questions": [
+        { "question": "考えや意見が向かう方向", "answers": ["へいこう","へんか","へんしつ"], "difficulty": "easy" },
+        { "question": "状態や性質が変わること", "answers": ["へんか","へんしつ","へんよう"], "difficulty": "easy" },
+        { "question": "一定の方向へ進む様子", "answers": ["へいこう","へんい","へんどう"], "difficulty": "easy" },
+
+        { "question": "性質や状況が移り変わる過程", "answers": ["へんか","へんしつ","へんよう"], "difficulty": "medium" },
+        { "question": "方向性が徐々にずれる現象", "answers": ["へんい","へんどう","へいこう"], "difficulty": "medium" },
+
+        { "question": "長期的に生じる本質的変容", "answers": ["へんしつ","へんよう","へんか"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ほ",
+      "order": 29,
+      "questions": [
+        { "question": "心が温かく満たされる感情", "answers": ["ほほえみ","ほっと","ほほえ"], "difficulty": "easy" },
+        { "question": "安心して力が抜ける状態", "answers": ["ほっと","ほぐれ","ほだし"], "difficulty": "easy" },
+        { "question": "人に与える穏やかな印象", "answers": ["ほのぼの","ほほえみ","ほがらか"], "difficulty": "easy" },
+
+        { "question": "精神的な緊張が解ける過程", "answers": ["ほぐれ","ほっと","ほだし"], "difficulty": "medium" },
+        { "question": "周囲を和ませる感情表現", "answers": ["ほほえみ","ほのぼの","ほがらか"], "difficulty": "medium" },
+
+        { "question": "心的負荷から解放された状態", "answers": ["ほっと","ほぐれ","ほだし"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ま",
+      "order": 30,
+      "questions": [
+        { "question": "物事を進めるための間隔や余裕", "answers": ["ま","まど","まわり"], "difficulty": "easy" },
+        { "question": "状況を整えるための時間", "answers": ["ま","まち","まど"], "difficulty": "easy" },
+        { "question": "全体を取り囲む範囲", "answers": ["まわり","まとい","まく"], "difficulty": "easy" },
+
+        { "question": "行動の合間に生じる余白", "answers": ["ま","まど","まち"], "difficulty": "medium" },
+        { "question": "対象を包み込む空間的範囲", "answers": ["まわり","まとい","まく"], "difficulty": "medium" },
+
+        { "question": "時間や空間に生じる意味ある余白", "answers": ["ま","まど","まち"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "み",
+      "order": 31,
+      "questions": [
+        { "question": "物事の価値や意味を見定める力", "answers": ["みきわめ","みとおし","みかた"], "difficulty": "easy" },
+        { "question": "対象に向けられる視点", "answers": ["みかた","みとおし","みぐせ"], "difficulty": "easy" },
+        { "question": "将来を予測する感覚", "answers": ["みとおし","みきわめ","みこし"], "difficulty": "easy" },
+
+        { "question": "状況を総合的に判断する視座", "answers": ["みかた","みきわめ","みとおし"], "difficulty": "medium" },
+        { "question": "展開を先読みする認識能力", "answers": ["みとおし","みきわめ","みこし"], "difficulty": "medium" },
+
+        { "question": "本質を見抜く高度な判断視点", "answers": ["みきわめ","みとおし","みかた"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ほ",
+      "order": 29,
+      "questions": [
+        { "question": "心が温かく満たされる感情", "answers": ["ほほえみ","ほっと","ほほえ"], "difficulty": "easy" },
+        { "question": "安心して力が抜ける状態", "answers": ["ほっと","ほぐれ","ほだし"], "difficulty": "easy" },
+        { "question": "人に与える穏やかな印象", "answers": ["ほのぼの","ほほえみ","ほがらか"], "difficulty": "easy" },
+
+        { "question": "精神的な緊張が解ける過程", "answers": ["ほぐれ","ほっと","ほだし"], "difficulty": "medium" },
+        { "question": "周囲を和ませる感情表現", "answers": ["ほほえみ","ほのぼの","ほがらか"], "difficulty": "medium" },
+
+        { "question": "心的負荷から解放された状態", "answers": ["ほっと","ほぐれ","ほだし"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ま",
+      "order": 30,
+      "questions": [
+        { "question": "物事を進めるための間隔や余裕", "answers": ["ま","まど","まわり"], "difficulty": "easy" },
+        { "question": "状況を整えるための時間", "answers": ["ま","まち","まど"], "difficulty": "easy" },
+        { "question": "全体を取り囲む範囲", "answers": ["まわり","まとい","まく"], "difficulty": "easy" },
+
+        { "question": "行動の合間に生じる余白", "answers": ["ま","まど","まち"], "difficulty": "medium" },
+        { "question": "対象を包み込む空間的範囲", "answers": ["まわり","まとい","まく"], "difficulty": "medium" },
+
+        { "question": "時間や空間に生じる意味ある余白", "answers": ["ま","まど","まち"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "み",
+      "order": 31,
+      "questions": [
+        { "question": "物事の価値や意味を見定める力", "answers": ["みきわめ","みとおし","みかた"], "difficulty": "easy" },
+        { "question": "対象に向けられる視点", "answers": ["みかた","みとおし","みぐせ"], "difficulty": "easy" },
+        { "question": "将来を予測する感覚", "answers": ["みとおし","みきわめ","みこし"], "difficulty": "easy" },
+
+        { "question": "状況を総合的に判断する視座", "answers": ["みかた","みきわめ","みとおし"], "difficulty": "medium" },
+        { "question": "展開を先読みする認識能力", "answers": ["みとおし","みきわめ","みこし"], "difficulty": "medium" },
+
+        { "question": "本質を見抜く高度な判断視点", "answers": ["みきわめ","みとおし","みかた"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "む",
+      "order": 32,
+      "questions": [
+        { "question": "心や体に無理がかからない状態", "answers": ["むり","むだ","むら"], "difficulty": "easy" },
+        { "question": "不要で余計な要素", "answers": ["むだ","むら","むい"], "difficulty": "easy" },
+        { "question": "均一でない状態", "answers": ["むら","むだ","むり"], "difficulty": "easy" },
+
+        { "question": "効率を下げる要因", "answers": ["むだ","むら","むり"], "difficulty": "medium" },
+        { "question": "作業に負荷を与える状態", "answers": ["むり","むだ","むら"], "difficulty": "medium" },
+
+        { "question": "体系的改善を妨げる三要素", "answers": ["むだ","むら","むり"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "め",
+      "order": 33,
+      "questions": [
+        { "question": "物事を評価するための基準", "answers": ["めやす","めど","めいど"], "difficulty": "easy" },
+        { "question": "到達すべき目標点", "answers": ["めど","めあて","めやす"], "difficulty": "easy" },
+        { "question": "物事を見る視点", "answers": ["めせん","めかた","めつき"], "difficulty": "easy" },
+
+        { "question": "判断を助ける指標", "answers": ["めやす","めど","めいど"], "difficulty": "medium" },
+        { "question": "立場によって変わる見方", "answers": ["めせん","めかた","めつき"], "difficulty": "medium" },
+
+        { "question": "意思決定を支える評価軸", "answers": ["めやす","めど","めいど"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "も",
+      "order": 34,
+      "questions": [
+        { "question": "物事を進めるための動機", "answers": ["もくてき","もくひょう","もと"], "difficulty": "easy" },
+        { "question": "行動の出発点となる理由", "answers": ["もと","もくてき","もくいん"], "difficulty": "easy" },
+        { "question": "目指す到達点", "answers": ["もくひょう","もくてき","もと"], "difficulty": "easy" },
+
+        { "question": "行動全体を方向づける要因", "answers": ["もくてき","もくひょう","もと"], "difficulty": "medium" },
+        { "question": "結果を生み出す根源", "answers": ["もと","もくいん","もくてき"], "difficulty": "medium" },
+
+        { "question": "戦略的行動を規定する根本要素", "answers": ["もくてき","もくひょう","もと"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "や",
+      "order": 35,
+      "questions": [
+        { "question": "物事を行うための方法や手段", "answers": ["やりかた","やりよう","やりくち"], "difficulty": "easy" },
+        { "question": "人との関係やつながり", "answers": ["やく","やりとり","やくそく"], "difficulty": "easy" },
+        { "question": "行動を起こす理由や動機", "answers": ["やるき","やぼう","やい"], "difficulty": "easy" },
+
+        { "question": "状況に応じた行動の選択", "answers": ["やりくち","やりよう","やりかた"], "difficulty": "medium" },
+        { "question": "目標に向かう内面的推進力", "answers": ["やるき","やぼう","やしん"], "difficulty": "medium" },
+
+        { "question": "戦略的に組み立てられた実行方法", "answers": ["やりくち","やりよう","やりかた"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ゆ",
+      "order": 36,
+      "questions": [
+        { "question": "時間や動きに余裕がある状態", "answers": ["ゆとり","ゆう","ゆるみ"], "difficulty": "easy" },
+        { "question": "速さが抑えられた様子", "answers": ["ゆっくり","ゆるやか","ゆうちょう"], "difficulty": "easy" },
+        { "question": "心が落ち着いている状態", "answers": ["ゆったり","ゆう","ゆるみ"], "difficulty": "easy" },
+
+        { "question": "精神的な余裕が保たれた状態", "answers": ["ゆとり","ゆったり","ゆう"], "difficulty": "medium" },
+        { "question": "変化が緩やかに進む過程", "answers": ["ゆるやか","ゆっくり","ゆうちょう"], "difficulty": "medium" },
+
+        { "question": "長期的に維持される心身の余裕", "answers": ["ゆとり","ゆったり","ゆう"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "よ",
+      "order": 37,
+      "questions": [
+        { "question": "物事の価値や利点", "answers": ["よさ","よい","よみ"], "difficulty": "easy" },
+        { "question": "先を見通す力", "answers": ["よそく","よみ","よけん"], "difficulty": "easy" },
+        { "question": "世の中の状況や動き", "answers": ["よのなか","ようす","よてい"], "difficulty": "easy" },
+
+        { "question": "将来に起こり得る事柄の見通し", "answers": ["よそく","よけん","よみ"], "difficulty": "medium" },
+        { "question": "物事を評価したときの長所", "answers": ["よさ","よい","よみ"], "difficulty": "medium" },
+
+        { "question": "不確実性を含めた将来展望", "answers": ["よそく","よけん","よみ"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ら",
+      "order": 38,
+      "questions": [
+        { "question": "物事を理解し整理するための考え方", "answers": ["らいかい","らくせい","らんり"], "difficulty": "easy" },
+        { "question": "心が軽く落ち着いた状態", "answers": ["らく","らくしょう","らんわ"], "difficulty": "easy" },
+        { "question": "全体を見渡して判断する視点", "answers": ["らんぼう","らんり","らくがん"], "difficulty": "easy" },
+
+        { "question": "複雑な事柄を整理して把握する思考", "answers": ["らいかい","らんり","らくがん"], "difficulty": "medium" },
+        { "question": "精神的負担が少ない安定状態", "answers": ["らく","らんわ","らくせい"], "difficulty": "medium" },
+
+        { "question": "全体構造を踏まえた高度な理解", "answers": ["らんり","らくがん","らいかい"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "り",
+      "order": 39,
+      "questions": [
+        { "question": "物事を筋道立てて考える力", "answers": ["りろん","りせい","りかい"], "difficulty": "easy" },
+        { "question": "感情に流されない冷静さ", "answers": ["りせい","りち","りかい"], "difficulty": "easy" },
+        { "question": "物事の理由や原因", "answers": ["りゆう","りくつ","りこん"], "difficulty": "easy" },
+
+        { "question": "体系的に説明するための考え", "answers": ["りろん","りくつ","りかい"], "difficulty": "medium" },
+        { "question": "判断を安定させる理性的態度", "answers": ["りせい","りち","りろん"], "difficulty": "medium" },
+
+        { "question": "抽象化された思考による説明体系", "answers": ["りろん","りくつ","りせい"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "る",
+      "order": 40,
+      "questions": [
+        { "question": "流れや動きが継続すること", "answers": ["るい","るてん","るいせき"], "difficulty": "easy" },
+        { "question": "同じ性質をもつものの集まり", "answers": ["るい","るいべつ","るいそう"], "difficulty": "easy" },
+        { "question": "積み重なって増えること", "answers": ["るいせき","るい","るいか"], "difficulty": "easy" },
+
+        { "question": "分類によって整理された体系", "answers": ["るいべつ","るいそう","るい"], "difficulty": "medium" },
+        { "question": "時間を通じて蓄積される変化", "answers": ["るいせき","るいか","るてん"], "difficulty": "medium" },
+
+        { "question": "構造的に整理された蓄積概念", "answers": ["るいせき","るいべつ","るいそう"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "れ",
+      "order": 41,
+      "questions": [
+        { "question": "人や物事に対する敬意や評価", "answers": ["れい","れいせつ","れいぎ"], "difficulty": "easy" },
+        { "question": "他者を尊重する態度", "answers": ["れいぎ","れいせい","れいはい"], "difficulty": "easy" },
+        { "question": "静かで落ち着いた心の状態", "answers": ["れいせい","れいあん","れいち"], "difficulty": "easy" },
+
+        { "question": "感情に左右されない判断姿勢", "answers": ["れいせい","れいち","れいぎ"], "difficulty": "medium" },
+        { "question": "社会的関係を円滑にする礼節", "answers": ["れいぎ","れいせつ","れい"], "difficulty": "medium" },
+
+        { "question": "理性的で客観的な精神状態", "answers": ["れいせい","れいち","れいあん"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ろ",
+      "order": 42,
+      "questions": [
+        { "question": "考えや意見の根拠", "answers": ["ろん","ろんり","ろんきょ"], "difficulty": "easy" },
+        { "question": "物事を筋道立てて説明すること", "answers": ["ろんり","ろんぽう","ろんせつ"], "difficulty": "easy" },
+        { "question": "議論を進めるための考え", "answers": ["ろん","ろんてん","ろんだい"], "difficulty": "easy" },
+
+        { "question": "思考を体系化する枠組み", "answers": ["ろんり","ろんぽう","ろんせつ"], "difficulty": "medium" },
+        { "question": "議論の中心となる論点", "answers": ["ろんてん","ろんだい","ろんきょ"], "difficulty": "medium" },
+
+        { "question": "抽象的思考による説明構造", "answers": ["ろんり","ろんぽう","ろんせつ"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "わ",
+      "order": 43,
+      "questions": [
+        { "question": "人との調和や結びつき", "answers": ["わ","わごう","わへい"], "difficulty": "easy" },
+        { "question": "争いがなく穏やかな状態", "answers": ["わへい","わごう","わだかまり"], "difficulty": "easy" },
+        { "question": "全体が一つにまとまること", "answers": ["わごう","わ","わだち"], "difficulty": "easy" },
+
+        { "question": "集団内で保たれる協調関係", "answers": ["わ","わごう","わへい"], "difficulty": "medium" },
+        { "question": "対立を避けて保たれる安定", "answers": ["わへい","わごう","わだかまり"], "difficulty": "medium" },
+
+        { "question": "社会全体における持続的調和", "answers": ["わ","わごう","わへい"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "を",
+      "order": 44,
+      "questions": [
+        { "question": "行為や動作の対象となるもの", "answers": ["を","をの","をば"], "difficulty": "easy" },
+        { "question": "動作が向けられる対象", "answers": ["を","をの","をば"], "difficulty": "easy" },
+        { "question": "文の中で目的を示す役割", "answers": ["を","をの","をば"], "difficulty": "easy" },
+
+        { "question": "動作と対象を結びつける機能", "answers": ["を","をば","をの"], "difficulty": "medium" },
+        { "question": "意味関係を明確にする文法要素", "answers": ["を","をの","をば"], "difficulty": "medium" },
+
+        { "question": "文構造上で対象性を担う助詞", "answers": ["を","をば","をの"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ん",
+      "order": 45,
+      "questions": [
+        { "question": "言葉や音の終わりを示す音", "answers": ["ん","んー","んん"], "difficulty": "easy" },
+        { "question": "感情や同意を表す短い発声", "answers": ["ん","んー","うん"], "difficulty": "easy" },
+        { "question": "発話の区切りとして使われる音", "answers": ["ん","んん","んー"], "difficulty": "easy" },
+
+        { "question": "意味を補助する終末音", "answers": ["ん","んー","んん"], "difficulty": "medium" },
+        { "question": "会話の流れを調整する音声表現", "answers": ["ん","んー","うん"], "difficulty": "medium" },
+
+        { "question": "発話構造における終止的音素", "answers": ["ん","んん","んー"], "difficulty": "hard" }
+      ]
+    }
+  ]
+}

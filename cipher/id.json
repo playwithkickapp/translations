@@ -1,0 +1,585 @@
+{
+  "lang": "id",
+  "letters": [
+    {
+      "letter": "A",
+      "order": 1,
+      "questions": [
+        { "question": "Kemampuan menyesuaikan diri dengan perubahan", "answers": ["adaptasi","adaptabilitas","akomodasi"], "difficulty": "easy" },
+        { "question": "Keinginan kuat untuk mencapai tujuan", "answers": ["ambisi","aspirasi","antusiasme"], "difficulty": "easy" },
+        { "question": "Keadaan bebas dari gangguan atau tekanan", "answers": ["aman","asri","adem"], "difficulty": "easy" },
+        { "question": "Kemampuan bertindak tanpa bergantung pada pihak lain", "answers": ["autonomi","andal","aktif"], "difficulty": "easy" },
+        { "question": "Pengakuan terhadap nilai diri", "answers": ["apresiasi","asertivitas","aktualisasi"], "difficulty": "easy" },
+
+        { "question": "Penyesuaian berkelanjutan terhadap lingkungan", "answers": ["adaptabilitas","fleksibilitas","akomodasi"], "difficulty": "medium" },
+        { "question": "Dorongan batin yang terarah pada tujuan", "answers": ["ambisi","aspirasi","arah"], "difficulty": "medium" },
+        { "question": "Kemandirian fungsional dalam bertindak", "answers": ["autonomi","mandiri","inisiatif"], "difficulty": "medium" },
+        { "question": "Kondisi emosional yang stabil", "answers": ["aman","ayem","asri"], "difficulty": "medium" },
+        { "question": "Sikap menyatakan pendapat dengan tegas", "answers": ["asertivitas","aktif","argumentatif"], "difficulty": "medium" },
+
+        { "question": "Kemampuan adaptif jangka panjang dalam sistem kompleks", "answers": ["adaptabilitas","resiliensi","fleksibilitas"], "difficulty": "hard" },
+        { "question": "Ambisi yang diarahkan secara strategis", "answers": ["ambisi","aspirasi","orientasi"], "difficulty": "hard" },
+        { "question": "Autonomi sebagai prinsip pengambilan keputusan", "answers": ["autonomi","kemandirian","inisiatif"], "difficulty": "hard" },
+        { "question": "Keamanan psikologis yang terjaga konsisten", "answers": ["aman","ayem","asertif"], "difficulty": "hard" },
+        { "question": "Aktualisasi diri dalam konteks profesional", "answers": ["aktualisasi","apresiasi","asertivitas"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "B",
+      "order": 2,
+      "questions": [
+        { "question": "Keadaan merasa puas dan nyaman", "answers": ["bahagia","bahtera","berkah"], "difficulty": "easy" },
+        { "question": "Landasan yang menopang sesuatu", "answers": ["basis","bantalan","bangunan"], "difficulty": "easy" },
+        { "question": "Hasil positif dari suatu tindakan", "answers": ["benefit","berkah","bonus"], "difficulty": "easy" },
+        { "question": "Kemampuan menghadapi kesulitan", "answers": ["berani","bandel","baja"], "difficulty": "easy" },
+        { "question": "Sikap peduli terhadap orang lain", "answers": ["baik","belas","berempati"], "difficulty": "easy" },
+
+        { "question": "Keseimbangan yang terjaga dalam sistem", "answers": ["balance","berimbang","benang"], "difficulty": "medium" },
+        { "question": "Keuntungan yang diperoleh secara berkelanjutan", "answers": ["benefit","bonus","berkah"], "difficulty": "medium" },
+        { "question": "Struktur pendukung suatu konsep", "answers": ["basis","bangunan","bantalan"], "difficulty": "medium" },
+        { "question": "Ketahanan aktif terhadap tekanan", "answers": ["baja","bandel","berani"], "difficulty": "medium" },
+        { "question": "Perilaku positif yang konsisten", "answers": ["baik","bijak","beretika"], "difficulty": "medium" },
+
+        { "question": "Stabilitas jangka panjang dalam kondisi berubah", "answers": ["berimbang","baja","resilien"], "difficulty": "hard" },
+        { "question": "Manfaat strategis yang terakumulasi", "answers": ["benefit","berkah","nilai"], "difficulty": "hard" },
+        { "question": "Basis konseptual sebuah sistem", "answers": ["basis","bangunan","fondasi"], "difficulty": "hard" },
+        { "question": "Keberanian berkelanjutan menghadapi risiko", "answers": ["berani","bandel","tangguh"], "difficulty": "hard" },
+        { "question": "Kebaikan sebagai prinsip etika", "answers": ["baik","beretika","bijak"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "C",
+      "order": 3,
+      "questions": [
+        { "question": "Keadaan tenang dan tidak gelisah", "answers": ["calm","ceria","cermat"], "difficulty": "easy" },
+        { "question": "Kemampuan mengendalikan suatu proses", "answers": ["control","cek","catu"], "difficulty": "easy" },
+        { "question": "Kejelasan dalam penyampaian", "answers": ["clarity","cahaya","cerah"], "difficulty": "easy" },
+        { "question": "Bekerja bersama untuk tujuan sama", "answers": ["cooperate","kolaborasi","collective"], "difficulty": "easy" },
+        { "question": "Keyakinan terhadap kemampuan sendiri", "answers": ["confidence","percaya","cukup"], "difficulty": "easy" },
+
+        { "question": "Keterpaduan elemen yang saling terkait", "answers": ["cohesion","connect","consensus"], "difficulty": "medium" },
+        { "question": "Kemampuan menilai dengan tepat", "answers": ["cermat","cerdik","cerna"], "difficulty": "medium" },
+        { "question": "Kerja tim yang terkoordinasi", "answers": ["cooperate","collaboration","coordination"], "difficulty": "medium" },
+        { "question": "Ketenangan dalam bertindak", "answers": ["calm","cermat","cool"], "difficulty": "medium" },
+        { "question": "Pengaturan proses secara sistematis", "answers": ["control","coordination","command"], "difficulty": "medium" },
+
+        { "question": "Kohesi struktural dalam sistem kompleks", "answers": ["cohesion","consistency","coherence"], "difficulty": "hard" },
+        { "question": "Pengendalian diri dan proses secara berkelanjutan", "answers": ["control","command","coordination"], "difficulty": "hard" },
+        { "question": "Kejelasan konseptual dalam kerangka abstrak", "answers": ["clarity","coherence","consistency"], "difficulty": "hard" },
+        { "question": "Kolaborasi strategis jangka panjang", "answers": ["collaboration","cooperate","consortium"], "difficulty": "hard" },
+        { "question": "Kepercayaan sebagai fondasi relasi profesional", "answers": ["confidence","credibility","consistency"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "D",
+      "order": 4,
+      "questions": [
+        { "question": "Kemampuan mengambil keputusan dengan tegas", "answers": ["determinasi","disiplin","daya"], "difficulty": "easy" },
+        { "question": "Proses berpikir sebelum bertindak", "answers": ["deliberasi","diagnosis","diskresi"], "difficulty": "easy" },
+        { "question": "Arah yang jelas menuju tujuan", "answers": ["direksi","destinasi","dorongan"], "difficulty": "easy" },
+        { "question": "Kemampuan bertahan dalam jangka waktu lama", "answers": ["durabilitas","dayatahan","daya"], "difficulty": "easy" },
+        { "question": "Kekuatan mental menghadapi tekanan", "answers": ["dayajuang","determinasi","disiplin"], "difficulty": "easy" },
+
+        { "question": "Pertimbangan rasional sebelum mengambil keputusan", "answers": ["deliberasi","diskresi","diagnosis"], "difficulty": "medium" },
+        { "question": "Ketekunan dalam menghadapi hambatan", "answers": ["determinasi","disiplin","dayajuang"], "difficulty": "medium" },
+        { "question": "Kemampuan sistem untuk tetap berfungsi", "answers": ["durabilitas","dayatahan","dayasokong"], "difficulty": "medium" },
+        { "question": "Kemampuan mengarahkan tindakan kolektif", "answers": ["direksi","dominasi","dorongan"], "difficulty": "medium" },
+        { "question": "Konsistensi dalam mematuhi aturan", "answers": ["disiplin","determinasi","dedikasi"], "difficulty": "medium" },
+
+        { "question": "Ketahanan struktural dalam jangka panjang", "answers": ["durabilitas","resiliensi","dayatahan"], "difficulty": "hard" },
+        { "question": "Proses kognitif memilih secara rasional", "answers": ["deliberasi","diskresi","penilaian"], "difficulty": "hard" },
+        { "question": "Arah strategis jangka panjang", "answers": ["direksi","orientasi","destinasi"], "difficulty": "hard" },
+        { "question": "Keteguhan sikap dalam kondisi ekstrem", "answers": ["determinasi","dayajuang","ketegasan"], "difficulty": "hard" },
+        { "question": "Disiplin sebagai prinsip pengelolaan sistem", "answers": ["disiplin","keteraturan","konsistensi"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "E",
+      "order": 5,
+      "questions": [
+        { "question": "Keadaan seimbang secara emosional", "answers": ["emosistabil","equilibrium","enak"], "difficulty": "easy" },
+        { "question": "Kemampuan menghasilkan hasil yang diinginkan", "answers": ["efektivitas","efisiensi","eksekusi"], "difficulty": "easy" },
+        { "question": "Pemahaman terhadap suatu situasi", "answers": ["evaluasi","eksplanasi","empati"], "difficulty": "easy" },
+        { "question": "Hasil dari suatu tindakan", "answers": ["efek","ekses","eksekusi"], "difficulty": "easy" },
+        { "question": "Keadaan tenang tanpa tekanan", "answers": ["enak","emosistabil","enteng"], "difficulty": "easy" },
+
+        { "question": "Kemampuan mencapai tujuan dengan tepat", "answers": ["efektivitas","kinerja","hasilguna"], "difficulty": "medium" },
+        { "question": "Penilaian sistematis terhadap kondisi", "answers": ["evaluasi","eksaminasi","analisis"], "difficulty": "medium" },
+        { "question": "Penggunaan sumber daya secara optimal", "answers": ["efisiensi","optimalisasi","ekonomi"], "difficulty": "medium" },
+        { "question": "Keseimbangan fungsi dalam sistem", "answers": ["equilibrium","stabilitas","keseimbangan"], "difficulty": "medium" },
+        { "question": "Kemampuan memobilisasi tenaga internal", "answers": ["energi","endurance","etos"], "difficulty": "medium" },
+
+        { "question": "Keseimbangan sistem dalam kondisi kompleks", "answers": ["equilibrium","resiliensi","stabilitas"], "difficulty": "hard" },
+        { "question": "Efektivitas berkelanjutan dalam perubahan", "answers": ["efektivitas","kinerja","dayaguna"], "difficulty": "hard" },
+        { "question": "Pemahaman analitis tingkat lanjut", "answers": ["evaluasi","analisis","eksplanasi"], "difficulty": "hard" },
+        { "question": "Energi berkelanjutan untuk kinerja tinggi", "answers": ["energi","endurance","vitalitas"], "difficulty": "hard" },
+        { "question": "Evaluasi strategis berbagai kemungkinan", "answers": ["evaluasi","proyeksi","estimasi"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "F",
+      "order": 6,
+      "questions": [
+        { "question": "Keteguhan dalam memegang keputusan", "answers": ["fokus","firmness","faith"], "difficulty": "easy" },
+        { "question": "Hasil positif dari usaha", "answers": ["faedah","fruit","feedback"], "difficulty": "easy" },
+        { "question": "Kemampuan memusatkan perhatian", "answers": ["fokus","fixasi","fiksasi"], "difficulty": "easy" },
+        { "question": "Keadaan stabil secara pribadi", "answers": ["firmness","fokus","fit"], "difficulty": "easy" },
+        { "question": "Kemampuan bertahan menghadapi kesulitan", "answers": ["fortitude","force","flexibility"], "difficulty": "easy" },
+
+        { "question": "Konsentrasi berkelanjutan pada tujuan", "answers": ["fokus","prioritas","konsentrasi"], "difficulty": "medium" },
+        { "question": "Ketahanan aktif terhadap tekanan", "answers": ["fortitude","resistensi","endurance"], "difficulty": "medium" },
+        { "question": "Keteguhan sikap dalam tekanan", "answers": ["firmness","determinasi","konsistensi"], "difficulty": "medium" },
+        { "question": "Hasil yang muncul dari proses", "answers": ["faedah","fruit","output"], "difficulty": "medium" },
+        { "question": "Energi untuk mendorong tindakan", "answers": ["force","faktor","dorong"], "difficulty": "medium" },
+
+        { "question": "Ketahanan struktural terhadap perubahan panjang", "answers": ["fortitude","resiliensi","dayatahan"], "difficulty": "hard" },
+        { "question": "Fokus strategis jangka panjang", "answers": ["fokus","orientasi","prioritas"], "difficulty": "hard" },
+        { "question": "Keteguhan keputusan dalam ketidakpastian", "answers": ["firmness","determinasi","ketegasan"], "difficulty": "hard" },
+        { "question": "Hasil kumulatif dari sistem efektif", "answers": ["faedah","nilai","kinerja"], "difficulty": "hard" },
+        { "question": "Kemampuan menyokong usaha berkelanjutan", "answers": ["endurance","fortitude","resistensi"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "G",
+      "order": 7,
+      "questions": [
+        { "question": "Proses berkembang menjadi lebih besar atau maju", "answers": ["pertumbuhan","gain","generasi"], "difficulty": "easy" },
+        { "question": "Hasil positif yang diperoleh", "answers": ["gain","keuntungan","guna"], "difficulty": "easy" },
+        { "question": "Dorongan kuat untuk bertindak", "answers": ["gairah","greget","gelora"], "difficulty": "easy" },
+        { "question": "Proses awal terbentuknya sesuatu", "answers": ["generasi","genesis","gagasan"], "difficulty": "easy" },
+        { "question": "Sikap memberi tanpa pamrih", "answers": ["generositas","kedermawanan","kebaikan"], "difficulty": "easy" },
+
+        { "question": "Perkembangan berkelanjutan dalam jangka waktu lama", "answers": ["pertumbuhan","ekspansi","progresi"], "difficulty": "medium" },
+        { "question": "Keuntungan strategis dari suatu tindakan", "answers": ["gain","nilai","manfaat"], "difficulty": "medium" },
+        { "question": "Asal mula terstruktur dari suatu sistem", "answers": ["genesis","fondasi","generasi"], "difficulty": "medium" },
+        { "question": "Energi mental menghadapi tantangan", "answers": ["greget","keteguhan","dayajuang"], "difficulty": "medium" },
+        { "question": "Sikap terbuka dan peduli pada sesama", "answers": ["generositas","empati","solidaritas"], "difficulty": "medium" },
+
+        { "question": "Pertumbuhan struktural dalam sistem kompleks", "answers": ["pertumbuhan","evolusi","ekspansi"], "difficulty": "hard" },
+        { "question": "Keuntungan berkelanjutan yang bersifat strategis", "answers": ["gain","nilai","keunggulan"], "difficulty": "hard" },
+        { "question": "Proses pembentukan dasar suatu sistem", "answers": ["genesis","fondasi","arsitektur"], "difficulty": "hard" },
+        { "question": "Kekuatan batin menghadapi tekanan berkepanjangan", "answers": ["greget","resiliensi","ketangguhan"], "difficulty": "hard" },
+        { "question": "Generositas sebagai prinsip etika sosial", "answers": ["generositas","altruisme","kemanusiaan"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "H",
+      "order": 8,
+      "questions": [
+        { "question": "Keadaan seimbang dan selaras", "answers": ["harmoni","hening","tenang"], "difficulty": "easy" },
+        { "question": "Kemampuan melakukan sesuatu dengan baik", "answers": ["habilitas","kemahiran","keahlian"], "difficulty": "easy" },
+        { "question": "Sikap jujur dan dapat dipercaya", "answers": ["honest","hormat","handal"], "difficulty": "easy" },
+        { "question": "Sikap rendah hati dalam bersikap", "answers": ["humble","hormat","halus"], "difficulty": "easy" },
+        { "question": "Keadaan batin yang damai", "answers": ["harmoni","hening","sejuk"], "difficulty": "easy" },
+
+        { "question": "Kemampuan teknis yang berkembang", "answers": ["habilitas","kompetensi","keahlian"], "difficulty": "medium" },
+        { "question": "Integritas dalam tindakan sehari hari", "answers": ["honest","integritas","kejujuran"], "difficulty": "medium" },
+        { "question": "Keseimbangan emosional yang stabil", "answers": ["harmoni","stabilitas","keseimbangan"], "difficulty": "medium" },
+        { "question": "Sikap terkendali dalam konflik", "answers": ["humble","kesabaran","ketenangan"], "difficulty": "medium" },
+        { "question": "Hubungan sosial yang selaras", "answers": ["harmoni","kerukunan","kebersamaan"], "difficulty": "medium" },
+
+        { "question": "Kemahiran tinggi dalam konteks kompleks", "answers": ["habilitas","keahlian","kepakaran"], "difficulty": "hard" },
+        { "question": "Kejujuran sebagai prinsip moral utama", "answers": ["honest","integritas","kejujuran"], "difficulty": "hard" },
+        { "question": "Harmoni sistemik jangka panjang", "answers": ["harmoni","koherensi","stabilitas"], "difficulty": "hard" },
+        { "question": "Kerendahan hati sebagai pengendali ego", "answers": ["humble","kesadaran","ketenangan"], "difficulty": "hard" },
+        { "question": "Keharmonisan dalam struktur sosial", "answers": ["harmoni","kohesi","kerukunan"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "I",
+      "order": 9,
+      "questions": [
+        { "question": "Kemampuan bertindak tanpa ketergantungan", "answers": ["independen","inisiatif","otonomi"], "difficulty": "easy" },
+        { "question": "Pemahaman spontan tanpa analisis panjang", "answers": ["intuisi","insting","indra"], "difficulty": "easy" },
+        { "question": "Kemampuan menghasilkan ide baru", "answers": ["inovasi","imajinasi","inisiatif"], "difficulty": "easy" },
+        { "question": "Tindakan memulai sesuatu secara aktif", "answers": ["inisiatif","impuls","ikhtiar"], "difficulty": "easy" },
+        { "question": "Kesesuaian antara nilai dan tindakan", "answers": ["integritas","istiqamah","konsistensi"], "difficulty": "easy" },
+
+        { "question": "Kemandirian fungsional yang berkelanjutan", "answers": ["independen","otonomi","kemandirian"], "difficulty": "medium" },
+        { "question": "Kepekaan memahami situasi kompleks", "answers": ["intuisi","discernment","kepekaan"], "difficulty": "medium" },
+        { "question": "Penciptaan gagasan orisinal", "answers": ["inovasi","kreativitas","imajinasi"], "difficulty": "medium" },
+        { "question": "Dorongan awal menuju tindakan nyata", "answers": ["inisiatif","tekad","dorongan"], "difficulty": "medium" },
+        { "question": "Konsistensi etika dalam perilaku", "answers": ["integritas","kejujuran","konsistensi"], "difficulty": "medium" },
+
+        { "question": "Independensi struktural dalam sistem kompleks", "answers": ["independen","otonomi","kemandirian"], "difficulty": "hard" },
+        { "question": "Intuisi sebagai alat kognitif tingkat lanjut", "answers": ["intuisi","kepekaan","wawasan"], "difficulty": "hard" },
+        { "question": "Inovasi sebagai strategi keberlanjutan", "answers": ["inovasi","transformasi","pembaruan"], "difficulty": "hard" },
+        { "question": "Inisiatif berkelanjutan dalam kondisi tidak pasti", "answers": ["inisiatif","kepemimpinan","tekad"], "difficulty": "hard" },
+        { "question": "Integritas sebagai fondasi kepercayaan", "answers": ["integritas","kejujuran","kredibilitas"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "J",
+      "order": 10,
+      "questions": [
+        { "question": "Kemampuan menilai sesuatu secara adil dan tepat", "answers": ["judgement","justifikasi","justisia"], "difficulty": "easy" },
+        { "question": "Keputusan yang diambil berdasarkan pertimbangan", "answers": ["judgement","justifikasi","jaminan"], "difficulty": "easy" },
+        { "question": "Perasaan senang yang kuat", "answers": ["joy","jubel","jaya"], "difficulty": "easy" },
+        { "question": "Prinsip keadilan dalam aturan sosial", "answers": ["justisia","justifikasi","jaminan"], "difficulty": "easy" },
+        { "question": "Kemampuan membedakan benar dan salah", "answers": ["judgement","justisia","justifikasi"], "difficulty": "easy" },
+
+        { "question": "Penilaian objektif dalam situasi kompleks", "answers": ["judgement","justifikasi","pertimbangan"], "difficulty": "medium" },
+        { "question": "Penerapan prinsip keadilan secara konsisten", "answers": ["justisia","keadilan","justifikasi"], "difficulty": "medium" },
+        { "question": "Ekspresi kegembiraan secara terbuka", "answers": ["joy","jaya","jubel"], "difficulty": "medium" },
+        { "question": "Pertimbangan rasional dalam pengambilan keputusan", "answers": ["judgement","justifikasi","analisis"], "difficulty": "medium" },
+        { "question": "Dasar moral dalam menentukan pilihan", "answers": ["justisia","judgement","etika"], "difficulty": "medium" },
+
+        { "question": "Landasan etis dalam pengambilan keputusan strategis", "answers": ["justisia","judgement","integritas"], "difficulty": "hard" },
+        { "question": "Kemampuan menilai konteks secara mendalam", "answers": ["judgement","pertimbangan","kebijaksanaan"], "difficulty": "hard" },
+        { "question": "Sistem nilai yang menjamin keadilan sosial", "answers": ["justisia","keadilan","legitimasi"], "difficulty": "hard" },
+        { "question": "Penilaian rasional dalam kondisi tidak pasti", "answers": ["judgement","analisis","diskresi"], "difficulty": "hard" },
+        { "question": "Prinsip keadilan sebagai dasar tata kelola", "answers": ["justisia","keadilan","legitimasi"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "K",
+      "order": 11,
+      "questions": [
+        { "question": "Keadaan sejahtera secara umum", "answers": ["kesejahteraan","kenyamanan","kebahagiaan"], "difficulty": "easy" },
+        { "question": "Landasan utama suatu sistem", "answers": ["kerangka","kaki","konsep"], "difficulty": "easy" },
+        { "question": "Hasil positif dari suatu usaha", "answers": ["keuntungan","kebaikan","kompensasi"], "difficulty": "easy" },
+        { "question": "Kemampuan bertahan menghadapi tekanan", "answers": ["ketahanan","kekuatan","keteguhan"], "difficulty": "easy" },
+        { "question": "Sikap peduli terhadap sesama", "answers": ["kebaikan","kepedulian","kedermawanan"], "difficulty": "easy" },
+
+        { "question": "Keseimbangan yang terjaga dalam sistem", "answers": ["kestabilan","keselarasan","keseimbangan"], "difficulty": "medium" },
+        { "question": "Manfaat yang diperoleh secara berkelanjutan", "answers": ["keuntungan","nilai","manfaat"], "difficulty": "medium" },
+        { "question": "Struktur dasar yang menopang pemahaman", "answers": ["kerangka","konsep","fondasi"], "difficulty": "medium" },
+        { "question": "Ketahanan aktif menghadapi perubahan", "answers": ["ketahanan","resiliensi","ketangguhan"], "difficulty": "medium" },
+        { "question": "Perilaku etis yang konsisten", "answers": ["kebaikan","kejujuran","kepatuhan"], "difficulty": "medium" },
+
+        { "question": "Kesejahteraan berkelanjutan dalam sistem sosial", "answers": ["kesejahteraan","keadilan","kestabilan"], "difficulty": "hard" },
+        { "question": "Nilai strategis yang terakumulasi", "answers": ["keuntungan","nilai","keunggulan"], "difficulty": "hard" },
+        { "question": "Kerangka konseptual sistem kompleks", "answers": ["kerangka","arsitektur","konsep"], "difficulty": "hard" },
+        { "question": "Ketahanan jangka panjang terhadap krisis", "answers": ["ketahanan","resiliensi","ketangguhan"], "difficulty": "hard" },
+        { "question": "Kebaikan sebagai prinsip etika universal", "answers": ["kebaikan","kemanusiaan","keadilan"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "L",
+      "order": 12,
+      "questions": [
+        { "question": "Kemampuan memimpin dan memengaruhi orang lain", "answers": ["kepemimpinan","legitimasi","lini"], "difficulty": "easy" },
+        { "question": "Proses memperoleh pengetahuan", "answers": ["literasi","latihan","logika"], "difficulty": "easy" },
+        { "question": "Arah tindakan yang konsisten", "answers": ["lini","logika","langkah"], "difficulty": "easy" },
+        { "question": "Susunan berpikir yang rasional", "answers": ["logika","linearitas","landasan"], "difficulty": "easy" },
+        { "question": "Hasil dari usaha atau proses", "answers": ["laba","luaran","limpahan"], "difficulty": "easy" },
+
+        { "question": "Kepemimpinan dalam konteks organisasi", "answers": ["kepemimpinan","legitimasi","otoritas"], "difficulty": "medium" },
+        { "question": "Pembelajaran terstruktur melalui studi", "answers": ["literasi","latihan","pembelajaran"], "difficulty": "medium" },
+        { "question": "Konsistensi dalam alur berpikir", "answers": ["logika","koherensi","linearitas"], "difficulty": "medium" },
+        { "question": "Arah operasional yang jelas", "answers": ["lini","arah","langkah"], "difficulty": "medium" },
+        { "question": "Pengakuan sah terhadap kekuasaan", "answers": ["legitimasi","otoritas","keabsahan"], "difficulty": "medium" },
+
+        { "question": "Kepemimpinan strategis jangka panjang", "answers": ["kepemimpinan","legitimasi","otoritas"], "difficulty": "hard" },
+        { "question": "Logika sebagai fondasi penalaran kompleks", "answers": ["logika","koherensi","konsistensi"], "difficulty": "hard" },
+        { "question": "Proses pembelajaran mendalam dan berkelanjutan", "answers": ["literasi","pembelajaran","pengembangan"], "difficulty": "hard" },
+        { "question": "Arah strategis dalam sistem besar", "answers": ["lini","strategi","orientasi"], "difficulty": "hard" },
+        { "question": "Legitimasi sebagai dasar kepercayaan publik", "answers": ["legitimasi","keabsahan","otoritas"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "M",
+      "order": 13,
+      "questions": [
+        { "question": "Dorongan internal untuk mencapai tujuan", "answers": ["motivasi","minat","maksud"], "difficulty": "easy" },
+        { "question": "Cara terstruktur untuk melakukan sesuatu", "answers": ["metode","mekanisme","model"], "difficulty": "easy" },
+        { "question": "Keadaan batin dalam menghadapi situasi", "answers": ["mentalitas","mindset","moral"], "difficulty": "easy" },
+        { "question": "Kemampuan berpindah atau berubah posisi", "answers": ["mobilitas","manuver","migrasi"], "difficulty": "easy" },
+        { "question": "Hasil nyata dari suatu proses", "answers": ["manfaat","muatan","modal"], "difficulty": "easy" },
+        { "question": "Dorongan berkelanjutan untuk bertindak", "answers": ["motivasi","mobilisasi","mekanika"], "difficulty": "medium" },
+        { "question": "Susunan kerja yang sistematis", "answers": ["metodologi","mekanisme","manajemen"], "difficulty": "medium" },
+        { "question": "Kerangka berpikir dominan", "answers": ["mentalitas","mindset","modus"], "difficulty": "medium" },
+        { "question": "Kemampuan bergerak secara strategis", "answers": ["mobilitas","manuver","manajemen"], "difficulty": "medium" },
+        { "question": "Sumber daya awal untuk bertindak", "answers": ["modal","muatan","materi"], "difficulty": "medium" },
+        { "question": "Motivasi yang terjaga dalam situasi kompleks", "answers": ["motivasi","moral","mobilisasi"], "difficulty": "hard" },
+        { "question": "Sistem metode untuk menyelesaikan masalah", "answers": ["metodologi","manajemen","mekanisme"], "difficulty": "hard" },
+        { "question": "Mentalitas sebagai penentu keputusan jangka panjang", "answers": ["mentalitas","mindset","moralitas"], "difficulty": "hard" },
+        { "question": "Mobilitas strategis dalam lingkungan berubah", "answers": ["mobilitas","manuver","migrasi"], "difficulty": "hard" },
+        { "question": "Modal sebagai fondasi pertumbuhan berkelanjutan", "answers": ["modal","materi","manfaat"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "N",
+      "order": 14,
+      "questions": [
+        { "question": "Aturan yang disepakati bersama", "answers": ["norma","nalar","nomenklatur"], "difficulty": "easy" },
+        { "question": "Tingkatan dalam suatu proses", "answers": ["nivel","tingkat","nada"], "difficulty": "easy" },
+        { "question": "Gagasan dasar suatu konsep", "answers": ["notion","nalar","nukleus"], "difficulty": "easy" },
+        { "question": "Hubungan pengikat antar unsur", "answers": ["nexus","node","nalar"], "difficulty": "easy" },
+        { "question": "Ruang peluang yang spesifik", "answers": ["niche","nisbah","nukleus"], "difficulty": "easy" },
+        { "question": "Pedoman perilaku kolektif", "answers": ["norma","nilai","nalar"], "difficulty": "medium" },
+        { "question": "Lapisan perkembangan bertahap", "answers": ["nivel","tahapan","nada"], "difficulty": "medium" },
+        { "question": "Pemahaman awal terhadap ide", "answers": ["notion","nalar","nukleus"], "difficulty": "medium" },
+        { "question": "Keterkaitan fungsional dalam sistem", "answers": ["nexus","node","nisbah"], "difficulty": "medium" },
+        { "question": "Posisi khusus dalam pasar atau peran", "answers": ["niche","nisbah","node"], "difficulty": "medium" },
+        { "question": "Norma sebagai fondasi sistem sosial", "answers": ["norma","nilai","nalar"], "difficulty": "hard" },
+        { "question": "Nivel struktural dalam sistem kompleks", "answers": ["nivel","hierarki","nada"], "difficulty": "hard" },
+        { "question": "Notion sebagai dasar penalaran konseptual", "answers": ["notion","nukleus","nalar"], "difficulty": "hard" },
+        { "question": "Nexus sebagai penghubung sistemik utama", "answers": ["nexus","node","nisbah"], "difficulty": "hard" },
+        { "question": "Niche sebagai strategi diferensiasi jangka panjang", "answers": ["niche","nisbah","node"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "O",
+      "order": 15,
+      "questions": [
+        { "question": "Pilihan yang tersedia untuk dipilih", "answers": ["opsi","opsional","alternatif"], "difficulty": "easy" },
+        { "question": "Susunan teratur dari berbagai unsur", "answers": ["orde","organisasi","order"], "difficulty": "easy" },
+        { "question": "Arah menuju tujuan tertentu", "answers": ["orientasi","objektif","orbit"], "difficulty": "easy" },
+        { "question": "Kesempatan yang menguntungkan", "answers": ["opportunity","opsi","occasio"], "difficulty": "easy" },
+        { "question": "Sasaran yang ingin dicapai", "answers": ["objektif","orientasi","output"], "difficulty": "easy" },
+        { "question": "Pemilihan rasional di antara alternatif", "answers": ["opsi","opsional","opportunity"], "difficulty": "medium" },
+        { "question": "Pengelolaan unsur secara sistematis", "answers": ["organisasi","orde","order"], "difficulty": "medium" },
+        { "question": "Penentuan arah tindakan strategis", "answers": ["orientasi","objektif","outlook"], "difficulty": "medium" },
+        { "question": "Pemanfaatan peluang yang tepat waktu", "answers": ["opportunity","opsi","outcome"], "difficulty": "medium" },
+        { "question": "Penetapan tujuan operasional", "answers": ["objektif","output","orientasi"], "difficulty": "medium" },
+        { "question": "Opsi strategis dalam kondisi kompleks", "answers": ["opsi","opsional","outlook"], "difficulty": "hard" },
+        { "question": "Organisasi sebagai arsitektur sistem besar", "answers": ["organisasi","orde","order"], "difficulty": "hard" },
+        { "question": "Orientasi jangka panjang dalam visi besar", "answers": ["orientasi","outlook","objektif"], "difficulty": "hard" },
+        { "question": "Opportunity sebagai pengungkit pertumbuhan", "answers": ["opportunity","outcome","opsi"], "difficulty": "hard" },
+        { "question": "Objektif sebagai inti perencanaan strategis", "answers": ["objektif","orientasi","output"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "P",
+      "order": 16,
+      "questions": [
+        { "question": "Kemampuan untuk terus berusaha meski menghadapi kesulitan", "answers": ["persistensi","perseveransi","ketekunan"], "difficulty": "easy" },
+        { "question": "Rencana terstruktur untuk mencapai tujuan", "answers": ["perencanaan","program","proyek"], "difficulty": "easy" },
+        { "question": "Keadaan tenang dan bebas dari konflik batin", "answers": ["perdamaian","ketenangan","keseimbangan"], "difficulty": "easy" },
+        { "question": "Hasil nyata yang dihasilkan dari suatu proses", "answers": ["produk","pencapaian","prestasi"], "difficulty": "easy" },
+        { "question": "Kemampuan untuk mengendalikan diri", "answers": ["pengendalian","penguasaan","pengaturan"], "difficulty": "easy" },
+
+        { "question": "Keteguhan sikap dalam jangka waktu panjang", "answers": ["persistensi","perseveransi","ketabahan"], "difficulty": "medium" },
+        { "question": "Penyusunan langkah sebelum pelaksanaan", "answers": ["perencanaan","persiapan","pengaturan"], "difficulty": "medium" },
+        { "question": "Penilaian sistematis terhadap suatu kondisi", "answers": ["penilaian","pengukuran","pengamatan"], "difficulty": "medium" },
+        { "question": "Kemampuan menghasilkan kinerja yang baik", "answers": ["produktivitas","prestasi","pencapaian"], "difficulty": "medium" },
+        { "question": "Proses memimpin dan memengaruhi kelompok", "answers": ["pengaruh","pengarahan","pengelolaan"], "difficulty": "medium" },
+
+        { "question": "Persistensi sebagai kunci keberhasilan jangka panjang", "answers": ["persistensi","ketabahan","ketahanan"], "difficulty": "hard" },
+        { "question": "Perencanaan strategis dalam sistem kompleks", "answers": ["perencanaan","pemodelan","pengorganisasian"], "difficulty": "hard" },
+        { "question": "Produktivitas berkelanjutan dalam lingkungan dinamis", "answers": ["produktivitas","kinerja","efektivitas"], "difficulty": "hard" },
+        { "question": "Pengambilan keputusan berdasarkan analisis mendalam", "answers": ["pertimbangan","penilaian","pengkajian"], "difficulty": "hard" },
+        { "question": "Pengendalian sistem untuk menjaga stabilitas", "answers": ["pengendalian","pengaturan","pengawasan"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Q",
+      "order": 17,
+      "questions": [
+        { "question": "Tingkat mutu suatu produk atau layanan", "answers": ["kualitas","qualitas","keunggulan"], "difficulty": "easy" },
+        { "question": "Bagian yang ditetapkan dalam pembagian tertentu", "answers": ["kuota","quota","porsi"], "difficulty": "easy" },
+        { "question": "Jumlah minimum untuk pengambilan keputusan", "answers": ["kuorum","quorum","ambang"], "difficulty": "easy" },
+        { "question": "Ukuran atau besaran yang dapat dihitung", "answers": ["kuantitas","quantitas","jumlah"], "difficulty": "easy" },
+        { "question": "Ciri utama yang membedakan sesuatu", "answers": ["kualitas","qualitas","karakter"], "difficulty": "easy" },
+
+        { "question": "Penilaian sistematis terhadap mutu", "answers": ["kualitas","evaluasi","standar"], "difficulty": "medium" },
+        { "question": "Proporsi yang ditentukan dalam sistem", "answers": ["kuota","quota","alokasi"], "difficulty": "medium" },
+        { "question": "Syarat sah keputusan kolektif", "answers": ["kuorum","quorum","legitimasi"], "difficulty": "medium" },
+        { "question": "Pengukuran besaran secara terstruktur", "answers": ["kuantifikasi","quantifikasi","pengukuran"], "difficulty": "medium" },
+        { "question": "Inti nilai dari suatu sifat", "answers": ["kualitas","esensi","substansi"], "difficulty": "medium" },
+
+        { "question": "Kualitas sebagai keunggulan strategis jangka panjang", "answers": ["kualitas","excellence","nilai"], "difficulty": "hard" },
+        { "question": "Kuantifikasi presisi dalam sistem kompleks", "answers": ["kuantifikasi","quantifikasi","estimasi"], "difficulty": "hard" },
+        { "question": "Kuorum sebagai dasar legitimasi keputusan", "answers": ["kuorum","quorum","otoritas"], "difficulty": "hard" },
+        { "question": "Kualitas sebagai standar normatif utama", "answers": ["kualitas","standar","validitas"], "difficulty": "hard" },
+        { "question": "Pengelolaan kuota dalam sistem berskala besar", "answers": ["kuota","quota","distribusi"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "R",
+      "order": 18,
+      "questions": [
+        { "question": "Kemampuan bangkit kembali setelah kesulitan", "answers": ["resiliensi","ketahanan","dayatahan"], "difficulty": "easy" },
+        { "question": "Arah yang ditempuh untuk mencapai tujuan", "answers": ["rute","arah","rel"], "difficulty": "easy" },
+        { "question": "Pola pengulangan yang teratur", "answers": ["ritme","rutinitas","irama"], "difficulty": "easy" },
+        { "question": "Kemampuan menahan tekanan", "answers": ["resistensi","ketahanan","kekuatan"], "difficulty": "easy" },
+        { "question": "Keadaan pemulihan setelah aktivitas", "answers": ["recovery","rehat","relaksasi"], "difficulty": "easy" },
+
+        { "question": "Adaptasi positif setelah tekanan berat", "answers": ["resiliensi","ketangguhan","ketahanan"], "difficulty": "medium" },
+        { "question": "Penunjuk arah dalam pengambilan keputusan", "answers": ["referensi","rambu","acuan"], "difficulty": "medium" },
+        { "question": "Pengaturan waktu aktivitas yang stabil", "answers": ["ritme","rutin","irama"], "difficulty": "medium" },
+        { "question": "Kekuatan menghadapi beban berulang", "answers": ["resistensi","robustness","dayatahan"], "difficulty": "medium" },
+        { "question": "Proses pemulihan energi secara sadar", "answers": ["recovery","rehabilitasi","relaksasi"], "difficulty": "medium" },
+
+        { "question": "Resiliensi sistem dalam gangguan berkepanjangan", "answers": ["resiliensi","robustness","ketahanan"], "difficulty": "hard" },
+        { "question": "Arah strategis jangka panjang", "answers": ["roadmap","rencana","orientasi"], "difficulty": "hard" },
+        { "question": "Struktur ritme kerja berkelanjutan", "answers": ["ritme","keteraturan","sinkronisasi"], "difficulty": "hard" },
+        { "question": "Kemampuan maksimal menahan tekanan ekstrem", "answers": ["resistensi","ketangguhan","resiliensi"], "difficulty": "hard" },
+        { "question": "Pemulihan menyeluruh kapasitas sistem", "answers": ["recovery","rehabilitasi","restorasi"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "S",
+      "order": 19,
+      "questions": [
+        { "question": "Keadaan aman dan bebas dari ancaman", "answers": ["keamanan","stabilitas","perlindungan"], "difficulty": "easy" },
+        { "question": "Susunan elemen yang saling terkait", "answers": ["sistem","struktur","skema"], "difficulty": "easy" },
+        { "question": "Kemampuan tetap kokoh menghadapi tekanan", "answers": ["stabilitas","soliditas","keteguhan"], "difficulty": "easy" },
+        { "question": "Keadaan batin yang tenang", "answers": ["serenitas","sejuk","senyap"], "difficulty": "easy" },
+        { "question": "Rencana umum untuk mencapai tujuan", "answers": ["strategi","solusi","skema"], "difficulty": "easy" },
+
+        { "question": "Pengorganisasian unsur dalam sistem kompleks", "answers": ["sistem","struktur","organisasi"], "difficulty": "medium" },
+        { "question": "Kemampuan bertahan dalam jangka panjang", "answers": ["stabilitas","keberlanjutan","dayatahan"], "difficulty": "medium" },
+        { "question": "Perencanaan yang berorientasi masa depan", "answers": ["strategi","visi","proyeksi"], "difficulty": "medium" },
+        { "question": "Ketenangan emosional yang terjaga", "answers": ["serenitas","keseimbangan","ketenangan"], "difficulty": "medium" },
+        { "question": "Dasar rasa percaya untuk bertindak", "answers": ["keamanan","kepercayaan","jaminan"], "difficulty": "medium" },
+
+        { "question": "Stabilitas struktural sistem berskala besar", "answers": ["stabilitas","resiliensi","soliditas"], "difficulty": "hard" },
+        { "question": "Perancangan strategi jangka panjang", "answers": ["strategi","arsitektur","perencanaan"], "difficulty": "hard" },
+        { "question": "Koherensi menyeluruh dalam suatu sistem", "answers": ["sistem","integritas","konsistensi"], "difficulty": "hard" },
+        { "question": "Serenitas sebagai pengendalian diri sadar", "answers": ["serenitas","ekuilibrium","ketenangan"], "difficulty": "hard" },
+        { "question": "Keamanan sebagai fondasi kepercayaan kolektif", "answers": ["keamanan","stabilitas","reliabilitas"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "T",
+      "order": 20,
+      "questions": [
+        { "question": "Kemampuan bertahan menghadapi tekanan", "answers": ["tahan","tangguh","tegar"], "difficulty": "easy" },
+        { "question": "Keadaan pikiran yang tenang", "answers": ["tenang","tenteram","teduh"], "difficulty": "easy" },
+        { "question": "Arah yang dituju dalam perjalanan", "answers": ["tujuan","titik","track"], "difficulty": "easy" },
+        { "question": "Kegiatan terencana untuk mencapai hasil", "answers": ["tugas","tindakan","teknik"], "difficulty": "easy" },
+        { "question": "Cara khusus untuk melakukan sesuatu", "answers": ["teknik","taktik","trik"], "difficulty": "easy" },
+
+        { "question": "Kemampuan pulih setelah kesulitan", "answers": ["tangguh","tahan","tegar"], "difficulty": "medium" },
+        { "question": "Pendekatan terstruktur dalam bertindak", "answers": ["taktik","teknik","tata"], "difficulty": "medium" },
+        { "question": "Keadaan damai yang berkelanjutan", "answers": ["tenteram","tenang","teduh"], "difficulty": "medium" },
+        { "question": "Proses kerja yang diatur rapi", "answers": ["tata","tatalaksana","tatanan"], "difficulty": "medium" },
+        { "question": "Fokus pada sasaran akhir", "answers": ["tujuan","target","titik"], "difficulty": "medium" },
+
+        { "question": "Ketangguhan dalam sistem jangka panjang", "answers": ["tangguh","tahan","tegar"], "difficulty": "hard" },
+        { "question": "Perancangan langkah operasional kompleks", "answers": ["taktik","teknik","tatalaksana"], "difficulty": "hard" },
+        { "question": "Ketenangan sebagai kendali diri sadar", "answers": ["tenang","tenteram","teduh"], "difficulty": "hard" },
+        { "question": "Struktur pengaturan kerja menyeluruh", "answers": ["tatanan","tata","tatalaksana"], "difficulty": "hard" },
+        { "question": "Tujuan sebagai pusat perencanaan strategis", "answers": ["tujuan","target","titik"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "U",
+      "order": 21,
+      "questions": [
+        { "question": "Kemampuan memahami sesuatu dengan baik", "answers": ["understand","ulasan","uraian"], "difficulty": "easy" },
+        { "question": "Keadaan menyatu tanpa perpecahan", "answers": ["utuh","unity","unison"], "difficulty": "easy" },
+        { "question": "Kemampuan berdiri sendiri", "answers": ["unik","unggul","utuh"], "difficulty": "easy" },
+        { "question": "Arah pandang terhadap suatu hal", "answers": ["ulasan","uraian","umpanbalik"], "difficulty": "easy" },
+        { "question": "Nilai lebih dibanding yang lain", "answers": ["unggul","utama","unik"], "difficulty": "easy" },
+
+        { "question": "Pemahaman menyeluruh terhadap konteks", "answers": ["uraian","ulasan","understand"], "difficulty": "medium" },
+        { "question": "Kesatuan elemen dalam sistem", "answers": ["utuh","unity","unison"], "difficulty": "medium" },
+        { "question": "Keunggulan yang diakui secara luas", "answers": ["unggul","utama","unik"], "difficulty": "medium" },
+        { "question": "Pandangan evaluatif terhadap hasil", "answers": ["ulasan","uraian","umpanbalik"], "difficulty": "medium" },
+        { "question": "Identitas khas yang membedakan", "answers": ["unik","unggul","utama"], "difficulty": "medium" },
+
+        { "question": "Kesatuan struktural dalam sistem kompleks", "answers": ["utuh","unity","unison"], "difficulty": "hard" },
+        { "question": "Pemahaman mendalam sebagai dasar keputusan", "answers": ["understand","uraian","ulasan"], "difficulty": "hard" },
+        { "question": "Keunggulan berkelanjutan dalam persaingan", "answers": ["unggul","utama","unik"], "difficulty": "hard" },
+        { "question": "Ulasan kritis terhadap proses panjang", "answers": ["ulasan","uraian","umpanbalik"], "difficulty": "hard" },
+        { "question": "Keutuhan sebagai prinsip integrasi sistem", "answers": ["utuh","unity","unison"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "V",
+      "order": 22,
+      "questions": [
+        { "question": "Nilai yang dianggap penting", "answers": ["value","visi","virtue"], "difficulty": "easy" },
+        { "question": "Pandangan jauh ke depan", "answers": ["visi","view","visual"], "difficulty": "easy" },
+        { "question": "Keadaan penuh energi hidup", "answers": ["vitalitas","vigor","vibe"], "difficulty": "easy" },
+        { "question": "Kualitas moral yang baik", "answers": ["virtue","value","validitas"], "difficulty": "easy" },
+        { "question": "Keabsahan suatu hal", "answers": ["validitas","verifikasi","value"], "difficulty": "easy" },
+
+        { "question": "Nilai strategis dalam pengambilan keputusan", "answers": ["value","visi","virtue"], "difficulty": "medium" },
+        { "question": "Visi sebagai arah tindakan kolektif", "answers": ["visi","view","visualisasi"], "difficulty": "medium" },
+        { "question": "Energi berkelanjutan untuk beraktivitas", "answers": ["vitalitas","vigor","vibe"], "difficulty": "medium" },
+        { "question": "Kebajikan sebagai dasar perilaku", "answers": ["virtue","value","validitas"], "difficulty": "medium" },
+        { "question": "Pengakuan sah terhadap kebenaran", "answers": ["validitas","verifikasi","value"], "difficulty": "medium" },
+
+        { "question": "Value sebagai keunggulan kompetitif jangka panjang", "answers": ["value","virtue","visi"], "difficulty": "hard" },
+        { "question": "Visi strategis dalam sistem kompleks", "answers": ["visi","visualisasi","view"], "difficulty": "hard" },
+        { "question": "Vitalitas sebagai fondasi kinerja berkelanjutan", "answers": ["vitalitas","vigor","vibe"], "difficulty": "hard" },
+        { "question": "Virtue sebagai prinsip etika universal", "answers": ["virtue","value","validitas"], "difficulty": "hard" },
+        { "question": "Validitas sebagai dasar legitimasi keputusan", "answers": ["validitas","verifikasi","value"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "W",
+      "order": 23,
+      "questions": [
+        { "question": "Keadaan sejahtera secara fisik dan mental", "answers": ["wellbeing","welfare","wholeness"], "difficulty": "easy" },
+        { "question": "Pandangan menyeluruh tentang kehidupan", "answers": ["worldview","wawasan","wholeness"], "difficulty": "easy" },
+        { "question": "Kondisi perlindungan sosial bagi masyarakat", "answers": ["welfare","wellbeing","jaminan"], "difficulty": "easy" },
+        { "question": "Keadaan utuh tanpa terpecah", "answers": ["wholeness","utuhan","kesatuan"], "difficulty": "easy" },
+        { "question": "Sudut pandang dalam menilai realitas", "answers": ["worldview","wawasan","worldview"], "difficulty": "easy" },
+
+        { "question": "Kesejahteraan berkelanjutan individu", "answers": ["wellbeing","wholeness","keseimbangan"], "difficulty": "medium" },
+        { "question": "Kerangka berpikir yang membentuk nilai", "answers": ["worldview","wawasan","paradigma"], "difficulty": "medium" },
+        { "question": "Integritas sebagai kondisi menyeluruh", "answers": ["wholeness","keutuhan","koherensi"], "difficulty": "medium" },
+        { "question": "Sistem jaminan untuk kesejahteraan umum", "answers": ["welfare","perlindungan","jaminan"], "difficulty": "medium" },
+        { "question": "Pemahaman global atas suatu konteks", "answers": ["worldview","panorama","wawasan"], "difficulty": "medium" },
+
+        { "question": "Worldview sebagai struktur kognitif mendalam", "answers": ["worldview","paradigma","wawasan"], "difficulty": "hard" },
+        { "question": "Wellbeing sebagai tujuan pembangunan berkelanjutan", "answers": ["wellbeing","welfare","kesejahteraan"], "difficulty": "hard" },
+        { "question": "Wholeness sebagai prinsip integrasi sistem", "answers": ["wholeness","keutuhan","integritas"], "difficulty": "hard" },
+        { "question": "Welfare sebagai konstruksi kebijakan sosial", "answers": ["welfare","jaminan","perlindungan"], "difficulty": "hard" },
+        { "question": "Pandangan holistik tentang manusia", "answers": ["worldview","wholeness","paradigma"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "X",
+      "order": 24,
+      "questions": [
+        { "question": "Sikap ramah terhadap orang asing", "answers": ["xenofilia","xenialitas","xenodochi"], "difficulty": "easy" },
+        { "question": "Rasa takut atau benci pada orang asing", "answers": ["xenofobia","xenofobisme","xenofobik"], "difficulty": "easy" },
+        { "question": "Gas mulia yang digunakan dalam teknologi", "answers": ["xenon","xenogas","xenium"], "difficulty": "easy" },
+        { "question": "Alat musik dengan bilah bernada", "answers": ["xylophone","xilofon","xylophoni"], "difficulty": "easy" },
+        { "question": "Kemampuan hidup di lingkungan kering", "answers": ["xerofit","xerofilia","xerik"], "difficulty": "easy" },
+
+        { "question": "Sikap keterbukaan lintas budaya", "answers": ["xenofilia","xenialitas","xenodochi"], "difficulty": "medium" },
+        { "question": "Penolakan ideologis terhadap pendatang", "answers": ["xenofobia","xenofobisme","xenofobik"], "difficulty": "medium" },
+        { "question": "Unsur kimia untuk pencahayaan khusus", "answers": ["xenon","xenogas","xenium"], "difficulty": "medium" },
+        { "question": "Produksi bunyi dari xilofon", "answers": ["xylophoni","xylophone","xilofon"], "difficulty": "medium" },
+        { "question": "Adaptasi biologis pada kondisi sangat kering", "answers": ["xerofit","xerofilia","xerik"], "difficulty": "medium" },
+
+        { "question": "Xenofilia sebagai nilai interkultural", "answers": ["xenofilia","xenialitas","xenodochi"], "difficulty": "hard" },
+        { "question": "Xenofobia sebagai fenomena sosial kompleks", "answers": ["xenofobia","xenofobisme","xenofobik"], "difficulty": "hard" },
+        { "question": "Pemanfaatan xenon dalam sains lanjut", "answers": ["xenon","xenogas","xenium"], "difficulty": "hard" },
+        { "question": "Keahlian profesional memainkan xilofon", "answers": ["xylophoni","xylophone","xilofon"], "difficulty": "hard" },
+        { "question": "Adaptasi struktural organisme di iklim kering", "answers": ["xerofit","xerofilia","xerik"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Y",
+      "order": 25,
+      "questions": [
+        { "question": "Latihan fisik dan mental dari India", "answers": ["yoga","yogisme","yogaterapi"], "difficulty": "easy" },
+        { "question": "Kapal pesiar pribadi", "answers": ["yacht","yawl","yole"], "difficulty": "easy" },
+        { "question": "Mata uang Jepang", "answers": ["yen","yuan","yento"], "difficulty": "easy" },
+        { "question": "Huruf dari alfabet Yunani", "answers": ["ypsilon","yod","yot"], "difficulty": "easy" },
+        { "question": "Postur tubuh dalam yoga", "answers": ["yogasana","yogapostur","yogapose"], "difficulty": "easy" },
+
+        { "question": "Praktik keseimbangan tubuh dan pikiran", "answers": ["yoga","yogaterapi","yogisme"], "difficulty": "medium" },
+        { "question": "Jenis perahu layar dua tiang", "answers": ["yawl","yacht","yole"], "difficulty": "medium" },
+        { "question": "Mata uang Asia Timur", "answers": ["yen","yuan","yento"], "difficulty": "medium" },
+        { "question": "Simbol fonetik klasik", "answers": ["ypsilon","yod","yot"], "difficulty": "medium" },
+        { "question": "Sistem praktik yoga terstruktur", "answers": ["yogisme","yogaterapi","yogasana"], "difficulty": "medium" },
+
+        { "question": "Sistem pengembangan diri berbasis yoga", "answers": ["yogisme","yoga","yogaterapi"], "difficulty": "hard" },
+        { "question": "Bidang pelayaran kapal pesiar", "answers": ["yachtisme","yacht","yawl"], "difficulty": "hard" },
+        { "question": "Representasi historis bunyi Yunani", "answers": ["ypsilon","yod","yot"], "difficulty": "hard" },
+        { "question": "Pendekatan terapeutik berbasis yoga", "answers": ["yogaterapi","yogisme","yoga"], "difficulty": "hard" },
+        { "question": "Sistem moneter utama di Jepang", "answers": ["yen","yuan","yento"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "Z",
+      "order": 26,
+      "questions": [
+        { "question": "Wilayah atau area dengan batas tertentu", "answers": ["zona","zaman","zat"], "difficulty": "easy" },
+        { "question": "Hal yang berkaitan dengan keagamaan atau spiritual", "answers": ["zakat","ziarah","zikir"], "difficulty": "easy" },
+        { "question": "Makhluk hidup atau kajian tentangnya", "answers": ["zebra","zoologi","zooplankton"], "difficulty": "medium" },
+        { "question": "Pola atau bentuk yang tidak lurus", "answers": ["zigzag","zodiak","zen"], "difficulty": "medium" },
+        { "question": "Istilah atau konsep budaya populer dan modern", "answers": ["zombie","zaitun","zeni"], "difficulty": "hard" }
+      ]
+    }
+  ]
+}

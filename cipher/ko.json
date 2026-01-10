@@ -1,0 +1,311 @@
+{
+  "lang": "ko",
+  "letters": [
+    {
+      "letter": "ㄱ",
+      "order": 1,
+      "questions": [
+        { "question": "사람이 타고 이동하는 교통수단", "answers": ["기차","경차","고속버스"], "difficulty": "easy" },
+        { "question": "먹거나 마실 수 있는 물질", "answers": ["과일","국물","간식"], "difficulty": "easy" },
+        { "question": "사람의 성격이나 태도", "answers": ["근면","겸손","관대"], "difficulty": "easy" },
+        { "question": "일상에서 사용하는 물건", "answers": ["가방","거울","그릇"], "difficulty": "easy" },
+        { "question": "자연에서 볼 수 있는 지형", "answers": ["강","골짜기","구릉"], "difficulty": "easy" },
+        { "question": "조직이나 집단에서의 공식적인 역할", "answers": ["간부","국장","과장"], "difficulty": "medium" },
+        { "question": "지식이나 정보를 얻는 행위", "answers": ["검색","강독","고찰"], "difficulty": "medium" },
+        { "question": "감정이나 느낌의 상태", "answers": ["기쁨","그리움","고독"], "difficulty": "medium" },
+        { "question": "사물을 평가하거나 판단하는 기준", "answers": ["기준","관점","견해"], "difficulty": "medium" },
+        { "question": "사회에서 이루어지는 공식적 절차", "answers": ["검증","공청","결의"], "difficulty": "medium" },
+        { "question": "추상적인 사고나 개념의 틀", "answers": ["구조","개념","관념"], "difficulty": "hard" },
+        { "question": "장기간에 걸친 변화의 방향성", "answers": ["경향","궤적","기조"], "difficulty": "hard" },
+        { "question": "개인의 능력이나 잠재적 힘", "answers": ["기량","기개","경륜"], "difficulty": "hard" },
+        { "question": "복잡한 문제를 다루는 사고 과정", "answers": ["고찰","궁리","구상"], "difficulty": "hard" },
+        { "question": "사회적 관계에서의 상호 작용 방식", "answers": ["교류","결속","공조"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㄴ",
+      "order": 2,
+      "questions": [
+        { "question": "사람이 살아가는 기본적인 공간", "answers": ["내집","농가","노숙소"], "difficulty": "easy" },
+        { "question": "자연에서 볼 수 있는 현상", "answers": ["눈","낙엽","노을"], "difficulty": "easy" },
+        { "question": "사람의 성향이나 태도", "answers": ["낙관","냉정","느긋"], "difficulty": "easy" },
+        { "question": "일상에서 경험하는 감각", "answers": ["냄새","느낌","눈빛"], "difficulty": "easy" },
+        { "question": "사람 사이의 관계 상태", "answers": ["내밀","남남","노골"], "difficulty": "easy" },
+        { "question": "의사소통에서의 부정적 반응", "answers": ["난색","냉소","노여움"], "difficulty": "medium" },
+        { "question": "사물을 인식하거나 이해하는 과정", "answers": ["납득","내면화","논증"], "difficulty": "medium" },
+        { "question": "조직이나 사회의 운영 방식", "answers": ["내규","노선","능률"], "difficulty": "medium" },
+        { "question": "사람의 정신적 상태", "answers": ["나태","노심초사","내적갈등"], "difficulty": "medium" },
+        { "question": "행동이나 선택의 결과", "answers": ["낭패","논란","난관"], "difficulty": "medium" },
+        { "question": "추상적인 가치나 이상", "answers": ["논리","내재성","규범"], "difficulty": "hard" },
+        { "question": "지속적인 상태나 조건", "answers": ["내구성","내성","내구력"], "difficulty": "hard" },
+        { "question": "복잡한 사고의 전개 과정", "answers": ["논리전개","논증과정","논법"], "difficulty": "hard" },
+        { "question": "사회적 판단에서의 기준점", "answers": ["눈높이","난이도","내적기준"], "difficulty": "hard" },
+        { "question": "개인의 심층적 동기", "answers": ["내면욕구","내적충동","내적동인"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㄷ",
+      "order": 3,
+      "questions": [
+        { "question": "사람이 이동하는 기본적인 행위", "answers": ["도보","달리기","등산"], "difficulty": "easy" },
+        { "question": "일상에서 사용하는 도구", "answers": ["도구","드라이버","돋보기"], "difficulty": "easy" },
+        { "question": "사람의 감정 상태", "answers": ["두려움","당황","든든함"], "difficulty": "easy" },
+        { "question": "자연 환경의 요소", "answers": ["들판","동굴","도랑"], "difficulty": "easy" },
+        { "question": "사람의 신체 일부", "answers": ["등","다리","두피"], "difficulty": "easy" },
+        { "question": "문제 해결을 위한 접근 방식", "answers": ["대안","대책","대응"], "difficulty": "medium" },
+        { "question": "사회적 관계에서의 행위", "answers": ["대화","동의","동조"], "difficulty": "medium" },
+        { "question": "사물이나 현상의 구분", "answers": ["대조","대비","대립"], "difficulty": "medium" },
+        { "question": "시간의 흐름에 따른 변화", "answers": ["도약","둔화","등락"], "difficulty": "medium" },
+        { "question": "조직 내에서의 의사결정 과정", "answers": ["독단","도출","동결"], "difficulty": "medium" },
+        { "question": "추상적인 사고의 방향", "answers": ["도식","도해","도상"], "difficulty": "hard" },
+        { "question": "행동의 근본적인 원인", "answers": ["동기","동인","동력"], "difficulty": "hard" },
+        { "question": "복잡한 체계의 구성 방식", "answers": ["다층성","동시성","다원성"], "difficulty": "hard" },
+        { "question": "사회적 현상의 전개 양상", "answers": ["동학","도미노효과","동조현상"], "difficulty": "hard" },
+        { "question": "개인의 판단을 이끄는 사고 틀", "answers": ["도그마","독선","독단주의"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㄹ",
+      "order": 4,
+      "questions": [
+        { "question": "사람이 거주하거나 머무는 공간", "answers": ["레지던스","룸","로지"], "difficulty": "easy" },
+        { "question": "빛이나 소리가 퍼지는 현상", "answers": ["반사","반향","반짝임"], "difficulty": "easy" },
+        { "question": "사람의 감정이나 태도", "answers": ["냉랭","느긋","로맨틱"], "difficulty": "easy" },
+        { "question": "일상에서 사용하는 물건", "answers": ["라디오","램프","렌즈"], "difficulty": "easy" },
+        { "question": "움직임이나 변화의 정도", "answers": ["레벨","리듬","롤링"], "difficulty": "easy" },
+        { "question": "사고나 행동의 반복", "answers": ["루틴","리사이클","리턴"], "difficulty": "medium" },
+        { "question": "의사소통이나 표현 방식", "answers": ["리뷰","리포트","리플라이"], "difficulty": "medium" },
+        { "question": "사물이나 현상의 배열 상태", "answers": ["라인","레이어","리스트"], "difficulty": "medium" },
+        { "question": "행동을 이끄는 내부 상태", "answers": ["로열티","리스크","리액션"], "difficulty": "medium" },
+        { "question": "시간 흐름에 따른 과정", "answers": ["로드맵","로테이션","리셋"], "difficulty": "medium" },
+        { "question": "복합적인 구조나 체계", "answers": ["레이아웃","로직","루프"], "difficulty": "hard" },
+        { "question": "결정이나 판단의 기준", "answers": ["레퍼런스","룰","룰셋"], "difficulty": "hard" },
+        { "question": "변화에 대한 대응 방식", "answers": ["리커버리","리빌드","리팩터"], "difficulty": "hard" },
+        { "question": "지속성을 가진 상태", "answers": ["락인","러닝커브","리텐션"], "difficulty": "hard" },
+        { "question": "추상적인 사고의 틀", "answers": ["로직체계","레짐","룰베이스"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㅁ",
+      "order": 5,
+      "questions": [
+        { "question": "사람이 섭취하는 음식", "answers": ["밥","면","무스"], "difficulty": "easy" },
+        { "question": "사람의 감정 상태", "answers": ["만족","무기력","몰입"], "difficulty": "easy" },
+        { "question": "일상에서 사용하는 물건", "answers": ["마우스","모니터","머그"], "difficulty": "easy" },
+        { "question": "자연에서 볼 수 있는 요소", "answers": ["물","모래","목초"], "difficulty": "easy" },
+        { "question": "사람의 신체 일부", "answers": ["머리","목","무릎"], "difficulty": "easy" },
+        { "question": "사고나 행동의 방식", "answers": ["모방","모색","매개"], "difficulty": "medium" },
+        { "question": "조직이나 집단의 상태", "answers": ["모임","모듈","망"], "difficulty": "medium" },
+        { "question": "정보를 다루는 행위", "answers": ["매핑","모니터링","마이닝"], "difficulty": "medium" },
+        { "question": "문제 해결을 위한 접근", "answers": ["모델링","매뉴얼","메커니즘"], "difficulty": "medium" },
+        { "question": "시간에 따른 변화", "answers": ["무상","만료","모멘트"], "difficulty": "medium" },
+        { "question": "복잡한 개념의 구성", "answers": ["메타구조","모듈성","멀티레이어"], "difficulty": "hard" },
+        { "question": "판단을 이끄는 사고 체계", "answers": ["모델","마인드셋","메타인지"], "difficulty": "hard" },
+        { "question": "지속적인 행동 패턴", "answers": ["메커니즘","매커니즘","모션패턴"], "difficulty": "hard" },
+        { "question": "사회적 상호작용의 방식", "answers": ["매개작용","맞물림","모순관계"], "difficulty": "hard" },
+        { "question": "추상적 가치의 표현", "answers": ["명분","목적성","미덕"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㅂ",
+      "order": 6,
+      "questions": [
+        { "question": "사람이 이동하는 행위", "answers": ["보행","비행","배회"], "difficulty": "easy" },
+        { "question": "일상에서 사용하는 물건", "answers": ["병","버튼","바구니"], "difficulty": "easy" },
+        { "question": "사람의 감정이나 태도", "answers": ["불안","분노","밝음"], "difficulty": "easy" },
+        { "question": "자연에서 볼 수 있는 요소", "answers": ["바람","비","불"], "difficulty": "easy" },
+        { "question": "사람의 신체 일부", "answers": ["발","배","볼"], "difficulty": "easy" },
+        { "question": "문제 해결을 위한 선택", "answers": ["방안","방책","분기"], "difficulty": "medium" },
+        { "question": "정보를 전달하는 행위", "answers": ["보고","브리핑","배포"], "difficulty": "medium" },
+        { "question": "사물이나 현상의 구분", "answers": ["분류","배치","분해"], "difficulty": "medium" },
+        { "question": "시간 흐름에 따른 상태", "answers": ["변동","보류","붕괴"], "difficulty": "medium" },
+        { "question": "조직의 운영 방식", "answers": ["분업","분산","병합"], "difficulty": "medium" },
+        { "question": "복합적인 사고 과정", "answers": ["분석","비판","변증"], "difficulty": "hard" },
+        { "question": "행동의 근본 원인", "answers": ["본능","배경","발단"], "difficulty": "hard" },
+        { "question": "지속성을 가진 구조", "answers": ["베이스","백본","버팀"], "difficulty": "hard" },
+        { "question": "사회적 관계의 역학", "answers": ["불균형","분열","봉합"], "difficulty": "hard" },
+        { "question": "추상적 기준이나 원칙", "answers": ["법칙","방침","베이스라인"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㅅ",
+      "order": 7,
+      "questions": [
+        { "question": "사람이 살아가며 느끼는 긍정적인 감정", "answers": ["사랑","성취","설렘"], "difficulty": "easy" },
+        { "question": "일상생활에서 사용하는 물건", "answers": ["수건","시계","서랍"], "difficulty": "easy" },
+        { "question": "자연환경에서 관찰할 수 있는 현상", "answers": ["서리","소나기","산들바람"], "difficulty": "easy" },
+        { "question": "사람의 신체와 관련된 요소", "answers": ["손","심장","속눈썹"], "difficulty": "easy" },
+        { "question": "사람이 이동하거나 위치를 바꾸는 행위", "answers": ["산책","수영","승차"], "difficulty": "easy" },
+        { "question": "의사소통이나 표현과 관련된 행위", "answers": ["설명","설득","선언"], "difficulty": "easy" },
+        { "question": "사회나 조직에서의 공식적인 활동", "answers": ["선거","승인","심사"], "difficulty": "easy" },
+        { "question": "사람의 태도나 성향을 나타내는 말", "answers": ["성실","신중","소탈"], "difficulty": "easy" },
+        { "question": "시간의 흐름에 따라 나타나는 상태", "answers": ["성장","쇠퇴","순환"], "difficulty": "easy" },
+        { "question": "학습이나 지식과 관련된 활동", "answers": ["수업","숙고","습득"], "difficulty": "easy" },
+
+        { "question": "문제 해결을 위해 선택하는 방향", "answers": ["수단","선택","설계"], "difficulty": "medium" },
+        { "question": "집단이나 조직의 내부 구조", "answers": ["서열","소속","시스템"], "difficulty": "medium" },
+        { "question": "사물이나 현상을 구별하는 행위", "answers": ["선별","식별","세분"], "difficulty": "medium" },
+        { "question": "사람의 심리적 상태", "answers": ["스트레스","상실감","소외"], "difficulty": "medium" },
+        { "question": "사회적 상호작용의 방식", "answers": ["소통","설화","상호작용"], "difficulty": "medium" },
+        { "question": "정보를 다루거나 처리하는 과정", "answers": ["수집","선별","정리"], "difficulty": "medium" },
+        { "question": "규칙이나 기준에 따른 판단", "answers": ["심의","승인","선고"], "difficulty": "medium" },
+        { "question": "어떤 행동이 미치는 결과", "answers": ["성과","손실","수익"], "difficulty": "medium" },
+        { "question": "사람이 상황에 대응하는 방식", "answers": ["순응","저항","수용"], "difficulty": "medium" },
+        { "question": "일이나 계획의 진행 상태", "answers": ["순조","지연","중단"], "difficulty": "medium" },
+
+        { "question": "복잡한 현상을 이해하기 위한 사고 틀", "answers": ["시각","사고방식","세계관"], "difficulty": "hard" },
+        { "question": "사회 전반에 영향을 주는 추세", "answers": ["사조","성향","시류"], "difficulty": "hard" },
+        { "question": "행동을 이끄는 내면의 힘", "answers": ["신념","사명감","소명의식"], "difficulty": "hard" },
+        { "question": "체계가 유지되기 위한 조건", "answers": ["안정성","지속성","신뢰성"], "difficulty": "hard" },
+        { "question": "개인의 판단에 작용하는 기준", "answers": ["선입견","신조","소신"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㅇ",
+      "order": 8,
+      "questions": [
+        { "question": "사람이 느끼는 긍정적인 감정 상태", "answers": ["안도","애정","열정"], "difficulty": "easy" },
+        { "question": "일상생활에서 사용하는 물건", "answers": ["의자","안경","우산"], "difficulty": "easy" },
+        { "question": "자연에서 관찰되는 요소", "answers": ["안개","얼음","이슬"], "difficulty": "easy" },
+        { "question": "사람의 신체 일부", "answers": ["어깨","입술","이마"], "difficulty": "easy" },
+        { "question": "사람의 행동이나 태도", "answers": ["예절","용기","인내"], "difficulty": "easy" },
+        { "question": "의사소통과 관련된 행위", "answers": ["의논","요청","응답"], "difficulty": "medium" },
+        { "question": "사회적 관계에서의 상태", "answers": ["연대","유대","의존"], "difficulty": "medium" },
+        { "question": "정보를 얻거나 파악하는 과정", "answers": ["이해","인식","열람"], "difficulty": "medium" },
+        { "question": "조직이나 집단의 운영 방식", "answers": ["운영","위임","이관"], "difficulty": "medium" },
+        { "question": "시간 흐름에 따른 변화", "answers": ["이동","완화","악화"], "difficulty": "medium" },
+        { "question": "추상적인 사고의 틀", "answers": ["이념","원칙","이론"], "difficulty": "hard" },
+        { "question": "행동을 결정짓는 내적 요인", "answers": ["의지","욕망","의도"], "difficulty": "hard" },
+        { "question": "사회 전반에 작용하는 힘", "answers": ["압력","영향","여론"], "difficulty": "hard" },
+        { "question": "지속적인 상태를 가능하게 하는 조건", "answers": ["안정성","일관성","유지력"], "difficulty": "hard" },
+        { "question": "판단이나 선택의 기준", "answers": ["우선순위","이익성","윤리성"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㅈ",
+      "order": 9,
+      "questions": [
+        { "question": "사람이 느끼는 감정 상태", "answers": ["즐거움","좌절","질투"], "difficulty": "easy" },
+        { "question": "일상에서 사용하는 물건", "answers": ["지갑","젓가락","전등"], "difficulty": "easy" },
+        { "question": "자연에서 볼 수 있는 환경", "answers": ["정원","지형","지류"], "difficulty": "easy" },
+        { "question": "사람의 신체와 관련된 요소", "answers": ["종아리","정수리","잇몸"], "difficulty": "easy" },
+        { "question": "사람의 성향이나 태도", "answers": ["정직","진취","절제"], "difficulty": "easy" },
+        { "question": "의사소통에서 이루어지는 행위", "answers": ["질문","조언","주장"], "difficulty": "medium" },
+        { "question": "사회적 활동이나 절차", "answers": ["절차","조정","중재"], "difficulty": "medium" },
+        { "question": "정보를 다루는 방식", "answers": ["정리","조사","집계"], "difficulty": "medium" },
+        { "question": "시간의 흐름에 따른 상태", "answers": ["진전","정체","지연"], "difficulty": "medium" },
+        { "question": "조직 내에서의 역할", "answers": ["직책","직무","책임"], "difficulty": "medium" },
+        { "question": "사고를 구성하는 추상적 요소", "answers": ["전제","조건","전략"], "difficulty": "hard" },
+        { "question": "행동을 유도하는 원인", "answers": ["자극","정당성","절박함"], "difficulty": "hard" },
+        { "question": "사회 현상의 전개 양상", "answers": ["집중화","정렬","재편"], "difficulty": "hard" },
+        { "question": "판단 과정에서의 기준점", "answers": ["정확성","정합성","정당성"], "difficulty": "hard" },
+        { "question": "장기적인 방향이나 계획", "answers": ["지향","전망","전환"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㅊ",
+      "order": 10,
+      "questions": [
+        { "question": "사람이 느끼는 감정 상태", "answers": ["차분","초조","충족"], "difficulty": "easy" },
+        { "question": "일상생활에서 사용하는 물건", "answers": ["책상","침대","창문"], "difficulty": "easy" },
+        { "question": "자연에서 관찰되는 요소", "answers": ["천둥","찬바람","초원"], "difficulty": "easy" },
+        { "question": "사람의 신체 일부", "answers": ["치아","척추","창자"], "difficulty": "easy" },
+        { "question": "사람의 태도나 성향", "answers": ["침착","친절","청렴"], "difficulty": "easy" },
+        { "question": "의사소통과 관련된 행위", "answers": ["청취","첨언","촉구"], "difficulty": "medium" },
+        { "question": "사회적 관계의 형태", "answers": ["친교","협력","충돌"], "difficulty": "medium" },
+        { "question": "정보를 다루는 과정", "answers": ["처리","추적","취합"], "difficulty": "medium" },
+        { "question": "문제 해결을 위한 방식", "answers": ["처방","조치","차단"], "difficulty": "medium" },
+        { "question": "시간에 따른 변화 양상", "answers": ["축적","침체","촉진"], "difficulty": "medium" },
+        { "question": "추상적인 사고 구조", "answers": ["체계","체제","철학"], "difficulty": "hard" },
+        { "question": "행동의 근본적 원인", "answers": ["충동","책무","책임감"], "difficulty": "hard" },
+        { "question": "사회 전반에 작용하는 조건", "answers": ["환경","체제력","총체성"], "difficulty": "hard" },
+        { "question": "지속을 가능하게 하는 요소", "answers": ["충실성","체력","참여도"], "difficulty": "hard" },
+        { "question": "판단과 선택에 작용하는 기준", "answers": ["청렴성","타당성","철저함"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㅋ",
+      "order": 11,
+      "questions": [
+        { "question": "일상에서 사용하는 도구나 물건", "answers": ["칼","컵","키보드"], "difficulty": "easy" },
+        { "question": "사람의 성향이나 태도", "answers": ["쾌활","쿨함","깔끔"], "difficulty": "easy" },
+        { "question": "사람의 감정 상태", "answers": ["쾌감","쾌적","쾌락"], "difficulty": "easy" },
+        { "question": "행동이나 움직임의 방식", "answers": ["킥","클릭","캐치"], "difficulty": "easy" },
+        { "question": "사람이 수행하는 활동", "answers": ["캠핑","코딩","쿠킹"], "difficulty": "easy" },
+        { "question": "정보나 사물을 구분하는 행위", "answers": ["카테고리화","클래스화","코딩화"], "difficulty": "medium" },
+        { "question": "조직이나 구조의 구성 요소", "answers": ["코어","컴포넌트","컨테이너"], "difficulty": "medium" },
+        { "question": "의사결정에서 고려되는 요소", "answers": ["컨텍스트","키워드","크리테리온"], "difficulty": "medium" },
+        { "question": "변화나 발전의 계기", "answers": ["카탈리스트","킥오프","트리거"], "difficulty": "medium" },
+        { "question": "상태나 수준의 구분", "answers": ["클래스","카테고리","클러스터"], "difficulty": "medium" },
+        { "question": "복잡한 사고의 구조적 단위", "answers": ["컨셉","코어아이디어","키스톤"], "difficulty": "hard" },
+        { "question": "체계가 작동하는 핵심 원리", "answers": ["커널","코어로직","컨트롤"], "difficulty": "hard" },
+        { "question": "판단에 영향을 주는 추상 요소", "answers": ["컨빅션","컨센서스","크리티컬리티"], "difficulty": "hard" },
+        { "question": "지속적 성과를 가능하게 하는 요소", "answers": ["컨시스턴시","컨티뉴이티","커미트먼트"], "difficulty": "hard" },
+        { "question": "사고의 전환을 유도하는 계기", "answers": ["카운터","컨트라스트","크로스오버"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㅌ",
+      "order": 12,
+      "questions": [
+        { "question": "일상에서 사용하는 물건", "answers": ["테이블","타월","텀블러"], "difficulty": "easy" },
+        { "question": "사람의 감정이나 상태", "answers": ["편안","탄력","통쾌"], "difficulty": "easy" },
+        { "question": "사람이 수행하는 활동", "answers": ["트레이닝","테스트","토론"], "difficulty": "easy" },
+        { "question": "자연에서 관찰되는 요소", "answers": ["태풍","토양","툰드라"], "difficulty": "easy" },
+        { "question": "사람의 태도나 성향", "answers": ["투명","탄탄","털털"], "difficulty": "easy" },
+        { "question": "정보를 다루는 과정", "answers": ["태깅","트래킹","트레이싱"], "difficulty": "medium" },
+        { "question": "문제 해결을 위한 방식", "answers": ["테크닉","툴링","튜닝"], "difficulty": "medium" },
+        { "question": "조직이나 시스템의 구성", "answers": ["토폴로지","트리","타이밍"], "difficulty": "medium" },
+        { "question": "시간 흐름에 따른 변화", "answers": ["턴오버","트랜지션","트렌드"], "difficulty": "medium" },
+        { "question": "의사결정 과정의 요소", "answers": ["트레이드오프","타당성","투명성"], "difficulty": "medium" },
+        { "question": "추상적 사고의 구조", "answers": ["틀","테제","토대"], "difficulty": "hard" },
+        { "question": "행동을 유도하는 내적 요소", "answers": ["동기","추동","탄력성"], "difficulty": "hard" },
+        { "question": "체계가 유지되는 조건", "answers": ["튼튼함","탄성","통합성"], "difficulty": "hard" },
+        { "question": "사회적 상호작용의 방식", "answers": ["타협","통섭","투쟁"], "difficulty": "hard" },
+        { "question": "판단의 기준이 되는 요소", "answers": ["타당","투명도","통일성"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㅍ",
+      "order": 13,
+      "questions": [
+        { "question": "일상에서 사용하는 물건", "answers": ["펜","폰","포크"], "difficulty": "easy" },
+        { "question": "사람의 감정이나 상태", "answers": ["평온","피로","포만"], "difficulty": "easy" },
+        { "question": "사람이 수행하는 활동", "answers": ["프린트","편집","포장"], "difficulty": "easy" },
+        { "question": "자연이나 환경의 요소", "answers": ["파도","폭포","평야"], "difficulty": "easy" },
+        { "question": "사람의 태도나 성향", "answers": ["포용","평정","패기"], "difficulty": "easy" },
+        { "question": "정보를 처리하는 과정", "answers": ["파싱","프로세싱","필터링"], "difficulty": "medium" },
+        { "question": "문제 해결을 위한 접근", "answers": ["프레임","패턴","포맷"], "difficulty": "medium" },
+        { "question": "조직이나 구조의 상태", "answers": ["포지션","플로우","페이즈"], "difficulty": "medium" },
+        { "question": "시간에 따른 변화", "answers": ["변화","평준화","폭증"], "difficulty": "medium" },
+        { "question": "의사결정에 작용하는 요소", "answers": ["프라이어리티","포인트","페널티"], "difficulty": "medium" },
+        { "question": "추상적 사고의 틀", "answers": ["패러다임","프레임워크","플랫폼"], "difficulty": "hard" },
+        { "question": "행동을 이끄는 원천", "answers": ["포부","필연성","파급력"], "difficulty": "hard" },
+        { "question": "체계적 안정성을 이루는 요소", "answers": ["평형","피드백","포텐셜"], "difficulty": "hard" },
+        { "question": "사회 현상의 전개 방식", "answers": ["편중","파편화","포화"], "difficulty": "hard" },
+        { "question": "판단이나 선택의 기준", "answers": ["판단력","평가성","표준성"], "difficulty": "hard" }
+      ]
+    },
+    {
+      "letter": "ㅎ",
+      "order": 14,
+      "questions": [
+        { "question": "사람이 느끼는 긍정적인 감정 상태", "answers": ["행복","희열","흡족"], "difficulty": "easy" },
+        { "question": "일상에서 사용하는 물건", "answers": ["휴대폰","헤드폰","호루라기"], "difficulty": "easy" },
+        { "question": "자연에서 관찰되는 요소", "answers": ["해","흙","호수"], "difficulty": "easy" },
+        { "question": "사람의 신체 일부", "answers": ["허리","혀","흉곽"], "difficulty": "easy" },
+        { "question": "사람의 태도나 성향", "answers": ["헌신","호의","희망"], "difficulty": "easy" },
+        { "question": "의사소통이나 표현과 관련된 행위", "answers": ["호소","해명","회신"], "difficulty": "medium" },
+        { "question": "사회적 관계에서 나타나는 상태", "answers": ["협력","화합","회복"], "difficulty": "medium" },
+        { "question": "정보를 다루거나 이해하는 과정", "answers": ["해석","확인","획득"], "difficulty": "medium" },
+        { "question": "조직이나 집단의 운영 방식", "answers": ["합의","협의","할당"], "difficulty": "medium" },
+        { "question": "시간 흐름에 따른 변화", "answers": ["확대","후퇴","회전"], "difficulty": "medium" },
+        { "question": "추상적인 사고나 개념의 틀", "answers": ["현상","형식","흐름"], "difficulty": "hard" },
+        { "question": "행동을 이끄는 내적 요인", "answers": ["확신","희구","호기심"], "difficulty": "hard" },
+        { "question": "사회 전반에 영향을 미치는 요소", "answers": ["환경","흐름성","확산"], "difficulty": "hard" },
+        { "question": "지속성을 가능하게 하는 조건", "answers": ["항구성","회복력","효율성"], "difficulty": "hard" },
+        { "question": "판단이나 선택의 기준", "answers": ["합리성","형평성","효과성"], "difficulty": "hard" }
+      ]
+    }
+  ]
+}
