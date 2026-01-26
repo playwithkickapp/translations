@@ -15,7 +15,6 @@
         { "question": "التحرك نحو هدف محدد", "answers": ["اتجاه","اندفاع","انطلاق"], "difficulty": "easy" },
         { "question": "تقدير الشيء واحترامه", "answers": ["اعتزاز","اكبار","اعزاز"], "difficulty": "easy" },
         { "question": "ما ينتج عن فعل أو حدث", "answers": ["اثر","انعكاس","نتيجة"], "difficulty": "easy" },
-
         { "question": "القدرة على التكيف مع الظروف", "answers": ["انسجام","اندماج","تاقلم"], "difficulty": "medium" },
         { "question": "فهم العلاقات بين الأمور", "answers": ["ارتباط","اعتماد","تلازم"], "difficulty": "medium" },
         { "question": "تحليل فكرة أو موضوع", "answers": ["استقراء","استنتاج","تحليل"], "difficulty": "medium" },
@@ -26,7 +25,6 @@
         { "question": "اتخاذ قرار بعد تفكير", "answers": ["اختيار","ترجيح","حسم"], "difficulty": "medium" },
         { "question": "القدرة على الاستمرار", "answers": ["استمرارية","ثبات","دوام"], "difficulty": "medium" },
         { "question": "تحديد هدف واضح", "answers": ["اعلان","تعيين","تحديد"], "difficulty": "medium" },
-
         { "question": "الأساس الذي تقوم عليه فكرة", "answers": ["اصل","اساس","منطلق"], "difficulty": "hard" },
         { "question": "الترابط المنطقي للأفكار", "answers": ["اتساق","انسجام","تماسك"], "difficulty": "hard" },
         { "question": "القدرة على الحكم السليم", "answers": ["اعتدال","انصاف","حكمة"], "difficulty": "hard" },
@@ -48,7 +46,6 @@
         { "question": "الوضوح في التعبير", "answers": ["بيان","ايضاح","شرح"], "difficulty": "easy" },
         { "question": "التحكم في مجرى الأمور", "answers": ["بسط","سيطرة","ضبط"], "difficulty": "easy" },
         { "question": "الاستقامة في السلوك", "answers": ["بر","نزاهة","استقامة"], "difficulty": "easy" },
-
         { "question": "الأساس التنظيمي لشيء ما", "answers": ["بنية","هيكل","تركيب"], "difficulty": "medium" },
         { "question": "القدرة على الموازنة بين الأمور", "answers": ["توازن","اعتدال","وسطية"], "difficulty": "medium" },
         { "question": "التأثير الإيجابي المتبادل", "answers": ["تبادل","تفاعل","تناغم"], "difficulty": "medium" },
@@ -59,7 +56,6 @@
         { "question": "القدرة على الإقناع بالحجة", "answers": ["برهنة","استدلال","تعليل"], "difficulty": "medium" },
         { "question": "تحديد حدود واضحة", "answers": ["بيان","تحديد","تقييد"], "difficulty": "medium" },
         { "question": "التدرج في التنفيذ", "answers": ["تتابع","تسلسل","مراحل"], "difficulty": "medium" },
-
         { "question": "الأساس المنطقي للحجة", "answers": ["برهان","استدلال","تعليل"], "difficulty": "hard" },
         { "question": "الهيكل المفاهيمي لفكرة", "answers": ["بنية","اطار","نسق"], "difficulty": "hard" },
         { "question": "التكامل بين عناصر متعددة", "answers": ["بناء","تركيب","تأليف"], "difficulty": "hard" },
@@ -81,7 +77,6 @@
         { "question": "الانتقال من حالة لأخرى", "answers": ["تحول","انتقال","نقلة"], "difficulty": "easy" },
         { "question": "تقدير الأمور بدقة", "answers": ["تقييم","تقدير","قياس"], "difficulty": "easy" },
         { "question": "تنفيذ فكرة أو قرار", "answers": ["تطبيق","تنفيذ","انجاز"], "difficulty": "easy" },
-
         { "question": "التفاعل المنظم بين العناصر", "answers": ["تناسق","تناغم","انسجام"], "difficulty": "medium" },
         { "question": "تحديد الأولويات", "answers": ["ترتيب","ترجيح","تنظيم"], "difficulty": "medium" },
         { "question": "فهم النتائج المتوقعة", "answers": ["توقع","استشراف","تنبؤ"], "difficulty": "medium" },
@@ -92,7 +87,6 @@
         { "question": "توجيه العمل نحو هدف", "answers": ["توجيه","ارشاد","تسيير"], "difficulty": "medium" },
         { "question": "اختيار أفضل بديل", "answers": ["ترجيح","اختيار","انتقاء"], "difficulty": "medium" },
         { "question": "تحقيق التوازن", "answers": ["تعادل","توازن","اعتدال"], "difficulty": "medium" },
-
         { "question": "الهيكل المنهجي لفكرة", "answers": ["تنظيم","نسق","بناء"], "difficulty": "hard" },
         { "question": "الانسجام المنطقي للأفكار", "answers": ["تماسك","اتساق","ترابط"], "difficulty": "hard" },
         { "question": "تحويل النظرية إلى ممارسة", "answers": ["تطبيق","تجسيد","تنزيل"], "difficulty": "hard" },
@@ -178,7 +172,6 @@
         { "question": "السمة الجوهرية لشيء ما", "answers": ["خاصية","خَصْلَة","خصوصية"], "difficulty": "medium" },
         { "question": "التفكير المسبق قبل الفعل", "answers": ["خطة","خيار","خِطاب"], "difficulty": "medium" },
         { "question": "الانتقال من حالة إلى أخرى", "answers": ["خروج","تحول","خلاص"], "difficulty": "medium" },
-
         { "question": "الأساس العملي للفهم المتقدم", "answers": ["خبرة","خزانة","خِبرة"], "difficulty": "hard" },
         { "question": "حالة التواضع الذهني العميق", "answers": ["خشوع","خضوع","خلو"], "difficulty": "hard" },
         { "question": "الجوهر الذي يحدد الهوية", "answers": ["خاصية","خصوصية","خَصْلَة"], "difficulty": "hard" },
@@ -195,13 +188,11 @@
         { "question": "الاستمرار الزمني لشيء ما", "answers": ["دوام","ديمومة","دور"], "difficulty": "easy" },
         { "question": "ما يدل على شيء أو يثبته", "answers": ["دليل","دلالة","دَليل"], "difficulty": "easy" },
         { "question": "القيام بعمل بدافع داخلي", "answers": ["دافع","دَفْع","دور"], "difficulty": "easy" },
-
         { "question": "الالتزام المتواصل بعمل معين", "answers": ["دأب","دوام","ديمومة"], "difficulty": "medium" },
         { "question": "القوة التي تحرك السلوك", "answers": ["دافع","دفع","دور"], "difficulty": "medium" },
         { "question": "البرهان المنطقي على صحة أمر", "answers": ["دليل","دلالة","دَليل"], "difficulty": "medium" },
         { "question": "المساندة المنظمة لتحقيق هدف", "answers": ["دعم","دفاع","دفع"], "difficulty": "medium" },
         { "question": "الاستمرارية المنتظمة عبر الزمن", "answers": ["دوام","ديمومة","دأب"], "difficulty": "medium" },
-
         { "question": "الأساس الحُجَجي للحكم", "answers": ["دليل","دلالة","دَليل"], "difficulty": "hard" },
         { "question": "القوة الداخلية الدافعة للتغيير", "answers": ["دافع","دفع","دور"], "difficulty": "hard" },
         { "question": "الاستمرارية طويلة الأمد للنظام", "answers": ["ديمومة","دوام","دأب"], "difficulty": "hard" },
@@ -218,13 +209,11 @@
         { "question": "الانتباه العقلي للأشياء", "answers": ["ذِهن","ذكاء","ذوق"], "difficulty": "easy" },
         { "question": "القدرة على الفهم السريع", "answers": ["ذكاء","ذِهن","ذَكاء"], "difficulty": "easy" },
         { "question": "الإحساس الجمالي السليم", "answers": ["ذوق","ذائقة","ذِوق"], "difficulty": "easy" },
-
         { "question": "تخزين المعلومات في العقل", "answers": ["ذاكرة","ذِكر","ذِهن"], "difficulty": "medium" },
         { "question": "الاستدعاء المتكرر للمعنى", "answers": ["ذِكر","ذِكرى","ذاكرة"], "difficulty": "medium" },
         { "question": "الإدراك العقلي المنظم", "answers": ["ذِهن","ذكاء","ذِكر"], "difficulty": "medium" },
         { "question": "التمييز الحسي للجمال", "answers": ["ذوق","ذائقة","ذِوق"], "difficulty": "medium" },
         { "question": "الفهم المصحوب بسرعة بديهة", "answers": ["ذكاء","ذَكاء","ذِهن"], "difficulty": "medium" },
-
         { "question": "البنية العقلية للتفكير", "answers": ["ذِهن","ذاكرة","ذكاء"], "difficulty": "hard" },
         { "question": "الاستحضار الواعي للمعاني", "answers": ["ذِكر","ذِكرى","ذاكرة"], "difficulty": "hard" },
         { "question": "القدرة الإدراكية التحليلية", "answers": ["ذكاء","ذَكاء","ذِهن"], "difficulty": "hard" },
@@ -854,13 +843,11 @@
         { "question": "الصدق في العهد", "answers": ["وفاء","وعد","وثاق"], "difficulty": "easy" },
         { "question": "القيمة المعنوية الرفيعة", "answers": ["وقار","وثوق","وَثاقة"], "difficulty": "easy" },
         { "question": "الربط الوظيفي", "answers": ["وصل","وِصال","وَصْل"], "difficulty": "easy" },
-
         { "question": "الترابط البنيوي", "answers": ["وِصال","وصل","وَصْل"], "difficulty": "medium" },
         { "question": "الثبات القيمي", "answers": ["وفاء","وثوق","وقار"], "difficulty": "medium" },
         { "question": "الطمأنينة المبنية على ثقة", "answers": ["وثوق","وقار","وَثاقة"], "difficulty": "medium" },
         { "question": "الاستمرارية في العلاقة", "answers": ["وِصال","وصل","وَصْل"], "difficulty": "medium" },
         { "question": "الالتزام الأخلاقي", "answers": ["وفاء","وعد","وثاق"], "difficulty": "medium" },
-
         { "question": "الترابط كخاصية نظامية", "answers": ["وِصال","وصل","وَصْل"], "difficulty": "hard" },
         { "question": "الثقة البنيوية المستقرة", "answers": ["وثوق","وَثاقة","وقار"], "difficulty": "hard" },
         { "question": "الالتزام القيمي طويل الأمد", "answers": ["وفاء","وثاق","وعد"], "difficulty": "hard" },
